@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+     xmlns:content="http://purl.org/rss/1.0/modules/content/"
+     xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>RGUHS MD Pharmacology — Practicals, Narrated</title>
+    <link>https://doctorfetch.github.io/pharma-practicals-podcast/feed.xml</link>
+    <atom:link href="https://doctorfetch.github.io/pharma-practicals-podcast/feed.xml" rel="self" type="application/rss+xml"/>
+    <language>en-in</language>
+    <itunes:author>Dr. Harshad Ramineni</itunes:author>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:type>episodic</itunes:type>
+    <itunes:image href="https://doctorfetch.github.io/pharma-practicals-podcast/cover.png"/>
+    <!-- Spotify and YouTube verify ownership by emailing this address; same owner as the exam show. -->
+    <itunes:owner>
+      <itunes:name>Dr. Harshad Ramineni</itunes:name>
+      <itunes:email>aurapharmlab@gmail.com</itunes:email>
+    </itunes:owner>
+    <itunes:category text="Education">
+      <itunes:category text="Courses"/>
+    </itunes:category>
+    <itunes:category text="Health &amp; Fitness">
+      <itunes:category text="Medicine"/>
+    </itunes:category>
+    <description>Narrated model answers for the RGUHS MD Pharmacology practical examination, kept apart from the theory-exam show. Protocol writing first: eight model protocols, from a phase 2 anxiolytic trial to phase 3 registration programmes, each with its design, sample size, visit schedule, analysis, Indian regulatory and ethics requirements, and viva points. About 3 hours 52 minutes.</description>
+    <itunes:summary>Narrated practical-exam answers for MD Pharmacology. Season 1 is protocol writing.</itunes:summary>
+    <item>
+      <title>Protocol Writing · Q8 · Phase 3 registration studies: new antidiabetic</title>
+      <guid isPermaLink="false">practicals-protocol-writing-q08-registration-antidiabetic</guid>
+      <pubDate>Mon, 08 Jun 2026 06:00:00 GMT</pubDate>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>8</itunes:episode>
+      <itunes:duration>0:31:23</itunes:duration>
+      <itunes:subtitle>Practicals · Clinical Pharmacology · Protocol writing</itunes:subtitle>
+      <description>Phase 3 studies for registration of a new antidiabetic drug. A narrated model answer for the RGUHS MD Pharmacology practical examination: aim, design, population, sample size worked through, visit schedule, endpoints, analysis, ethics and Indian regulatory requirements, then viva points.</description>
+      <enclosure url="https://pub-ef148064c92046b79cd6387190ed03d9.r2.dev/protocol-writing-q08-registration-antidiabetic.mp3" length="15068012" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Protocol Writing · Q7 · Phase 3 registration studies: new drug for rheumatoid arthritis</title>
+      <guid isPermaLink="false">practicals-protocol-writing-q07-registration-rheumatoid-arthritis</guid>
+      <pubDate>Sun, 07 Jun 2026 06:00:00 GMT</pubDate>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>7</itunes:episode>
+      <itunes:duration>0:31:26</itunes:duration>
+      <itunes:subtitle>Practicals · Clinical Pharmacology · Protocol writing</itunes:subtitle>
+      <description>Phase 3 studies for registration of a new drug for rheumatoid arthritis. A narrated model answer for the RGUHS MD Pharmacology practical examination: aim, design, population, sample size worked through, visit schedule, endpoints, analysis, ethics and Indian regulatory requirements, then viva points.</description>
+      <enclosure url="https://pub-ef148064c92046b79cd6387190ed03d9.r2.dev/protocol-writing-q07-registration-rheumatoid-arthritis.mp3" length="15085100" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Protocol Writing · Q6 · Phase 3 registration studies: new antiepileptic</title>
+      <guid isPermaLink="false">practicals-protocol-writing-q06-registration-antiepileptic</guid>
+      <pubDate>Sat, 06 Jun 2026 06:00:00 GMT</pubDate>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>6</itunes:episode>
+      <itunes:duration>0:30:10</itunes:duration>
+      <itunes:subtitle>Practicals · Clinical Pharmacology · Protocol writing</itunes:subtitle>
+      <description>Phase 3 studies for registration of a new antiepileptic drug. A narrated model answer for the RGUHS MD Pharmacology practical examination: aim, design, population, sample size worked through, visit schedule, endpoints, analysis, ethics and Indian regulatory requirements, then viva points.</description>
+      <enclosure url="https://pub-ef148064c92046b79cd6387190ed03d9.r2.dev/protocol-writing-q06-registration-antiepileptic.mp3" length="14477612" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Protocol Writing · Q5 · Phase 3 studies: new antihypertensive</title>
+      <guid isPermaLink="false">practicals-protocol-writing-q05-phase3-antihypertensive</guid>
+      <pubDate>Fri, 05 Jun 2026 06:00:00 GMT</pubDate>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>5</itunes:episode>
+      <itunes:duration>0:30:02</itunes:duration>
+      <itunes:subtitle>Practicals · Clinical Pharmacology · Protocol writing</itunes:subtitle>
+      <description>Phase 3 studies to evaluate the effectiveness and safety of a new antihypertensive drug. A narrated model answer for the RGUHS MD Pharmacology practical examination: aim, design, population, sample size worked through, visit schedule, endpoints, analysis, ethics and Indian regulatory requirements, then viva points.</description>
+      <enclosure url="https://pub-ef148064c92046b79cd6387190ed03d9.r2.dev/protocol-writing-q05-phase3-antihypertensive.mp3" length="14416748" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Protocol Writing · Q4 · Phase 3 add-on trial: new antiepileptic in refractory partial epilepsy</title>
+      <guid isPermaLink="false">practicals-protocol-writing-q04-phase3-adjunctive-epilepsy</guid>
+      <pubDate>Thu, 04 Jun 2026 06:00:00 GMT</pubDate>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>4</itunes:episode>
+      <itunes:duration>0:27:20</itunes:duration>
+      <itunes:subtitle>Practicals · Clinical Pharmacology · Protocol writing</itunes:subtitle>
+      <description>Design a protocol for a phase 3 short term adjuvant therapy trial for a new anti-epileptic drug X in patients with refractory partial epilepsy. A narrated model answer for the RGUHS MD Pharmacology practical examination: aim, design, population, sample size worked through, visit schedule, endpoints, analysis, ethics and Indian regulatory requirements, then viva points.</description>
+      <enclosure url="https://pub-ef148064c92046b79cd6387190ed03d9.r2.dev/protocol-writing-q04-phase3-adjunctive-epilepsy.mp3" length="13120172" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Protocol Writing · Q3 · Phase 3 protocol: new drug for Parkinson's disease</title>
+      <guid isPermaLink="false">practicals-protocol-writing-q03-phase3-parkinsons</guid>
+      <pubDate>Wed, 03 Jun 2026 06:00:00 GMT</pubDate>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>3</itunes:episode>
+      <itunes:duration>0:27:42</itunes:duration>
+      <itunes:subtitle>Practicals · Clinical Pharmacology · Protocol writing</itunes:subtitle>
+      <description>Design a phase 3 protocol for studying safety and efficacy of a new drug X for the treatment of Parkinson's disease. A narrated model answer for the RGUHS MD Pharmacology practical examination: aim, design, population, sample size worked through, visit schedule, endpoints, analysis, ethics and Indian regulatory requirements, then viva points.</description>
+      <enclosure url="https://pub-ef148064c92046b79cd6387190ed03d9.r2.dev/protocol-writing-q03-phase3-parkinsons.mp3" length="13299692" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Protocol Writing · Q2 · Phase 3 protocol: new drug for acute migraine</title>
+      <guid isPermaLink="false">practicals-protocol-writing-q02-phase3-acute-migraine</guid>
+      <pubDate>Tue, 02 Jun 2026 06:00:00 GMT</pubDate>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>2</itunes:episode>
+      <itunes:duration>0:26:21</itunes:duration>
+      <itunes:subtitle>Practicals · Clinical Pharmacology · Protocol writing</itunes:subtitle>
+      <description>Design a phase 3 protocol for evaluating new antimigraine drug X in patients with acute migraine attack. A narrated model answer for the RGUHS MD Pharmacology practical examination: aim, design, population, sample size worked through, visit schedule, endpoints, analysis, ethics and Indian regulatory requirements, then viva points.</description>
+      <enclosure url="https://pub-ef148064c92046b79cd6387190ed03d9.r2.dev/protocol-writing-q02-phase3-acute-migraine.mp3" length="12645356" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Protocol Writing · Q1 · Phase 2 protocol: new antianxiety drug</title>
+      <guid isPermaLink="false">practicals-protocol-writing-q01-phase2-anxiolytic</guid>
+      <pubDate>Mon, 01 Jun 2026 06:00:00 GMT</pubDate>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>1</itunes:episode>
+      <itunes:duration>0:27:30</itunes:duration>
+      <itunes:subtitle>Practicals · Clinical Pharmacology · Protocol writing</itunes:subtitle>
+      <description>Design a phase 2 protocol for evaluating safety and efficacy of new antianxiety drug X in patients with anxiety disorders. A narrated model answer for the RGUHS MD Pharmacology practical examination: aim, design, population, sample size worked through, visit schedule, endpoints, analysis, ethics and Indian regulatory requirements, then viva points.</description>
+      <enclosure url="https://pub-ef148064c92046b79cd6387190ed03d9.r2.dev/protocol-writing-q01-phase2-anxiolytic.mp3" length="13200236" type="audio/mpeg"/>
+    </item>
+  </channel>
+</rss>
