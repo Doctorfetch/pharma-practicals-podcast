@@ -22,8 +22,558 @@
     <itunes:category text="Health &amp; Fitness">
       <itunes:category text="Medicine"/>
     </itunes:category>
-    <description>Narrated model answers for the RGUHS MD Pharmacology practical examination, kept apart from the theory-exam show. Protocol writing first: eight model protocols, from a phase 2 anxiolytic trial to phase 3 registration programmes, each with its design, sample size, visit schedule, analysis, Indian regulatory and ethics requirements, and viva points. About 3 hours 52 minutes.</description>
-    <itunes:summary>Narrated practical-exam answers for MD Pharmacology. Season 1 is protocol writing.</itunes:summary>
+    <description>Narrated model answers for the RGUHS MD Pharmacology practical examination, kept apart from the theory-exam show. Season 1, protocol writing: eight model protocols, from a phase 2 anxiolytic trial to phase 3 registration programmes, each with its design, sample size, visit schedule, analysis, Indian regulatory and ethics requirements, and viva points. Season 2, experimental pharmacology: laboratory animals and ethics, laboratory and sophisticated instruments, and the in vivo experiments of Medhi's Practical Manual, one episode per item. About 12 hours 2 minutes.</description>
+    <itunes:summary>Narrated practical-exam answers for MD Pharmacology. Season 1 is protocol writing; season 2 is experimental pharmacology.</itunes:summary>
+    <item>
+      <title>Experimental Pharmacology · 49 · Effects of drugs on the rabbit eye</title>
+      <guid isPermaLink="false">practicals-experimental-pharmacology-e01-effects-of-drugs-on-the-rabbit-eye</guid>
+      <pubDate>Wed, 19 Aug 2026 06:00:00 GMT</pubDate>
+      <itunes:season>2</itunes:season>
+      <itunes:episode>50</itunes:episode>
+      <itunes:duration>0:10:06</itunes:duration>
+      <itunes:subtitle>Practicals · Experimental pharmacology · Inflammation, local anaesthetics and the eye</itunes:subtitle>
+      <description>Effects of drugs on the rabbit eye. A narrated model answer from the experimental pharmacology book for the RGUHS MD Pharmacology practical examination (Inflammation, local anaesthetics and the eye), from Medhi and Prakash's Practical Manual cross-checked against Ghosh, SK Gupta and Vogel, with its viva points.</description>
+      <enclosure url="https://pub-ef148064c92046b79cd6387190ed03d9.r2.dev/experimental-pharmacology-e01-effects-of-drugs-on-the-rabbit-eye.mp3" length="4844972" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Experimental Pharmacology · 48 · Procaine and the foot-withdrawal reflex of the frog</title>
+      <guid isPermaLink="false">practicals-experimental-pharmacology-l02-procaine-and-the-foot-withdrawal-reflex-of-the-frog</guid>
+      <pubDate>Tue, 18 Aug 2026 06:00:00 GMT</pubDate>
+      <itunes:season>2</itunes:season>
+      <itunes:episode>49</itunes:episode>
+      <itunes:duration>0:07:17</itunes:duration>
+      <itunes:subtitle>Practicals · Experimental pharmacology · Inflammation, local anaesthetics and the eye</itunes:subtitle>
+      <description>Procaine and the foot-withdrawal reflex of the frog. A narrated model answer from the experimental pharmacology book for the RGUHS MD Pharmacology practical examination (Inflammation, local anaesthetics and the eye), from Medhi and Prakash's Practical Manual cross-checked against Ghosh, SK Gupta and Vogel, with its viva points.</description>
+      <enclosure url="https://pub-ef148064c92046b79cd6387190ed03d9.r2.dev/experimental-pharmacology-l02-procaine-and-the-foot-withdrawal-reflex-of-the-frog.mp3" length="3497516" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Experimental Pharmacology · 47 · Local anaesthetic effect in the guinea pig</title>
+      <guid isPermaLink="false">practicals-experimental-pharmacology-l01-local-anaesthetic-effect-in-the-guinea-pig</guid>
+      <pubDate>Mon, 17 Aug 2026 06:00:00 GMT</pubDate>
+      <itunes:season>2</itunes:season>
+      <itunes:episode>48</itunes:episode>
+      <itunes:duration>0:07:44</itunes:duration>
+      <itunes:subtitle>Practicals · Experimental pharmacology · Inflammation, local anaesthetics and the eye</itunes:subtitle>
+      <description>Local anaesthetic effect in the guinea pig. A narrated model answer from the experimental pharmacology book for the RGUHS MD Pharmacology practical examination (Inflammation, local anaesthetics and the eye), from Medhi and Prakash's Practical Manual cross-checked against Ghosh, SK Gupta and Vogel, with its viva points.</description>
+      <enclosure url="https://pub-ef148064c92046b79cd6387190ed03d9.r2.dev/experimental-pharmacology-l01-local-anaesthetic-effect-in-the-guinea-pig.mp3" length="3711212" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Experimental Pharmacology · 46 · Morphine against acetic acid-induced writhing</title>
+      <guid isPermaLink="false">practicals-experimental-pharmacology-a02-morphine-against-acetic-acid-induced-writhing</guid>
+      <pubDate>Sun, 16 Aug 2026 06:00:00 GMT</pubDate>
+      <itunes:season>2</itunes:season>
+      <itunes:episode>47</itunes:episode>
+      <itunes:duration>0:09:48</itunes:duration>
+      <itunes:subtitle>Practicals · Experimental pharmacology · Inflammation, local anaesthetics and the eye</itunes:subtitle>
+      <description>Morphine against acetic acid-induced writhing. A narrated model answer from the experimental pharmacology book for the RGUHS MD Pharmacology practical examination (Inflammation, local anaesthetics and the eye), from Medhi and Prakash's Practical Manual cross-checked against Ghosh, SK Gupta and Vogel, with its viva points.</description>
+      <enclosure url="https://pub-ef148064c92046b79cd6387190ed03d9.r2.dev/experimental-pharmacology-a02-morphine-against-acetic-acid-induced-writhing.mp3" length="4705772" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Experimental Pharmacology · 45 · Indomethacin against carrageenan-induced paw oedema</title>
+      <guid isPermaLink="false">practicals-experimental-pharmacology-a01-indomethacin-against-carrageenan-induced-paw-oedema</guid>
+      <pubDate>Sat, 15 Aug 2026 06:00:00 GMT</pubDate>
+      <itunes:season>2</itunes:season>
+      <itunes:episode>46</itunes:episode>
+      <itunes:duration>0:09:45</itunes:duration>
+      <itunes:subtitle>Practicals · Experimental pharmacology · Inflammation, local anaesthetics and the eye</itunes:subtitle>
+      <description>Indomethacin against carrageenan-induced paw oedema. A narrated model answer from the experimental pharmacology book for the RGUHS MD Pharmacology practical examination (Inflammation, local anaesthetics and the eye), from Medhi and Prakash's Practical Manual cross-checked against Ghosh, SK Gupta and Vogel, with its viva points.</description>
+      <enclosure url="https://pub-ef148064c92046b79cd6387190ed03d9.r2.dev/experimental-pharmacology-a01-indomethacin-against-carrageenan-induced-paw-oedema.mp3" length="4680812" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Experimental Pharmacology · 44 · Collecting bronchoalveolar lavage fluid</title>
+      <guid isPermaLink="false">practicals-experimental-pharmacology-r02-collecting-bronchoalveolar-lavage-fluid</guid>
+      <pubDate>Fri, 14 Aug 2026 06:00:00 GMT</pubDate>
+      <itunes:season>2</itunes:season>
+      <itunes:episode>45</itunes:episode>
+      <itunes:duration>0:07:04</itunes:duration>
+      <itunes:subtitle>Practicals · Experimental pharmacology · Experiments on the heart and circulation, gut and lungs</itunes:subtitle>
+      <description>Collecting bronchoalveolar lavage fluid. A narrated model answer from the experimental pharmacology book for the RGUHS MD Pharmacology practical examination (Experiments on the heart and circulation, gut and lungs), from Medhi and Prakash's Practical Manual cross-checked against Ghosh, SK Gupta and Vogel, with its viva points.</description>
+      <enclosure url="https://pub-ef148064c92046b79cd6387190ed03d9.r2.dev/experimental-pharmacology-r02-collecting-bronchoalveolar-lavage-fluid.mp3" length="3389228" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Experimental Pharmacology · 43 · Respiratory volumes in guinea pigs by body plethysmography</title>
+      <guid isPermaLink="false">practicals-experimental-pharmacology-r01-respiratory-volumes-in-guinea-pigs-by-body-plethysmography</guid>
+      <pubDate>Thu, 13 Aug 2026 06:00:00 GMT</pubDate>
+      <itunes:season>2</itunes:season>
+      <itunes:episode>44</itunes:episode>
+      <itunes:duration>0:10:38</itunes:duration>
+      <itunes:subtitle>Practicals · Experimental pharmacology · Experiments on the heart and circulation, gut and lungs</itunes:subtitle>
+      <description>Respiratory volumes in guinea pigs by body plethysmography. A narrated model answer from the experimental pharmacology book for the RGUHS MD Pharmacology practical examination (Experiments on the heart and circulation, gut and lungs), from Medhi and Prakash's Practical Manual cross-checked against Ghosh, SK Gupta and Vogel, with its viva points.</description>
+      <enclosure url="https://pub-ef148064c92046b79cd6387190ed03d9.r2.dev/experimental-pharmacology-r01-respiratory-volumes-in-guinea-pigs-by-body-plethysmography.mp3" length="5101484" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Experimental Pharmacology · 42 · TNBS-induced colitis in rats</title>
+      <guid isPermaLink="false">practicals-experimental-pharmacology-g03-tnbs-induced-colitis-in-rats</guid>
+      <pubDate>Wed, 12 Aug 2026 06:00:00 GMT</pubDate>
+      <itunes:season>2</itunes:season>
+      <itunes:episode>43</itunes:episode>
+      <itunes:duration>0:09:51</itunes:duration>
+      <itunes:subtitle>Practicals · Experimental pharmacology · Experiments on the heart and circulation, gut and lungs</itunes:subtitle>
+      <description>TNBS-induced colitis in rats. A narrated model answer from the experimental pharmacology book for the RGUHS MD Pharmacology practical examination (Experiments on the heart and circulation, gut and lungs), from Medhi and Prakash's Practical Manual cross-checked against Ghosh, SK Gupta and Vogel, with its viva points.</description>
+      <enclosure url="https://pub-ef148064c92046b79cd6387190ed03d9.r2.dev/experimental-pharmacology-g03-tnbs-induced-colitis-in-rats.mp3" length="4726700" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Experimental Pharmacology · 41 · Caerulein-induced acute pancreatitis in rats</title>
+      <guid isPermaLink="false">practicals-experimental-pharmacology-g02-caerulein-induced-acute-pancreatitis-in-rats</guid>
+      <pubDate>Tue, 11 Aug 2026 06:00:00 GMT</pubDate>
+      <itunes:season>2</itunes:season>
+      <itunes:episode>42</itunes:episode>
+      <itunes:duration>0:08:15</itunes:duration>
+      <itunes:subtitle>Practicals · Experimental pharmacology · Experiments on the heart and circulation, gut and lungs</itunes:subtitle>
+      <description>Caerulein-induced acute pancreatitis in rats. A narrated model answer from the experimental pharmacology book for the RGUHS MD Pharmacology practical examination (Experiments on the heart and circulation, gut and lungs), from Medhi and Prakash's Practical Manual cross-checked against Ghosh, SK Gupta and Vogel, with its viva points.</description>
+      <enclosure url="https://pub-ef148064c92046b79cd6387190ed03d9.r2.dev/experimental-pharmacology-g02-caerulein-induced-acute-pancreatitis-in-rats.mp3" length="3959468" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Experimental Pharmacology · 40 · Experimental gastric ulcer models</title>
+      <guid isPermaLink="false">practicals-experimental-pharmacology-g01-experimental-gastric-ulcer-models</guid>
+      <pubDate>Mon, 10 Aug 2026 06:00:00 GMT</pubDate>
+      <itunes:season>2</itunes:season>
+      <itunes:episode>41</itunes:episode>
+      <itunes:duration>0:12:00</itunes:duration>
+      <itunes:subtitle>Practicals · Experimental pharmacology · Experiments on the heart and circulation, gut and lungs</itunes:subtitle>
+      <description>Experimental gastric ulcer models. A narrated model answer from the experimental pharmacology book for the RGUHS MD Pharmacology practical examination (Experiments on the heart and circulation, gut and lungs), from Medhi and Prakash's Practical Manual cross-checked against Ghosh, SK Gupta and Vogel, with its viva points.</description>
+      <enclosure url="https://pub-ef148064c92046b79cd6387190ed03d9.r2.dev/experimental-pharmacology-g01-experimental-gastric-ulcer-models.mp3" length="5758508" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Experimental Pharmacology · 39 · Ferric chloride-induced thrombosis in rats</title>
+      <guid isPermaLink="false">practicals-experimental-pharmacology-v05-ferric-chloride-induced-thrombosis-in-rats</guid>
+      <pubDate>Sun, 09 Aug 2026 06:00:00 GMT</pubDate>
+      <itunes:season>2</itunes:season>
+      <itunes:episode>40</itunes:episode>
+      <itunes:duration>0:08:13</itunes:duration>
+      <itunes:subtitle>Practicals · Experimental pharmacology · Experiments on the heart and circulation, gut and lungs</itunes:subtitle>
+      <description>Ferric chloride-induced thrombosis in rats. A narrated model answer from the experimental pharmacology book for the RGUHS MD Pharmacology practical examination (Experiments on the heart and circulation, gut and lungs), from Medhi and Prakash's Practical Manual cross-checked against Ghosh, SK Gupta and Vogel, with its viva points.</description>
+      <enclosure url="https://pub-ef148064c92046b79cd6387190ed03d9.r2.dev/experimental-pharmacology-v05-ferric-chloride-induced-thrombosis-in-rats.mp3" length="3940076" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Experimental Pharmacology · 38 · DOCA-salt hypertension in rats</title>
+      <guid isPermaLink="false">practicals-experimental-pharmacology-v04-doca-salt-hypertension-in-rats</guid>
+      <pubDate>Sat, 08 Aug 2026 06:00:00 GMT</pubDate>
+      <itunes:season>2</itunes:season>
+      <itunes:episode>39</itunes:episode>
+      <itunes:duration>0:09:25</itunes:duration>
+      <itunes:subtitle>Practicals · Experimental pharmacology · Experiments on the heart and circulation, gut and lungs</itunes:subtitle>
+      <description>DOCA-salt hypertension in rats. A narrated model answer from the experimental pharmacology book for the RGUHS MD Pharmacology practical examination (Experiments on the heart and circulation, gut and lungs), from Medhi and Prakash's Practical Manual cross-checked against Ghosh, SK Gupta and Vogel, with its viva points.</description>
+      <enclosure url="https://pub-ef148064c92046b79cd6387190ed03d9.r2.dev/experimental-pharmacology-v04-doca-salt-hypertension-in-rats.mp3" length="4517996" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Experimental Pharmacology · 37 · Isoproterenol-induced myocardial infarction in rats</title>
+      <guid isPermaLink="false">practicals-experimental-pharmacology-v03-isoproterenol-induced-myocardial-infarction-in-rats</guid>
+      <pubDate>Fri, 07 Aug 2026 06:00:00 GMT</pubDate>
+      <itunes:season>2</itunes:season>
+      <itunes:episode>38</itunes:episode>
+      <itunes:duration>0:09:41</itunes:duration>
+      <itunes:subtitle>Practicals · Experimental pharmacology · Experiments on the heart and circulation, gut and lungs</itunes:subtitle>
+      <description>Isoproterenol-induced myocardial infarction in rats. A narrated model answer from the experimental pharmacology book for the RGUHS MD Pharmacology practical examination (Experiments on the heart and circulation, gut and lungs), from Medhi and Prakash's Practical Manual cross-checked against Ghosh, SK Gupta and Vogel, with its viva points.</description>
+      <enclosure url="https://pub-ef148064c92046b79cd6387190ed03d9.r2.dev/experimental-pharmacology-v03-isoproterenol-induced-myocardial-infarction-in-rats.mp3" length="4651628" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Experimental Pharmacology · 36 · Recording the ECG in rats and mice</title>
+      <guid isPermaLink="false">practicals-experimental-pharmacology-v02-recording-the-ecg-in-rats-and-mice</guid>
+      <pubDate>Thu, 06 Aug 2026 06:00:00 GMT</pubDate>
+      <itunes:season>2</itunes:season>
+      <itunes:episode>37</itunes:episode>
+      <itunes:duration>0:07:47</itunes:duration>
+      <itunes:subtitle>Practicals · Experimental pharmacology · Experiments on the heart and circulation, gut and lungs</itunes:subtitle>
+      <description>Recording the ECG in rats and mice. A narrated model answer from the experimental pharmacology book for the RGUHS MD Pharmacology practical examination (Experiments on the heart and circulation, gut and lungs), from Medhi and Prakash's Practical Manual cross-checked against Ghosh, SK Gupta and Vogel, with its viva points.</description>
+      <enclosure url="https://pub-ef148064c92046b79cd6387190ed03d9.r2.dev/experimental-pharmacology-v02-recording-the-ecg-in-rats-and-mice.mp3" length="3735212" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Experimental Pharmacology · 35 · Recording blood pressure in rats</title>
+      <guid isPermaLink="false">practicals-experimental-pharmacology-v01-recording-blood-pressure-in-rats</guid>
+      <pubDate>Wed, 05 Aug 2026 06:00:00 GMT</pubDate>
+      <itunes:season>2</itunes:season>
+      <itunes:episode>36</itunes:episode>
+      <itunes:duration>0:10:19</itunes:duration>
+      <itunes:subtitle>Practicals · Experimental pharmacology · Experiments on the heart and circulation, gut and lungs</itunes:subtitle>
+      <description>Recording blood pressure in rats. A narrated model answer from the experimental pharmacology book for the RGUHS MD Pharmacology practical examination (Experiments on the heart and circulation, gut and lungs), from Medhi and Prakash's Practical Manual cross-checked against Ghosh, SK Gupta and Vogel, with its viva points.</description>
+      <enclosure url="https://pub-ef148064c92046b79cd6387190ed03d9.r2.dev/experimental-pharmacology-v01-recording-blood-pressure-in-rats.mp3" length="4953452" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Experimental Pharmacology · 34 · Partial global cerebral ischaemia in mice</title>
+      <guid isPermaLink="false">practicals-experimental-pharmacology-c12-partial-global-cerebral-ischaemia-in-mice</guid>
+      <pubDate>Tue, 04 Aug 2026 06:00:00 GMT</pubDate>
+      <itunes:season>2</itunes:season>
+      <itunes:episode>35</itunes:episode>
+      <itunes:duration>0:10:08</itunes:duration>
+      <itunes:subtitle>Practicals · Experimental pharmacology · Experiments on the central nervous system</itunes:subtitle>
+      <description>Partial global cerebral ischaemia in mice. A narrated model answer from the experimental pharmacology book for the RGUHS MD Pharmacology practical examination (Experiments on the central nervous system), from Medhi and Prakash's Practical Manual cross-checked against Ghosh, SK Gupta and Vogel, with its viva points.</description>
+      <enclosure url="https://pub-ef148064c92046b79cd6387190ed03d9.r2.dev/experimental-pharmacology-c12-partial-global-cerebral-ischaemia-in-mice.mp3" length="4867052" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Experimental Pharmacology · 33 · Analgesic effect of morphine by the hot plate and tail flick methods</title>
+      <guid isPermaLink="false">practicals-experimental-pharmacology-c11-analgesic-effect-of-morphine-by-the-hot-plate-and-tail-flick</guid>
+      <pubDate>Mon, 03 Aug 2026 06:00:00 GMT</pubDate>
+      <itunes:season>2</itunes:season>
+      <itunes:episode>34</itunes:episode>
+      <itunes:duration>0:10:03</itunes:duration>
+      <itunes:subtitle>Practicals · Experimental pharmacology · Experiments on the central nervous system</itunes:subtitle>
+      <description>Analgesic effect of morphine by the hot plate and tail flick methods. A narrated model answer from the experimental pharmacology book for the RGUHS MD Pharmacology practical examination (Experiments on the central nervous system), from Medhi and Prakash's Practical Manual cross-checked against Ghosh, SK Gupta and Vogel, with its viva points.</description>
+      <enclosure url="https://pub-ef148064c92046b79cd6387190ed03d9.r2.dev/experimental-pharmacology-c11-analgesic-effect-of-morphine-by-the-hot-plate-and-tail-flick.mp3" length="4821356" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Experimental Pharmacology · 32 · Morphine and the Straub tail reaction</title>
+      <guid isPermaLink="false">practicals-experimental-pharmacology-c10-morphine-and-the-straub-tail-reaction</guid>
+      <pubDate>Sun, 02 Aug 2026 06:00:00 GMT</pubDate>
+      <itunes:season>2</itunes:season>
+      <itunes:episode>33</itunes:episode>
+      <itunes:duration>0:07:47</itunes:duration>
+      <itunes:subtitle>Practicals · Experimental pharmacology · Experiments on the central nervous system</itunes:subtitle>
+      <description>Morphine and the Straub tail reaction. A narrated model answer from the experimental pharmacology book for the RGUHS MD Pharmacology practical examination (Experiments on the central nervous system), from Medhi and Prakash's Practical Manual cross-checked against Ghosh, SK Gupta and Vogel, with its viva points.</description>
+      <enclosure url="https://pub-ef148064c92046b79cd6387190ed03d9.r2.dev/experimental-pharmacology-c10-morphine-and-the-straub-tail-reaction.mp3" length="3732140" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Experimental Pharmacology · 31 · Haloperidol-induced catatonia in rats</title>
+      <guid isPermaLink="false">practicals-experimental-pharmacology-c09-haloperidol-induced-catatonia-in-rats</guid>
+      <pubDate>Sat, 01 Aug 2026 06:00:00 GMT</pubDate>
+      <itunes:season>2</itunes:season>
+      <itunes:episode>32</itunes:episode>
+      <itunes:duration>0:09:29</itunes:duration>
+      <itunes:subtitle>Practicals · Experimental pharmacology · Experiments on the central nervous system</itunes:subtitle>
+      <description>Haloperidol-induced catatonia in rats. A narrated model answer from the experimental pharmacology book for the RGUHS MD Pharmacology practical examination (Experiments on the central nervous system), from Medhi and Prakash's Practical Manual cross-checked against Ghosh, SK Gupta and Vogel, with its viva points.</description>
+      <enclosure url="https://pub-ef148064c92046b79cd6387190ed03d9.r2.dev/experimental-pharmacology-c09-haloperidol-induced-catatonia-in-rats.mp3" length="4551020" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Experimental Pharmacology · 30 · Phenytoin against maximal electroshock convulsions in rats</title>
+      <guid isPermaLink="false">practicals-experimental-pharmacology-c08-phenytoin-against-maximal-electroshock-convulsions-in-rats</guid>
+      <pubDate>Fri, 31 Jul 2026 06:00:00 GMT</pubDate>
+      <itunes:season>2</itunes:season>
+      <itunes:episode>31</itunes:episode>
+      <itunes:duration>0:10:38</itunes:duration>
+      <itunes:subtitle>Practicals · Experimental pharmacology · Experiments on the central nervous system</itunes:subtitle>
+      <description>Phenytoin against maximal electroshock convulsions in rats. A narrated model answer from the experimental pharmacology book for the RGUHS MD Pharmacology practical examination (Experiments on the central nervous system), from Medhi and Prakash's Practical Manual cross-checked against Ghosh, SK Gupta and Vogel, with its viva points.</description>
+      <enclosure url="https://pub-ef148064c92046b79cd6387190ed03d9.r2.dev/experimental-pharmacology-c08-phenytoin-against-maximal-electroshock-convulsions-in-rats.mp3" length="5103596" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Experimental Pharmacology · 29 · Diazepam against pentylenetetrazole kindling in rats</title>
+      <guid isPermaLink="false">practicals-experimental-pharmacology-c07-diazepam-against-pentylenetetrazole-kindling-in-rats</guid>
+      <pubDate>Thu, 30 Jul 2026 06:00:00 GMT</pubDate>
+      <itunes:season>2</itunes:season>
+      <itunes:episode>30</itunes:episode>
+      <itunes:duration>0:09:24</itunes:duration>
+      <itunes:subtitle>Practicals · Experimental pharmacology · Experiments on the central nervous system</itunes:subtitle>
+      <description>Diazepam against pentylenetetrazole kindling in rats. A narrated model answer from the experimental pharmacology book for the RGUHS MD Pharmacology practical examination (Experiments on the central nervous system), from Medhi and Prakash's Practical Manual cross-checked against Ghosh, SK Gupta and Vogel, with its viva points.</description>
+      <enclosure url="https://pub-ef148064c92046b79cd6387190ed03d9.r2.dev/experimental-pharmacology-c07-diazepam-against-pentylenetetrazole-kindling-in-rats.mp3" length="4512236" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Experimental Pharmacology · 28 · Diazepam against pentylenetetrazole-induced convulsions in mice</title>
+      <guid isPermaLink="false">practicals-experimental-pharmacology-c06-diazepam-against-pentylenetetrazole-induced-convulsions-in-m</guid>
+      <pubDate>Wed, 29 Jul 2026 06:00:00 GMT</pubDate>
+      <itunes:season>2</itunes:season>
+      <itunes:episode>29</itunes:episode>
+      <itunes:duration>0:09:26</itunes:duration>
+      <itunes:subtitle>Practicals · Experimental pharmacology · Experiments on the central nervous system</itunes:subtitle>
+      <description>Diazepam against pentylenetetrazole-induced convulsions in mice. A narrated model answer from the experimental pharmacology book for the RGUHS MD Pharmacology practical examination (Experiments on the central nervous system), from Medhi and Prakash's Practical Manual cross-checked against Ghosh, SK Gupta and Vogel, with its viva points.</description>
+      <enclosure url="https://pub-ef148064c92046b79cd6387190ed03d9.r2.dev/experimental-pharmacology-c06-diazepam-against-pentylenetetrazole-induced-convulsions-in-m.mp3" length="4525292" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Experimental Pharmacology · 27 · Amnesic effect of diazepam in the Morris water maze in rats</title>
+      <guid isPermaLink="false">practicals-experimental-pharmacology-c05-amnesic-effect-of-diazepam-in-the-morris-water-maze-in-rats</guid>
+      <pubDate>Tue, 28 Jul 2026 06:00:00 GMT</pubDate>
+      <itunes:season>2</itunes:season>
+      <itunes:episode>28</itunes:episode>
+      <itunes:duration>0:09:58</itunes:duration>
+      <itunes:subtitle>Practicals · Experimental pharmacology · Experiments on the central nervous system</itunes:subtitle>
+      <description>Amnesic effect of diazepam in the Morris water maze in rats. A narrated model answer from the experimental pharmacology book for the RGUHS MD Pharmacology practical examination (Experiments on the central nervous system), from Medhi and Prakash's Practical Manual cross-checked against Ghosh, SK Gupta and Vogel, with its viva points.</description>
+      <enclosure url="https://pub-ef148064c92046b79cd6387190ed03d9.r2.dev/experimental-pharmacology-c05-amnesic-effect-of-diazepam-in-the-morris-water-maze-in-rats.mp3" length="4783724" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Experimental Pharmacology · 26 · Anxiolytic effect of diazepam on the elevated plus maze in rats</title>
+      <guid isPermaLink="false">practicals-experimental-pharmacology-c04-anxiolytic-effect-of-diazepam-on-the-elevated-plus-maze-in-r</guid>
+      <pubDate>Mon, 27 Jul 2026 06:00:00 GMT</pubDate>
+      <itunes:season>2</itunes:season>
+      <itunes:episode>27</itunes:episode>
+      <itunes:duration>0:10:30</itunes:duration>
+      <itunes:subtitle>Practicals · Experimental pharmacology · Experiments on the central nervous system</itunes:subtitle>
+      <description>Anxiolytic effect of diazepam on the elevated plus maze in rats. A narrated model answer from the experimental pharmacology book for the RGUHS MD Pharmacology practical examination (Experiments on the central nervous system), from Medhi and Prakash's Practical Manual cross-checked against Ghosh, SK Gupta and Vogel, with its viva points.</description>
+      <enclosure url="https://pub-ef148064c92046b79cd6387190ed03d9.r2.dev/experimental-pharmacology-c04-anxiolytic-effect-of-diazepam-on-the-elevated-plus-maze-in-r.mp3" length="5043116" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Experimental Pharmacology · 25 · Muscle relaxant effect of diazepam in the chimney test in mice</title>
+      <guid isPermaLink="false">practicals-experimental-pharmacology-c03-muscle-relaxant-effect-of-diazepam-in-the-chimney-test-in-mi</guid>
+      <pubDate>Sun, 26 Jul 2026 06:00:00 GMT</pubDate>
+      <itunes:season>2</itunes:season>
+      <itunes:episode>26</itunes:episode>
+      <itunes:duration>0:08:10</itunes:duration>
+      <itunes:subtitle>Practicals · Experimental pharmacology · Experiments on the central nervous system</itunes:subtitle>
+      <description>Muscle relaxant effect of diazepam in the chimney test in mice. A narrated model answer from the experimental pharmacology book for the RGUHS MD Pharmacology practical examination (Experiments on the central nervous system), from Medhi and Prakash's Practical Manual cross-checked against Ghosh, SK Gupta and Vogel, with its viva points.</description>
+      <enclosure url="https://pub-ef148064c92046b79cd6387190ed03d9.r2.dev/experimental-pharmacology-c03-muscle-relaxant-effect-of-diazepam-in-the-chimney-test-in-mi.mp3" length="3918188" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Experimental Pharmacology · 24 · Muscle relaxant effect of diazepam on the rota-rod in mice</title>
+      <guid isPermaLink="false">practicals-experimental-pharmacology-c02-muscle-relaxant-effect-of-diazepam-on-the-rota-rod-in-mice</guid>
+      <pubDate>Sat, 25 Jul 2026 06:00:00 GMT</pubDate>
+      <itunes:season>2</itunes:season>
+      <itunes:episode>25</itunes:episode>
+      <itunes:duration>0:08:37</itunes:duration>
+      <itunes:subtitle>Practicals · Experimental pharmacology · Experiments on the central nervous system</itunes:subtitle>
+      <description>Muscle relaxant effect of diazepam on the rota-rod in mice. A narrated model answer from the experimental pharmacology book for the RGUHS MD Pharmacology practical examination (Experiments on the central nervous system), from Medhi and Prakash's Practical Manual cross-checked against Ghosh, SK Gupta and Vogel, with its viva points.</description>
+      <enclosure url="https://pub-ef148064c92046b79cd6387190ed03d9.r2.dev/experimental-pharmacology-c02-muscle-relaxant-effect-of-diazepam-on-the-rota-rod-in-mice.mp3" length="4139180" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Experimental Pharmacology · 23 · Pentobarbital and the righting reflex (hypnosis) in mice</title>
+      <guid isPermaLink="false">practicals-experimental-pharmacology-c01-pentobarbital-and-the-righting-reflex-hypnosis-in-mice</guid>
+      <pubDate>Fri, 24 Jul 2026 06:00:00 GMT</pubDate>
+      <itunes:season>2</itunes:season>
+      <itunes:episode>24</itunes:episode>
+      <itunes:duration>0:09:36</itunes:duration>
+      <itunes:subtitle>Practicals · Experimental pharmacology · Experiments on the central nervous system</itunes:subtitle>
+      <description>Pentobarbital and the righting reflex (hypnosis) in mice. A narrated model answer from the experimental pharmacology book for the RGUHS MD Pharmacology practical examination (Experiments on the central nervous system), from Medhi and Prakash's Practical Manual cross-checked against Ghosh, SK Gupta and Vogel, with its viva points.</description>
+      <enclosure url="https://pub-ef148064c92046b79cd6387190ed03d9.r2.dev/experimental-pharmacology-c01-pentobarbital-and-the-righting-reflex-hypnosis-in-mice.mp3" length="4605548" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Experimental Pharmacology · 22 · Telemetry</title>
+      <guid isPermaLink="false">practicals-experimental-pharmacology-s04-telemetry</guid>
+      <pubDate>Thu, 23 Jul 2026 06:00:00 GMT</pubDate>
+      <itunes:season>2</itunes:season>
+      <itunes:episode>23</itunes:episode>
+      <itunes:duration>0:09:43</itunes:duration>
+      <itunes:subtitle>Practicals · Experimental pharmacology · Sophisticated instruments</itunes:subtitle>
+      <description>Telemetry. A narrated model answer from the experimental pharmacology book for the RGUHS MD Pharmacology practical examination (Sophisticated instruments), from Medhi and Prakash's Practical Manual cross-checked against Ghosh, SK Gupta and Vogel, with its viva points.</description>
+      <enclosure url="https://pub-ef148064c92046b79cd6387190ed03d9.r2.dev/experimental-pharmacology-s04-telemetry.mp3" length="4666988" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Experimental Pharmacology · 21 · Polymerase chain reaction (PCR)</title>
+      <guid isPermaLink="false">practicals-experimental-pharmacology-s03-polymerase-chain-reaction-pcr</guid>
+      <pubDate>Wed, 22 Jul 2026 06:00:00 GMT</pubDate>
+      <itunes:season>2</itunes:season>
+      <itunes:episode>22</itunes:episode>
+      <itunes:duration>0:11:11</itunes:duration>
+      <itunes:subtitle>Practicals · Experimental pharmacology · Sophisticated instruments</itunes:subtitle>
+      <description>Polymerase chain reaction (PCR). A narrated model answer from the experimental pharmacology book for the RGUHS MD Pharmacology practical examination (Sophisticated instruments), from Medhi and Prakash's Practical Manual cross-checked against Ghosh, SK Gupta and Vogel, with its viva points.</description>
+      <enclosure url="https://pub-ef148064c92046b79cd6387190ed03d9.r2.dev/experimental-pharmacology-s03-polymerase-chain-reaction-pcr.mp3" length="5369132" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Experimental Pharmacology · 20 · High-performance liquid chromatography (HPLC)</title>
+      <guid isPermaLink="false">practicals-experimental-pharmacology-s02-high-performance-liquid-chromatography-hplc</guid>
+      <pubDate>Tue, 21 Jul 2026 06:00:00 GMT</pubDate>
+      <itunes:season>2</itunes:season>
+      <itunes:episode>21</itunes:episode>
+      <itunes:duration>0:11:19</itunes:duration>
+      <itunes:subtitle>Practicals · Experimental pharmacology · Sophisticated instruments</itunes:subtitle>
+      <description>High-performance liquid chromatography (HPLC). A narrated model answer from the experimental pharmacology book for the RGUHS MD Pharmacology practical examination (Sophisticated instruments), from Medhi and Prakash's Practical Manual cross-checked against Ghosh, SK Gupta and Vogel, with its viva points.</description>
+      <enclosure url="https://pub-ef148064c92046b79cd6387190ed03d9.r2.dev/experimental-pharmacology-s02-high-performance-liquid-chromatography-hplc.mp3" length="5428652" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Experimental Pharmacology · 19 · Centrifuge</title>
+      <guid isPermaLink="false">practicals-experimental-pharmacology-s01-centrifuge</guid>
+      <pubDate>Mon, 20 Jul 2026 06:00:00 GMT</pubDate>
+      <itunes:season>2</itunes:season>
+      <itunes:episode>20</itunes:episode>
+      <itunes:duration>0:10:53</itunes:duration>
+      <itunes:subtitle>Practicals · Experimental pharmacology · Sophisticated instruments</itunes:subtitle>
+      <description>Centrifuge. A narrated model answer from the experimental pharmacology book for the RGUHS MD Pharmacology practical examination (Sophisticated instruments), from Medhi and Prakash's Practical Manual cross-checked against Ghosh, SK Gupta and Vogel, with its viva points.</description>
+      <enclosure url="https://pub-ef148064c92046b79cd6387190ed03d9.r2.dev/experimental-pharmacology-s01-centrifuge.mp3" length="5226668" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Experimental Pharmacology · 18 · Body plethysmograph and paw plethysmometer</title>
+      <guid isPermaLink="false">practicals-experimental-pharmacology-i12-body-plethysmograph-and-paw-plethysmometer</guid>
+      <pubDate>Sun, 19 Jul 2026 06:00:00 GMT</pubDate>
+      <itunes:season>2</itunes:season>
+      <itunes:episode>19</itunes:episode>
+      <itunes:duration>0:10:08</itunes:duration>
+      <itunes:subtitle>Practicals · Experimental pharmacology · Laboratory instruments</itunes:subtitle>
+      <description>Body plethysmograph and paw plethysmometer. A narrated model answer from the experimental pharmacology book for the RGUHS MD Pharmacology practical examination (Laboratory instruments), from Medhi and Prakash's Practical Manual cross-checked against Ghosh, SK Gupta and Vogel, with its viva points.</description>
+      <enclosure url="https://pub-ef148064c92046b79cd6387190ed03d9.r2.dev/experimental-pharmacology-i12-body-plethysmograph-and-paw-plethysmometer.mp3" length="4865516" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Experimental Pharmacology · 17 · Electrolyte analyser</title>
+      <guid isPermaLink="false">practicals-experimental-pharmacology-i11-electrolyte-analyser</guid>
+      <pubDate>Sat, 18 Jul 2026 06:00:00 GMT</pubDate>
+      <itunes:season>2</itunes:season>
+      <itunes:episode>18</itunes:episode>
+      <itunes:duration>0:07:27</itunes:duration>
+      <itunes:subtitle>Practicals · Experimental pharmacology · Laboratory instruments</itunes:subtitle>
+      <description>Electrolyte analyser. A narrated model answer from the experimental pharmacology book for the RGUHS MD Pharmacology practical examination (Laboratory instruments), from Medhi and Prakash's Practical Manual cross-checked against Ghosh, SK Gupta and Vogel, with its viva points.</description>
+      <enclosure url="https://pub-ef148064c92046b79cd6387190ed03d9.r2.dev/experimental-pharmacology-i11-electrolyte-analyser.mp3" length="3572972" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Experimental Pharmacology · 16 · Non-invasive (tail-cuff) blood pressure apparatus</title>
+      <guid isPermaLink="false">practicals-experimental-pharmacology-i10-non-invasive-tail-cuff-blood-pressure-apparatus</guid>
+      <pubDate>Fri, 17 Jul 2026 06:00:00 GMT</pubDate>
+      <itunes:season>2</itunes:season>
+      <itunes:episode>17</itunes:episode>
+      <itunes:duration>0:08:56</itunes:duration>
+      <itunes:subtitle>Practicals · Experimental pharmacology · Laboratory instruments</itunes:subtitle>
+      <description>Non-invasive (tail-cuff) blood pressure apparatus. A narrated model answer from the experimental pharmacology book for the RGUHS MD Pharmacology practical examination (Laboratory instruments), from Medhi and Prakash's Practical Manual cross-checked against Ghosh, SK Gupta and Vogel, with its viva points.</description>
+      <enclosure url="https://pub-ef148064c92046b79cd6387190ed03d9.r2.dev/experimental-pharmacology-i10-non-invasive-tail-cuff-blood-pressure-apparatus.mp3" length="4289900" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Experimental Pharmacology · 15 · Rota-rod and chimney-test apparatus</title>
+      <guid isPermaLink="false">practicals-experimental-pharmacology-i09-rota-rod-and-chimney-test-apparatus</guid>
+      <pubDate>Thu, 16 Jul 2026 06:00:00 GMT</pubDate>
+      <itunes:season>2</itunes:season>
+      <itunes:episode>16</itunes:episode>
+      <itunes:duration>0:09:22</itunes:duration>
+      <itunes:subtitle>Practicals · Experimental pharmacology · Laboratory instruments</itunes:subtitle>
+      <description>Rota-rod and chimney-test apparatus. A narrated model answer from the experimental pharmacology book for the RGUHS MD Pharmacology practical examination (Laboratory instruments), from Medhi and Prakash's Practical Manual cross-checked against Ghosh, SK Gupta and Vogel, with its viva points.</description>
+      <enclosure url="https://pub-ef148064c92046b79cd6387190ed03d9.r2.dev/experimental-pharmacology-i09-rota-rod-and-chimney-test-apparatus.mp3" length="4498604" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Experimental Pharmacology · 14 · Passive avoidance apparatus (shuttle box)</title>
+      <guid isPermaLink="false">practicals-experimental-pharmacology-i08-passive-avoidance-apparatus-shuttle-box</guid>
+      <pubDate>Wed, 15 Jul 2026 06:00:00 GMT</pubDate>
+      <itunes:season>2</itunes:season>
+      <itunes:episode>15</itunes:episode>
+      <itunes:duration>0:09:04</itunes:duration>
+      <itunes:subtitle>Practicals · Experimental pharmacology · Laboratory instruments</itunes:subtitle>
+      <description>Passive avoidance apparatus (shuttle box). A narrated model answer from the experimental pharmacology book for the RGUHS MD Pharmacology practical examination (Laboratory instruments), from Medhi and Prakash's Practical Manual cross-checked against Ghosh, SK Gupta and Vogel, with its viva points.</description>
+      <enclosure url="https://pub-ef148064c92046b79cd6387190ed03d9.r2.dev/experimental-pharmacology-i08-passive-avoidance-apparatus-shuttle-box.mp3" length="4354796" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Experimental Pharmacology · 13 · Morris water maze</title>
+      <guid isPermaLink="false">practicals-experimental-pharmacology-i07-morris-water-maze</guid>
+      <pubDate>Tue, 14 Jul 2026 06:00:00 GMT</pubDate>
+      <itunes:season>2</itunes:season>
+      <itunes:episode>14</itunes:episode>
+      <itunes:duration>0:09:07</itunes:duration>
+      <itunes:subtitle>Practicals · Experimental pharmacology · Laboratory instruments</itunes:subtitle>
+      <description>Morris water maze. A narrated model answer from the experimental pharmacology book for the RGUHS MD Pharmacology practical examination (Laboratory instruments), from Medhi and Prakash's Practical Manual cross-checked against Ghosh, SK Gupta and Vogel, with its viva points.</description>
+      <enclosure url="https://pub-ef148064c92046b79cd6387190ed03d9.r2.dev/experimental-pharmacology-i07-morris-water-maze.mp3" length="4372076" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Experimental Pharmacology · 12 · Elevated plus maze</title>
+      <guid isPermaLink="false">practicals-experimental-pharmacology-i06-elevated-plus-maze</guid>
+      <pubDate>Mon, 13 Jul 2026 06:00:00 GMT</pubDate>
+      <itunes:season>2</itunes:season>
+      <itunes:episode>13</itunes:episode>
+      <itunes:duration>0:09:25</itunes:duration>
+      <itunes:subtitle>Practicals · Experimental pharmacology · Laboratory instruments</itunes:subtitle>
+      <description>Elevated plus maze. A narrated model answer from the experimental pharmacology book for the RGUHS MD Pharmacology practical examination (Laboratory instruments), from Medhi and Prakash's Practical Manual cross-checked against Ghosh, SK Gupta and Vogel, with its viva points.</description>
+      <enclosure url="https://pub-ef148064c92046b79cd6387190ed03d9.r2.dev/experimental-pharmacology-i06-elevated-plus-maze.mp3" length="4519148" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Experimental Pharmacology · 11 · Convulsiometer for maximal electroshock seizures</title>
+      <guid isPermaLink="false">practicals-experimental-pharmacology-i05-convulsiometer-for-maximal-electroshock-seizures</guid>
+      <pubDate>Sun, 12 Jul 2026 06:00:00 GMT</pubDate>
+      <itunes:season>2</itunes:season>
+      <itunes:episode>12</itunes:episode>
+      <itunes:duration>0:09:45</itunes:duration>
+      <itunes:subtitle>Practicals · Experimental pharmacology · Laboratory instruments</itunes:subtitle>
+      <description>Convulsiometer for maximal electroshock seizures. A narrated model answer from the experimental pharmacology book for the RGUHS MD Pharmacology practical examination (Laboratory instruments), from Medhi and Prakash's Practical Manual cross-checked against Ghosh, SK Gupta and Vogel, with its viva points.</description>
+      <enclosure url="https://pub-ef148064c92046b79cd6387190ed03d9.r2.dev/experimental-pharmacology-i05-convulsiometer-for-maximal-electroshock-seizures.mp3" length="4676588" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Experimental Pharmacology · 10 · Analgesiometers: tail flick and Eddy's hot plate</title>
+      <guid isPermaLink="false">practicals-experimental-pharmacology-i04-analgesiometers-tail-flick-and-eddy-s-hot-plate</guid>
+      <pubDate>Sat, 11 Jul 2026 06:00:00 GMT</pubDate>
+      <itunes:season>2</itunes:season>
+      <itunes:episode>11</itunes:episode>
+      <itunes:duration>0:10:48</itunes:duration>
+      <itunes:subtitle>Practicals · Experimental pharmacology · Laboratory instruments</itunes:subtitle>
+      <description>Analgesiometers: tail flick and Eddy's hot plate. A narrated model answer from the experimental pharmacology book for the RGUHS MD Pharmacology practical examination (Laboratory instruments), from Medhi and Prakash's Practical Manual cross-checked against Ghosh, SK Gupta and Vogel, with its viva points.</description>
+      <enclosure url="https://pub-ef148064c92046b79cd6387190ed03d9.r2.dev/experimental-pharmacology-i04-analgesiometers-tail-flick-and-eddy-s-hot-plate.mp3" length="5185388" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Experimental Pharmacology · 9 · Student's physiograph, transducers and couplers</title>
+      <guid isPermaLink="false">practicals-experimental-pharmacology-i03-student-s-physiograph-transducers-and-couplers</guid>
+      <pubDate>Fri, 10 Jul 2026 06:00:00 GMT</pubDate>
+      <itunes:season>2</itunes:season>
+      <itunes:episode>10</itunes:episode>
+      <itunes:duration>0:08:25</itunes:duration>
+      <itunes:subtitle>Practicals · Experimental pharmacology · Laboratory instruments</itunes:subtitle>
+      <description>Student's physiograph, transducers and couplers. A narrated model answer from the experimental pharmacology book for the RGUHS MD Pharmacology practical examination (Laboratory instruments), from Medhi and Prakash's Practical Manual cross-checked against Ghosh, SK Gupta and Vogel, with its viva points.</description>
+      <enclosure url="https://pub-ef148064c92046b79cd6387190ed03d9.r2.dev/experimental-pharmacology-i03-student-s-physiograph-transducers-and-couplers.mp3" length="4037420" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Experimental Pharmacology · 8 · Sherrington–Starling kymograph and writing levers</title>
+      <guid isPermaLink="false">practicals-experimental-pharmacology-i02-sherrington-starling-kymograph-and-writing-levers</guid>
+      <pubDate>Thu, 09 Jul 2026 06:00:00 GMT</pubDate>
+      <itunes:season>2</itunes:season>
+      <itunes:episode>9</itunes:episode>
+      <itunes:duration>0:10:09</itunes:duration>
+      <itunes:subtitle>Practicals · Experimental pharmacology · Laboratory instruments</itunes:subtitle>
+      <description>Sherrington–Starling kymograph and writing levers. A narrated model answer from the experimental pharmacology book for the RGUHS MD Pharmacology practical examination (Laboratory instruments), from Medhi and Prakash's Practical Manual cross-checked against Ghosh, SK Gupta and Vogel, with its viva points.</description>
+      <enclosure url="https://pub-ef148064c92046b79cd6387190ed03d9.r2.dev/experimental-pharmacology-i02-sherrington-starling-kymograph-and-writing-levers.mp3" length="4875500" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Experimental Pharmacology · 7 · Organ bath assembly and physiological salt solutions</title>
+      <guid isPermaLink="false">practicals-experimental-pharmacology-i01-organ-bath-assembly-and-physiological-salt-solutions</guid>
+      <pubDate>Wed, 08 Jul 2026 06:00:00 GMT</pubDate>
+      <itunes:season>2</itunes:season>
+      <itunes:episode>8</itunes:episode>
+      <itunes:duration>0:13:58</itunes:duration>
+      <itunes:subtitle>Practicals · Experimental pharmacology · Laboratory instruments</itunes:subtitle>
+      <description>Organ bath assembly and physiological salt solutions. A narrated model answer from the experimental pharmacology book for the RGUHS MD Pharmacology practical examination (Laboratory instruments), from Medhi and Prakash's Practical Manual cross-checked against Ghosh, SK Gupta and Vogel, with its viva points.</description>
+      <enclosure url="https://pub-ef148064c92046b79cd6387190ed03d9.r2.dev/experimental-pharmacology-i01-organ-bath-assembly-and-physiological-salt-solutions.mp3" length="6700460" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Experimental Pharmacology · 6 · Ethics of animal experiments: CPCSEA, IAEC, the 3Rs and alternatives</title>
+      <guid isPermaLink="false">practicals-experimental-pharmacology-f06-ethics-of-animal-experiments-cpcsea-iaec-the-3rs-and-alterna</guid>
+      <pubDate>Tue, 07 Jul 2026 06:00:00 GMT</pubDate>
+      <itunes:season>2</itunes:season>
+      <itunes:episode>7</itunes:episode>
+      <itunes:duration>0:12:09</itunes:duration>
+      <itunes:subtitle>Practicals · Experimental pharmacology · Before the experiment: animals, doses and ethics</itunes:subtitle>
+      <description>Ethics of animal experiments: CPCSEA, IAEC, the 3Rs and alternatives. A narrated model answer from the experimental pharmacology book for the RGUHS MD Pharmacology practical examination (Before the experiment: animals, doses and ethics), from Medhi and Prakash's Practical Manual cross-checked against Ghosh, SK Gupta and Vogel, with its viva points.</description>
+      <enclosure url="https://pub-ef148064c92046b79cd6387190ed03d9.r2.dev/experimental-pharmacology-f06-ethics-of-animal-experiments-cpcsea-iaec-the-3rs-and-alterna.mp3" length="5831276" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Experimental Pharmacology · 5 · Species variation in drug response, zoonoses and laboratory animal allergy</title>
+      <guid isPermaLink="false">practicals-experimental-pharmacology-f05-species-variation-in-drug-response-zoonoses-and-laboratory-a</guid>
+      <pubDate>Mon, 06 Jul 2026 06:00:00 GMT</pubDate>
+      <itunes:season>2</itunes:season>
+      <itunes:episode>6</itunes:episode>
+      <itunes:duration>0:10:29</itunes:duration>
+      <itunes:subtitle>Practicals · Experimental pharmacology · Before the experiment: animals, doses and ethics</itunes:subtitle>
+      <description>Species variation in drug response, zoonoses and laboratory animal allergy. A narrated model answer from the experimental pharmacology book for the RGUHS MD Pharmacology practical examination (Before the experiment: animals, doses and ethics), from Medhi and Prakash's Practical Manual cross-checked against Ghosh, SK Gupta and Vogel, with its viva points.</description>
+      <enclosure url="https://pub-ef148064c92046b79cd6387190ed03d9.r2.dev/experimental-pharmacology-f05-species-variation-in-drug-response-zoonoses-and-laboratory-a.mp3" length="5029292" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Experimental Pharmacology · 4 · Anaesthesia and euthanasia of laboratory animals</title>
+      <guid isPermaLink="false">practicals-experimental-pharmacology-f04-anaesthesia-and-euthanasia-of-laboratory-animals</guid>
+      <pubDate>Sun, 05 Jul 2026 06:00:00 GMT</pubDate>
+      <itunes:season>2</itunes:season>
+      <itunes:episode>5</itunes:episode>
+      <itunes:duration>0:11:48</itunes:duration>
+      <itunes:subtitle>Practicals · Experimental pharmacology · Before the experiment: animals, doses and ethics</itunes:subtitle>
+      <description>Anaesthesia and euthanasia of laboratory animals. A narrated model answer from the experimental pharmacology book for the RGUHS MD Pharmacology practical examination (Before the experiment: animals, doses and ethics), from Medhi and Prakash's Practical Manual cross-checked against Ghosh, SK Gupta and Vogel, with its viva points.</description>
+      <enclosure url="https://pub-ef148064c92046b79cd6387190ed03d9.r2.dev/experimental-pharmacology-f04-anaesthesia-and-euthanasia-of-laboratory-animals.mp3" length="5666540" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Experimental Pharmacology · 3 · Routes of administration, dose calculation between species, and blood collection</title>
+      <guid isPermaLink="false">practicals-experimental-pharmacology-f03-routes-of-administration-dose-calculation-between-species-an</guid>
+      <pubDate>Sat, 04 Jul 2026 06:00:00 GMT</pubDate>
+      <itunes:season>2</itunes:season>
+      <itunes:episode>4</itunes:episode>
+      <itunes:duration>0:16:07</itunes:duration>
+      <itunes:subtitle>Practicals · Experimental pharmacology · Before the experiment: animals, doses and ethics</itunes:subtitle>
+      <description>Routes of administration, dose calculation between species, and blood collection. A narrated model answer from the experimental pharmacology book for the RGUHS MD Pharmacology practical examination (Before the experiment: animals, doses and ethics), from Medhi and Prakash's Practical Manual cross-checked against Ghosh, SK Gupta and Vogel, with its viva points.</description>
+      <enclosure url="https://pub-ef148064c92046b79cd6387190ed03d9.r2.dev/experimental-pharmacology-f03-routes-of-administration-dose-calculation-between-species-an.mp3" length="7737836" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Experimental Pharmacology · 2 · Animal house, care, handling, sexing and diet, with normal values</title>
+      <guid isPermaLink="false">practicals-experimental-pharmacology-f02-animal-house-care-handling-sexing-and-diet-with-normal-value</guid>
+      <pubDate>Fri, 03 Jul 2026 06:00:00 GMT</pubDate>
+      <itunes:season>2</itunes:season>
+      <itunes:episode>3</itunes:episode>
+      <itunes:duration>0:12:01</itunes:duration>
+      <itunes:subtitle>Practicals · Experimental pharmacology · Before the experiment: animals, doses and ethics</itunes:subtitle>
+      <description>Animal house, care, handling, sexing and diet, with normal values. A narrated model answer from the experimental pharmacology book for the RGUHS MD Pharmacology practical examination (Before the experiment: animals, doses and ethics), from Medhi and Prakash's Practical Manual cross-checked against Ghosh, SK Gupta and Vogel, with its viva points.</description>
+      <enclosure url="https://pub-ef148064c92046b79cd6387190ed03d9.r2.dev/experimental-pharmacology-f02-animal-house-care-handling-sexing-and-diet-with-normal-value.mp3" length="5770412" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Experimental Pharmacology · 1 · Common laboratory animals: species, strains and what each is used for</title>
+      <guid isPermaLink="false">practicals-experimental-pharmacology-f01-common-laboratory-animals-species-strains-and-what-each-is-u</guid>
+      <pubDate>Thu, 02 Jul 2026 06:00:00 GMT</pubDate>
+      <itunes:season>2</itunes:season>
+      <itunes:episode>2</itunes:episode>
+      <itunes:duration>0:10:47</itunes:duration>
+      <itunes:subtitle>Practicals · Experimental pharmacology · Before the experiment: animals, doses and ethics</itunes:subtitle>
+      <description>Common laboratory animals: species, strains and what each is used for. A narrated model answer from the experimental pharmacology book for the RGUHS MD Pharmacology practical examination (Before the experiment: animals, doses and ethics), from Medhi and Prakash's Practical Manual cross-checked against Ghosh, SK Gupta and Vogel, with its viva points.</description>
+      <enclosure url="https://pub-ef148064c92046b79cd6387190ed03d9.r2.dev/experimental-pharmacology-f01-common-laboratory-animals-species-strains-and-what-each-is-u.mp3" length="5178092" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Experimental Pharmacology · Start here · How to write up an instrument or an experiment in the practical examination</title>
+      <guid isPermaLink="false">practicals-experimental-pharmacology-p00-how-to-write-up-an-instrument-or-an-experiment-in-the-practi</guid>
+      <pubDate>Wed, 01 Jul 2026 06:00:00 GMT</pubDate>
+      <itunes:season>2</itunes:season>
+      <itunes:episode>1</itunes:episode>
+      <itunes:duration>0:05:41</itunes:duration>
+      <itunes:subtitle>Practicals · Experimental pharmacology · Start here</itunes:subtitle>
+      <description>How to write up an instrument or an experiment in the practical examination. A narrated model answer from the experimental pharmacology book for the RGUHS MD Pharmacology practical examination (Start here), from Medhi and Prakash's Practical Manual cross-checked against Ghosh, SK Gupta and Vogel, with its viva points.</description>
+      <enclosure url="https://pub-ef148064c92046b79cd6387190ed03d9.r2.dev/experimental-pharmacology-p00-how-to-write-up-an-instrument-or-an-experiment-in-the-practi.mp3" length="2724332" type="audio/mpeg"/>
+    </item>
     <item>
       <title>Protocol Writing · Q8 · Phase 3 registration studies: new antidiabetic</title>
       <guid isPermaLink="false">practicals-protocol-writing-q08-registration-antidiabetic</guid>
