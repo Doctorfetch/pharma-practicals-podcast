@@ -22,8 +22,338 @@
     <itunes:category text="Health &amp; Fitness">
       <itunes:category text="Medicine"/>
     </itunes:category>
-    <description>Narrated model answers for the RGUHS MD Pharmacology practical examination, kept apart from the theory-exam show. Season 1, protocol writing: eight model protocols, from a phase 2 anxiolytic trial to phase 3 registration programmes, each with its design, sample size, visit schedule, analysis, Indian regulatory and ethics requirements, and viva points. Season 2, experimental pharmacology: laboratory animals and ethics, laboratory and sophisticated instruments, and the in vivo experiments of Medhi's Practical Manual, one episode per item. About 12 hours 2 minutes.</description>
-    <itunes:summary>Narrated practical-exam answers for MD Pharmacology. Season 1 is protocol writing; season 2 is experimental pharmacology.</itunes:summary>
+    <description>Narrated model answers for the RGUHS MD Pharmacology practical examination, kept apart from the theory-exam show. Season 1, protocol writing: eight model protocols, from a phase 2 anxiolytic trial to phase 3 registration programmes, each with its design, sample size, visit schedule, analysis, Indian regulatory and ethics requirements, and viva points. Season 2, experimental pharmacology: laboratory animals and ethics, laboratory and sophisticated instruments, and the in vivo experiments of Medhi's Practical Manual, one episode per item. Season 3, bioassay: the principles, the designs and their calculations worked from the textbook's own numbers, the isolated tissues and every determine-the-unknown-concentration experiment, and the isolated heart. About 20 hours 31 minutes.</description>
+    <itunes:summary>Narrated practical-exam answers for MD Pharmacology. Season 1 is protocol writing; season 2 is experimental pharmacology; season 3 is bioassay.</itunes:summary>
+    <item>
+      <title>Bioassay · 29 · Inotropic and chronotropic effects of drugs on the frog heart, isolated and in situ</title>
+      <guid isPermaLink="false">practicals-bioassay-h03-inotropic-and-chronotropic-effects-of-drugs-on-the-frog-hear</guid>
+      <pubDate>Fri, 18 Sep 2026 06:00:00 GMT</pubDate>
+      <itunes:season>3</itunes:season>
+      <itunes:episode>30</itunes:episode>
+      <itunes:duration>0:13:33</itunes:duration>
+      <itunes:subtitle>Practicals · Bioassay · The isolated heart</itunes:subtitle>
+      <description>Inotropic and chronotropic effects of drugs on the frog heart, isolated and in situ. A narrated model answer from the bioassay book for the RGUHS MD Pharmacology practical examination (The isolated heart), from Medhi and Prakash's Practical Manual with the mathematics checked against Ghosh, every calculation worked from the textbook's own numbers, with its viva points.</description>
+      <enclosure url="https://pub-ef148064c92046b79cd6387190ed03d9.r2.dev/bioassay-h03-inotropic-and-chronotropic-effects-of-drugs-on-the-frog-hear.mp3" length="6500972" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Bioassay · 28 · Drugs on the normal and hypodynamic rabbit heart</title>
+      <guid isPermaLink="false">practicals-bioassay-h02-drugs-on-the-normal-and-hypodynamic-rabbit-heart</guid>
+      <pubDate>Thu, 17 Sep 2026 06:00:00 GMT</pubDate>
+      <itunes:season>3</itunes:season>
+      <itunes:episode>29</itunes:episode>
+      <itunes:duration>0:12:51</itunes:duration>
+      <itunes:subtitle>Practicals · Bioassay · The isolated heart</itunes:subtitle>
+      <description>Drugs on the normal and hypodynamic rabbit heart. A narrated model answer from the bioassay book for the RGUHS MD Pharmacology practical examination (The isolated heart), from Medhi and Prakash's Practical Manual with the mathematics checked against Ghosh, every calculation worked from the textbook's own numbers, with its viva points.</description>
+      <enclosure url="https://pub-ef148064c92046b79cd6387190ed03d9.r2.dev/bioassay-h02-drugs-on-the-normal-and-hypodynamic-rabbit-heart.mp3" length="6167852" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Bioassay · 27 · Drugs on the isolated perfused mammalian heart (Langendorff)</title>
+      <guid isPermaLink="false">practicals-bioassay-h01-drugs-on-the-isolated-perfused-mammalian-heart-langendorff</guid>
+      <pubDate>Wed, 16 Sep 2026 06:00:00 GMT</pubDate>
+      <itunes:season>3</itunes:season>
+      <itunes:episode>28</itunes:episode>
+      <itunes:duration>0:16:17</itunes:duration>
+      <itunes:subtitle>Practicals · Bioassay · The isolated heart</itunes:subtitle>
+      <description>Drugs on the isolated perfused mammalian heart (Langendorff). A narrated model answer from the bioassay book for the RGUHS MD Pharmacology practical examination (The isolated heart), from Medhi and Prakash's Practical Manual with the mathematics checked against Ghosh, every calculation worked from the textbook's own numbers, with its viva points.</description>
+      <enclosure url="https://pub-ef148064c92046b79cd6387190ed03d9.r2.dev/bioassay-h01-drugs-on-the-isolated-perfused-mammalian-heart-langendorff.mp3" length="7815212" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Bioassay · 26 · Neuromuscular blockers on the chick biventer cervicis</title>
+      <guid isPermaLink="false">practicals-bioassay-x12-neuromuscular-blockers-on-the-chick-biventer-cervicis</guid>
+      <pubDate>Tue, 15 Sep 2026 06:00:00 GMT</pubDate>
+      <itunes:season>3</itunes:season>
+      <itunes:episode>27</itunes:episode>
+      <itunes:duration>0:15:10</itunes:duration>
+      <itunes:subtitle>Practicals · Bioassay · Assays on slow-contracting tissues</itunes:subtitle>
+      <description>Neuromuscular blockers on the chick biventer cervicis. A narrated model answer from the bioassay book for the RGUHS MD Pharmacology practical examination (Assays on slow-contracting tissues), from Medhi and Prakash's Practical Manual with the mathematics checked against Ghosh, every calculation worked from the textbook's own numbers, with its viva points.</description>
+      <enclosure url="https://pub-ef148064c92046b79cd6387190ed03d9.r2.dev/bioassay-x12-neuromuscular-blockers-on-the-chick-biventer-cervicis.mp3" length="7280876" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Bioassay · 25 · Acetylcholine on the rat phrenic nerve–diaphragm</title>
+      <guid isPermaLink="false">practicals-bioassay-x11-acetylcholine-on-the-rat-phrenic-nerve-diaphragm</guid>
+      <pubDate>Mon, 14 Sep 2026 06:00:00 GMT</pubDate>
+      <itunes:season>3</itunes:season>
+      <itunes:episode>26</itunes:episode>
+      <itunes:duration>0:18:23</itunes:duration>
+      <itunes:subtitle>Practicals · Bioassay · Assays on slow-contracting tissues</itunes:subtitle>
+      <description>Acetylcholine on the rat phrenic nerve–diaphragm. A narrated model answer from the bioassay book for the RGUHS MD Pharmacology practical examination (Assays on slow-contracting tissues), from Medhi and Prakash's Practical Manual with the mathematics checked against Ghosh, every calculation worked from the textbook's own numbers, with its viva points.</description>
+      <enclosure url="https://pub-ef148064c92046b79cd6387190ed03d9.r2.dev/bioassay-x11-acetylcholine-on-the-rat-phrenic-nerve-diaphragm.mp3" length="8824940" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Bioassay · 24 · Acetylcholine on the guinea pig trachea</title>
+      <guid isPermaLink="false">practicals-bioassay-x10-acetylcholine-on-the-guinea-pig-trachea</guid>
+      <pubDate>Sun, 13 Sep 2026 06:00:00 GMT</pubDate>
+      <itunes:season>3</itunes:season>
+      <itunes:episode>25</itunes:episode>
+      <itunes:duration>0:20:35</itunes:duration>
+      <itunes:subtitle>Practicals · Bioassay · Assays on slow-contracting tissues</itunes:subtitle>
+      <description>Acetylcholine on the guinea pig trachea. A narrated model answer from the bioassay book for the RGUHS MD Pharmacology practical examination (Assays on slow-contracting tissues), from Medhi and Prakash's Practical Manual with the mathematics checked against Ghosh, every calculation worked from the textbook's own numbers, with its viva points.</description>
+      <enclosure url="https://pub-ef148064c92046b79cd6387190ed03d9.r2.dev/bioassay-x10-acetylcholine-on-the-guinea-pig-trachea.mp3" length="9880364" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Bioassay · 23 · Acetylcholine on the frog rectus abdominis</title>
+      <guid isPermaLink="false">practicals-bioassay-x09-acetylcholine-on-the-frog-rectus-abdominis</guid>
+      <pubDate>Sat, 12 Sep 2026 06:00:00 GMT</pubDate>
+      <itunes:season>3</itunes:season>
+      <itunes:episode>24</itunes:episode>
+      <itunes:duration>0:17:50</itunes:duration>
+      <itunes:subtitle>Practicals · Bioassay · Assays on slow-contracting tissues</itunes:subtitle>
+      <description>Acetylcholine on the frog rectus abdominis. A narrated model answer from the bioassay book for the RGUHS MD Pharmacology practical examination (Assays on slow-contracting tissues), from Medhi and Prakash's Practical Manual with the mathematics checked against Ghosh, every calculation worked from the textbook's own numbers, with its viva points.</description>
+      <enclosure url="https://pub-ef148064c92046b79cd6387190ed03d9.r2.dev/bioassay-x09-acetylcholine-on-the-frog-rectus-abdominis.mp3" length="8559212" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Bioassay · 22 · Serotonin on the rat stomach fundus</title>
+      <guid isPermaLink="false">practicals-bioassay-x08-serotonin-on-the-rat-stomach-fundus</guid>
+      <pubDate>Fri, 11 Sep 2026 06:00:00 GMT</pubDate>
+      <itunes:season>3</itunes:season>
+      <itunes:episode>23</itunes:episode>
+      <itunes:duration>0:15:16</itunes:duration>
+      <itunes:subtitle>Practicals · Bioassay · Assays on slow-contracting tissues</itunes:subtitle>
+      <description>Serotonin on the rat stomach fundus. A narrated model answer from the bioassay book for the RGUHS MD Pharmacology practical examination (Assays on slow-contracting tissues), from Medhi and Prakash's Practical Manual with the mathematics checked against Ghosh, every calculation worked from the textbook's own numbers, with its viva points.</description>
+      <enclosure url="https://pub-ef148064c92046b79cd6387190ed03d9.r2.dev/bioassay-x08-serotonin-on-the-rat-stomach-fundus.mp3" length="7330028" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Bioassay · 21 · pA₂ of atropine against acetylcholine on the guinea pig ileum</title>
+      <guid isPermaLink="false">practicals-bioassay-x07-pa-of-atropine-against-acetylcholine-on-the-guinea-pig-ileum</guid>
+      <pubDate>Thu, 10 Sep 2026 06:00:00 GMT</pubDate>
+      <itunes:season>3</itunes:season>
+      <itunes:episode>22</itunes:episode>
+      <itunes:duration>0:26:47</itunes:duration>
+      <itunes:subtitle>Practicals · Bioassay · Assays on fast-contracting tissues</itunes:subtitle>
+      <description>pA₂ of atropine against acetylcholine on the guinea pig ileum. A narrated model answer from the bioassay book for the RGUHS MD Pharmacology practical examination (Assays on fast-contracting tissues), from Medhi and Prakash's Practical Manual with the mathematics checked against Ghosh, every calculation worked from the textbook's own numbers, with its viva points.</description>
+      <enclosure url="https://pub-ef148064c92046b79cd6387190ed03d9.r2.dev/bioassay-x07-pa-of-atropine-against-acetylcholine-on-the-guinea-pig-ileum.mp3" length="12856940" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Bioassay · 20 · Acetylcholine on the rat vas deferens</title>
+      <guid isPermaLink="false">practicals-bioassay-x06-acetylcholine-on-the-rat-vas-deferens</guid>
+      <pubDate>Wed, 09 Sep 2026 06:00:00 GMT</pubDate>
+      <itunes:season>3</itunes:season>
+      <itunes:episode>21</itunes:episode>
+      <itunes:duration>0:19:39</itunes:duration>
+      <itunes:subtitle>Practicals · Bioassay · Assays on fast-contracting tissues</itunes:subtitle>
+      <description>Acetylcholine on the rat vas deferens. A narrated model answer from the bioassay book for the RGUHS MD Pharmacology practical examination (Assays on fast-contracting tissues), from Medhi and Prakash's Practical Manual with the mathematics checked against Ghosh, every calculation worked from the textbook's own numbers, with its viva points.</description>
+      <enclosure url="https://pub-ef148064c92046b79cd6387190ed03d9.r2.dev/bioassay-x06-acetylcholine-on-the-rat-vas-deferens.mp3" length="9432044" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Bioassay · 19 · Acetylcholine on the rat anococcygeus muscle</title>
+      <guid isPermaLink="false">practicals-bioassay-x05-acetylcholine-on-the-rat-anococcygeus-muscle</guid>
+      <pubDate>Tue, 08 Sep 2026 06:00:00 GMT</pubDate>
+      <itunes:season>3</itunes:season>
+      <itunes:episode>20</itunes:episode>
+      <itunes:duration>0:19:07</itunes:duration>
+      <itunes:subtitle>Practicals · Bioassay · Assays on fast-contracting tissues</itunes:subtitle>
+      <description>Acetylcholine on the rat anococcygeus muscle. A narrated model answer from the bioassay book for the RGUHS MD Pharmacology practical examination (Assays on fast-contracting tissues), from Medhi and Prakash's Practical Manual with the mathematics checked against Ghosh, every calculation worked from the textbook's own numbers, with its viva points.</description>
+      <enclosure url="https://pub-ef148064c92046b79cd6387190ed03d9.r2.dev/bioassay-x05-acetylcholine-on-the-rat-anococcygeus-muscle.mp3" length="9176684" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Bioassay · 18 · Adrenaline on the guinea pig atria</title>
+      <guid isPermaLink="false">practicals-bioassay-x04-adrenaline-on-the-guinea-pig-atria</guid>
+      <pubDate>Mon, 07 Sep 2026 06:00:00 GMT</pubDate>
+      <itunes:season>3</itunes:season>
+      <itunes:episode>19</itunes:episode>
+      <itunes:duration>0:18:24</itunes:duration>
+      <itunes:subtitle>Practicals · Bioassay · Assays on fast-contracting tissues</itunes:subtitle>
+      <description>Adrenaline on the guinea pig atria. A narrated model answer from the bioassay book for the RGUHS MD Pharmacology practical examination (Assays on fast-contracting tissues), from Medhi and Prakash's Practical Manual with the mathematics checked against Ghosh, every calculation worked from the textbook's own numbers, with its viva points.</description>
+      <enclosure url="https://pub-ef148064c92046b79cd6387190ed03d9.r2.dev/bioassay-x04-adrenaline-on-the-guinea-pig-atria.mp3" length="8833196" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Bioassay · 17 · Acetylcholine on the rat uterus</title>
+      <guid isPermaLink="false">practicals-bioassay-x03-acetylcholine-on-the-rat-uterus</guid>
+      <pubDate>Sun, 06 Sep 2026 06:00:00 GMT</pubDate>
+      <itunes:season>3</itunes:season>
+      <itunes:episode>18</itunes:episode>
+      <itunes:duration>0:21:24</itunes:duration>
+      <itunes:subtitle>Practicals · Bioassay · Assays on fast-contracting tissues</itunes:subtitle>
+      <description>Acetylcholine on the rat uterus. A narrated model answer from the bioassay book for the RGUHS MD Pharmacology practical examination (Assays on fast-contracting tissues), from Medhi and Prakash's Practical Manual with the mathematics checked against Ghosh, every calculation worked from the textbook's own numbers, with its viva points.</description>
+      <enclosure url="https://pub-ef148064c92046b79cd6387190ed03d9.r2.dev/bioassay-x03-acetylcholine-on-the-rat-uterus.mp3" length="10270700" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Bioassay · 16 · Acetylcholine on the rat colon</title>
+      <guid isPermaLink="false">practicals-bioassay-x02-acetylcholine-on-the-rat-colon</guid>
+      <pubDate>Sat, 05 Sep 2026 06:00:00 GMT</pubDate>
+      <itunes:season>3</itunes:season>
+      <itunes:episode>17</itunes:episode>
+      <itunes:duration>0:19:17</itunes:duration>
+      <itunes:subtitle>Practicals · Bioassay · Assays on fast-contracting tissues</itunes:subtitle>
+      <description>Acetylcholine on the rat colon. A narrated model answer from the bioassay book for the RGUHS MD Pharmacology practical examination (Assays on fast-contracting tissues), from Medhi and Prakash's Practical Manual with the mathematics checked against Ghosh, every calculation worked from the textbook's own numbers, with its viva points.</description>
+      <enclosure url="https://pub-ef148064c92046b79cd6387190ed03d9.r2.dev/bioassay-x02-acetylcholine-on-the-rat-colon.mp3" length="9252908" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Bioassay · 15 · Histamine on the guinea pig ileum</title>
+      <guid isPermaLink="false">practicals-bioassay-x01-histamine-on-the-guinea-pig-ileum</guid>
+      <pubDate>Fri, 04 Sep 2026 06:00:00 GMT</pubDate>
+      <itunes:season>3</itunes:season>
+      <itunes:episode>16</itunes:episode>
+      <itunes:duration>0:22:09</itunes:duration>
+      <itunes:subtitle>Practicals · Bioassay · Assays on fast-contracting tissues</itunes:subtitle>
+      <description>Histamine on the guinea pig ileum. A narrated model answer from the bioassay book for the RGUHS MD Pharmacology practical examination (Assays on fast-contracting tissues), from Medhi and Prakash's Practical Manual with the mathematics checked against Ghosh, every calculation worked from the textbook's own numbers, with its viva points.</description>
+      <enclosure url="https://pub-ef148064c92046b79cd6387190ed03d9.r2.dev/bioassay-x01-histamine-on-the-guinea-pig-ileum.mp3" length="10633196" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Bioassay · 14 · Principle of muscle contraction: isotonic and isometric recording</title>
+      <guid isPermaLink="false">practicals-bioassay-t04-principle-of-muscle-contraction-isotonic-and-isometric-recor</guid>
+      <pubDate>Thu, 03 Sep 2026 06:00:00 GMT</pubDate>
+      <itunes:season>3</itunes:season>
+      <itunes:episode>15</itunes:episode>
+      <itunes:duration>0:13:59</itunes:duration>
+      <itunes:subtitle>Practicals · Bioassay · Tissues: collection, identification and muscle contraction</itunes:subtitle>
+      <description>Principle of muscle contraction: isotonic and isometric recording. A narrated model answer from the bioassay book for the RGUHS MD Pharmacology practical examination (Tissues: collection, identification and muscle contraction), from Medhi and Prakash's Practical Manual with the mathematics checked against Ghosh, every calculation worked from the textbook's own numbers, with its viva points.</description>
+      <enclosure url="https://pub-ef148064c92046b79cd6387190ed03d9.r2.dev/bioassay-t04-principle-of-muscle-contraction-isotonic-and-isometric-recor.mp3" length="6709868" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Bioassay · 13 · Collecting other tissues: uterus, trachea, vas deferens, anococcygeus, frog rectus abdominis, phrenic nerve–diaphragm and chick biventer cervicis</title>
+      <guid isPermaLink="false">practicals-bioassay-t03-collecting-other-tissues-uterus-trachea-vas-deferens-anococc</guid>
+      <pubDate>Wed, 02 Sep 2026 06:00:00 GMT</pubDate>
+      <itunes:season>3</itunes:season>
+      <itunes:episode>14</itunes:episode>
+      <itunes:duration>0:21:10</itunes:duration>
+      <itunes:subtitle>Practicals · Bioassay · Tissues: collection, identification and muscle contraction</itunes:subtitle>
+      <description>Collecting other tissues: uterus, trachea, vas deferens, anococcygeus, frog rectus abdominis, phrenic nerve–diaphragm and chick biventer cervicis. A narrated model answer from the bioassay book for the RGUHS MD Pharmacology practical examination (Tissues: collection, identification and muscle contraction), from Medhi and Prakash's Practical Manual with the mathematics checked against Ghosh, every calculation worked from the textbook's own numbers, with its viva points.</description>
+      <enclosure url="https://pub-ef148064c92046b79cd6387190ed03d9.r2.dev/bioassay-t03-collecting-other-tissues-uterus-trachea-vas-deferens-anococc.mp3" length="10162604" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Bioassay · 12 · Collecting gut tissues: ileum, colon and stomach fundus</title>
+      <guid isPermaLink="false">practicals-bioassay-t02-collecting-gut-tissues-ileum-colon-and-stomach-fundus</guid>
+      <pubDate>Tue, 01 Sep 2026 06:00:00 GMT</pubDate>
+      <itunes:season>3</itunes:season>
+      <itunes:episode>13</itunes:episode>
+      <itunes:duration>0:15:45</itunes:duration>
+      <itunes:subtitle>Practicals · Bioassay · Tissues: collection, identification and muscle contraction</itunes:subtitle>
+      <description>Collecting gut tissues: ileum, colon and stomach fundus. A narrated model answer from the bioassay book for the RGUHS MD Pharmacology practical examination (Tissues: collection, identification and muscle contraction), from Medhi and Prakash's Practical Manual with the mathematics checked against Ghosh, every calculation worked from the textbook's own numbers, with its viva points.</description>
+      <enclosure url="https://pub-ef148064c92046b79cd6387190ed03d9.r2.dev/bioassay-t02-collecting-gut-tissues-ileum-colon-and-stomach-fundus.mp3" length="7558700" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Bioassay · 11 · General considerations in animal experiments: accuracy, precision and study terms</title>
+      <guid isPermaLink="false">practicals-bioassay-t01-general-considerations-in-animal-experiments-accuracy-precis</guid>
+      <pubDate>Mon, 31 Aug 2026 06:00:00 GMT</pubDate>
+      <itunes:season>3</itunes:season>
+      <itunes:episode>12</itunes:episode>
+      <itunes:duration>0:13:08</itunes:duration>
+      <itunes:subtitle>Practicals · Bioassay · Tissues: collection, identification and muscle contraction</itunes:subtitle>
+      <description>General considerations in animal experiments: accuracy, precision and study terms. A narrated model answer from the bioassay book for the RGUHS MD Pharmacology practical examination (Tissues: collection, identification and muscle contraction), from Medhi and Prakash's Practical Manual with the mathematics checked against Ghosh, every calculation worked from the textbook's own numbers, with its viva points.</description>
+      <enclosure url="https://pub-ef148064c92046b79cd6387190ed03d9.r2.dev/bioassay-t01-general-considerations-in-animal-experiments-accuracy-precis.mp3" length="6300332" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Bioassay · 10 · Human tissue and cytokine bioassays</title>
+      <guid isPermaLink="false">practicals-bioassay-b10-human-tissue-and-cytokine-bioassays</guid>
+      <pubDate>Sun, 30 Aug 2026 06:00:00 GMT</pubDate>
+      <itunes:season>3</itunes:season>
+      <itunes:episode>11</itunes:episode>
+      <itunes:duration>0:12:22</itunes:duration>
+      <itunes:subtitle>Practicals · Bioassay · Principles, designs and calculations</itunes:subtitle>
+      <description>Human tissue and cytokine bioassays. A narrated model answer from the bioassay book for the RGUHS MD Pharmacology practical examination (Principles, designs and calculations), from Medhi and Prakash's Practical Manual with the mathematics checked against Ghosh, every calculation worked from the textbook's own numbers, with its viva points.</description>
+      <enclosure url="https://pub-ef148064c92046b79cd6387190ed03d9.r2.dev/bioassay-b10-human-tissue-and-cytokine-bioassays.mp3" length="5936108" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Bioassay · 9 · Bioassay of an antagonist: pA₂, pA₁₀ and the Schild plot, with a worked calculation</title>
+      <guid isPermaLink="false">practicals-bioassay-b09-bioassay-of-an-antagonist-pa-pa-and-the-schild-plot-with-a-w</guid>
+      <pubDate>Sat, 29 Aug 2026 06:00:00 GMT</pubDate>
+      <itunes:season>3</itunes:season>
+      <itunes:episode>10</itunes:episode>
+      <itunes:duration>0:26:18</itunes:duration>
+      <itunes:subtitle>Practicals · Bioassay · Principles, designs and calculations</itunes:subtitle>
+      <description>Bioassay of an antagonist: pA₂, pA₁₀ and the Schild plot, with a worked calculation. A narrated model answer from the bioassay book for the RGUHS MD Pharmacology practical examination (Principles, designs and calculations), from Medhi and Prakash's Practical Manual with the mathematics checked against Ghosh, every calculation worked from the textbook's own numbers, with its viva points.</description>
+      <enclosure url="https://pub-ef148064c92046b79cd6387190ed03d9.r2.dev/bioassay-b09-bioassay-of-an-antagonist-pa-pa-and-the-schild-plot-with-a-w.mp3" length="12622700" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Bioassay · 8 · Four-point assay, with a worked calculation</title>
+      <guid isPermaLink="false">practicals-bioassay-b08-four-point-assay-with-a-worked-calculation</guid>
+      <pubDate>Fri, 28 Aug 2026 06:00:00 GMT</pubDate>
+      <itunes:season>3</itunes:season>
+      <itunes:episode>9</itunes:episode>
+      <itunes:duration>0:17:22</itunes:duration>
+      <itunes:subtitle>Practicals · Bioassay · Principles, designs and calculations</itunes:subtitle>
+      <description>Four-point assay, with a worked calculation. A narrated model answer from the bioassay book for the RGUHS MD Pharmacology practical examination (Principles, designs and calculations), from Medhi and Prakash's Practical Manual with the mathematics checked against Ghosh, every calculation worked from the textbook's own numbers, with its viva points.</description>
+      <enclosure url="https://pub-ef148064c92046b79cd6387190ed03d9.r2.dev/bioassay-b08-four-point-assay-with-a-worked-calculation.mp3" length="8333228" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Bioassay · 7 · Three-point assay, with a worked calculation</title>
+      <guid isPermaLink="false">practicals-bioassay-b07-three-point-assay-with-a-worked-calculation</guid>
+      <pubDate>Thu, 27 Aug 2026 06:00:00 GMT</pubDate>
+      <itunes:season>3</itunes:season>
+      <itunes:episode>8</itunes:episode>
+      <itunes:duration>0:16:22</itunes:duration>
+      <itunes:subtitle>Practicals · Bioassay · Principles, designs and calculations</itunes:subtitle>
+      <description>Three-point assay, with a worked calculation. A narrated model answer from the bioassay book for the RGUHS MD Pharmacology practical examination (Principles, designs and calculations), from Medhi and Prakash's Practical Manual with the mathematics checked against Ghosh, every calculation worked from the textbook's own numbers, with its viva points.</description>
+      <enclosure url="https://pub-ef148064c92046b79cd6387190ed03d9.r2.dev/bioassay-b07-three-point-assay-with-a-worked-calculation.mp3" length="7853036" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Bioassay · 6 · Interpolation assay</title>
+      <guid isPermaLink="false">practicals-bioassay-b06-interpolation-assay</guid>
+      <pubDate>Wed, 26 Aug 2026 06:00:00 GMT</pubDate>
+      <itunes:season>3</itunes:season>
+      <itunes:episode>7</itunes:episode>
+      <itunes:duration>0:14:06</itunes:duration>
+      <itunes:subtitle>Practicals · Bioassay · Principles, designs and calculations</itunes:subtitle>
+      <description>Interpolation assay. A narrated model answer from the bioassay book for the RGUHS MD Pharmacology practical examination (Principles, designs and calculations), from Medhi and Prakash's Practical Manual with the mathematics checked against Ghosh, every calculation worked from the textbook's own numbers, with its viva points.</description>
+      <enclosure url="https://pub-ef148064c92046b79cd6387190ed03d9.r2.dev/bioassay-b06-interpolation-assay.mp3" length="6769004" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Bioassay · 5 · Matching and bracketing assays</title>
+      <guid isPermaLink="false">practicals-bioassay-b05-matching-and-bracketing-assays</guid>
+      <pubDate>Tue, 25 Aug 2026 06:00:00 GMT</pubDate>
+      <itunes:season>3</itunes:season>
+      <itunes:episode>6</itunes:episode>
+      <itunes:duration>0:12:33</itunes:duration>
+      <itunes:subtitle>Practicals · Bioassay · Principles, designs and calculations</itunes:subtitle>
+      <description>Matching and bracketing assays. A narrated model answer from the bioassay book for the RGUHS MD Pharmacology practical examination (Principles, designs and calculations), from Medhi and Prakash's Practical Manual with the mathematics checked against Ghosh, every calculation worked from the textbook's own numbers, with its viva points.</description>
+      <enclosure url="https://pub-ef148064c92046b79cd6387190ed03d9.r2.dev/bioassay-b05-matching-and-bracketing-assays.mp3" length="6020972" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Bioassay · 4 · Types of bioassay: direct end-point, quantal and graded</title>
+      <guid isPermaLink="false">practicals-bioassay-b04-types-of-bioassay-direct-end-point-quantal-and-graded</guid>
+      <pubDate>Mon, 24 Aug 2026 06:00:00 GMT</pubDate>
+      <itunes:season>3</itunes:season>
+      <itunes:episode>5</itunes:episode>
+      <itunes:duration>0:12:34</itunes:duration>
+      <itunes:subtitle>Practicals · Bioassay · Principles, designs and calculations</itunes:subtitle>
+      <description>Types of bioassay: direct end-point, quantal and graded. A narrated model answer from the bioassay book for the RGUHS MD Pharmacology practical examination (Principles, designs and calculations), from Medhi and Prakash's Practical Manual with the mathematics checked against Ghosh, every calculation worked from the textbook's own numbers, with its viva points.</description>
+      <enclosure url="https://pub-ef148064c92046b79cd6387190ed03d9.r2.dev/bioassay-b04-types-of-bioassay-direct-end-point-quantal-and-graded.mp3" length="6030572" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Bioassay · 3 · Levers and magnification, dose cycle and types of tissue</title>
+      <guid isPermaLink="false">practicals-bioassay-b03-levers-and-magnification-dose-cycle-and-types-of-tissue</guid>
+      <pubDate>Sun, 23 Aug 2026 06:00:00 GMT</pubDate>
+      <itunes:season>3</itunes:season>
+      <itunes:episode>4</itunes:episode>
+      <itunes:duration>0:13:44</itunes:duration>
+      <itunes:subtitle>Practicals · Bioassay · Principles, designs and calculations</itunes:subtitle>
+      <description>Levers and magnification, dose cycle and types of tissue. A narrated model answer from the bioassay book for the RGUHS MD Pharmacology practical examination (Principles, designs and calculations), from Medhi and Prakash's Practical Manual with the mathematics checked against Ghosh, every calculation worked from the textbook's own numbers, with its viva points.</description>
+      <enclosure url="https://pub-ef148064c92046b79cd6387190ed03d9.r2.dev/bioassay-b03-levers-and-magnification-dose-cycle-and-types-of-tissue.mp3" length="6590828" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Bioassay · 2 · Setting up a bioassay: organ bath, kymograph, physiological salt solutions and the dose–response curve</title>
+      <guid isPermaLink="false">practicals-bioassay-b02-setting-up-a-bioassay-organ-bath-kymograph-physiological-sal</guid>
+      <pubDate>Sat, 22 Aug 2026 06:00:00 GMT</pubDate>
+      <itunes:season>3</itunes:season>
+      <itunes:episode>3</itunes:episode>
+      <itunes:duration>0:18:18</itunes:duration>
+      <itunes:subtitle>Practicals · Bioassay · Principles, designs and calculations</itunes:subtitle>
+      <description>Setting up a bioassay: organ bath, kymograph, physiological salt solutions and the dose–response curve. A narrated model answer from the bioassay book for the RGUHS MD Pharmacology practical examination (Principles, designs and calculations), from Medhi and Prakash's Practical Manual with the mathematics checked against Ghosh, every calculation worked from the textbook's own numbers, with its viva points.</description>
+      <enclosure url="https://pub-ef148064c92046b79cd6387190ed03d9.r2.dev/bioassay-b02-setting-up-a-bioassay-organ-bath-kymograph-physiological-sal.mp3" length="8785580" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Bioassay · 1 · Bioassay: definition, principles, sources of error and applications</title>
+      <guid isPermaLink="false">practicals-bioassay-b01-bioassay-definition-principles-sources-of-error-and-applicat</guid>
+      <pubDate>Fri, 21 Aug 2026 06:00:00 GMT</pubDate>
+      <itunes:season>3</itunes:season>
+      <itunes:episode>2</itunes:episode>
+      <itunes:duration>0:13:20</itunes:duration>
+      <itunes:subtitle>Practicals · Bioassay · Principles, designs and calculations</itunes:subtitle>
+      <description>Bioassay: definition, principles, sources of error and applications. A narrated model answer from the bioassay book for the RGUHS MD Pharmacology practical examination (Principles, designs and calculations), from Medhi and Prakash's Practical Manual with the mathematics checked against Ghosh, every calculation worked from the textbook's own numbers, with its viva points.</description>
+      <enclosure url="https://pub-ef148064c92046b79cd6387190ed03d9.r2.dev/bioassay-b01-bioassay-definition-principles-sources-of-error-and-applicat.mp3" length="6397868" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Bioassay · Start here · How to write up a bioassay in the practical examination</title>
+      <guid isPermaLink="false">practicals-bioassay-b00-how-to-write-up-a-bioassay-in-the-practical-examination</guid>
+      <pubDate>Thu, 20 Aug 2026 06:00:00 GMT</pubDate>
+      <itunes:season>3</itunes:season>
+      <itunes:episode>1</itunes:episode>
+      <itunes:duration>0:11:30</itunes:duration>
+      <itunes:subtitle>Practicals · Bioassay · Start here</itunes:subtitle>
+      <description>How to write up a bioassay in the practical examination. A narrated model answer from the bioassay book for the RGUHS MD Pharmacology practical examination (Start here), from Medhi and Prakash's Practical Manual with the mathematics checked against Ghosh, every calculation worked from the textbook's own numbers, with its viva points.</description>
+      <enclosure url="https://pub-ef148064c92046b79cd6387190ed03d9.r2.dev/bioassay-b00-how-to-write-up-a-bioassay-in-the-practical-examination.mp3" length="5520812" type="audio/mpeg"/>
+    </item>
     <item>
       <title>Experimental Pharmacology · 49 · Effects of drugs on the rabbit eye</title>
       <guid isPermaLink="false">practicals-experimental-pharmacology-e01-effects-of-drugs-on-the-rabbit-eye</guid>
