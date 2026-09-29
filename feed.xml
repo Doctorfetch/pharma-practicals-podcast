@@ -22,8 +22,8 @@
     <itunes:category text="Health &amp; Fitness">
       <itunes:category text="Medicine"/>
     </itunes:category>
-    <description>Narrated model answers for the RGUHS MD Pharmacology practical examination, kept apart from the theory-exam show. Season 1, protocol writing: eight model protocols, from a phase 2 anxiolytic trial to phase 3 registration programmes, each with its design, sample size, visit schedule, analysis, Indian regulatory and ethics requirements, and viva points. Season 2, experimental pharmacology: laboratory animals and ethics, laboratory and sophisticated instruments, and the in vivo experiments of Medhi's Practical Manual, one episode per item. Season 3, bioassay: the principles, the designs and their calculations worked from the textbook's own numbers, the isolated tissues and every determine-the-unknown-concentration experiment, and the isolated heart. Season 4, chemical analysis and graphs: the tests for alkaloids, sterols and glycosides, how to identify an unknown sample, and every chart tracing of the KMCRI set, from adrenaline reversal to the frog rectus. About 25 hours 39 minutes.</description>
-    <itunes:summary>Narrated practical-exam answers for MD Pharmacology. Season 1 is protocol writing; season 2 is experimental pharmacology; season 3 is bioassay; season 4 is chemical analysis and graphs.</itunes:summary>
+    <description>Narrated model answers for the RGUHS MD Pharmacology practical examination, kept apart from the theory-exam show. Season 1, protocol writing: eight model protocols, from a phase 2 anxiolytic trial to phase 3 registration programmes, each with its design, sample size, visit schedule, analysis, Indian regulatory and ethics requirements, and viva points. Season 2, experimental pharmacology: laboratory animals and ethics, laboratory and sophisticated instruments, and the in vivo experiments of Medhi's Practical Manual, one episode per item. Season 3, bioassay: the principles, the designs and their calculations worked from the textbook's own numbers, the isolated tissues and every determine-the-unknown-concentration experiment, and the isolated heart. Season 4, chemical analysis and graphs: the tests for alkaloids, sterols and glycosides, how to identify an unknown sample, and every chart tracing of the KMCRI set, from adrenaline reversal to the frog rectus. Season 5, pharmacokinetic problems: the formula sheet and the fourteen KMCRI problems, each worked by hand from the given values to the answer. About 26 hours 45 minutes.</description>
+    <itunes:summary>Narrated practical-exam answers for MD Pharmacology. Season 1 is protocol writing; season 2 is experimental pharmacology; season 3 is bioassay; season 4 is chemical analysis and graphs; season 5 is pharmacokinetic problems.</itunes:summary>
     <item>
       <title>Bioassay · 29 · Inotropic and chronotropic effects of drugs on the frog heart, isolated and in situ</title>
       <guid isPermaLink="false">practicals-bioassay-h03-inotropic-and-chronotropic-effects-of-drugs-on-the-frog-hear</guid>
@@ -1189,6 +1189,171 @@
       <itunes:subtitle>Practicals · Clinical Pharmacology · Protocol writing</itunes:subtitle>
       <description>Design a phase 2 protocol for evaluating safety and efficacy of new antianxiety drug X in patients with anxiety disorders. A narrated model answer for the RGUHS MD Pharmacology practical examination: aim, design, population, sample size worked through, visit schedule, endpoints, analysis, ethics and Indian regulatory requirements, then viva points.</description>
       <enclosure url="https://pub-ef148064c92046b79cd6387190ed03d9.r2.dev/protocol-writing-q01-phase2-anxiolytic.mp3" length="13200236" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>PK Problems · Problem 14 · Total iron requirement in anaemia of pregnancy</title>
+      <guid isPermaLink="false">practicals-pk-problems-k14-total-iron-requirement-in-anaemia-of-pregnancy</guid>
+      <pubDate>Fri, 15 May 2026 06:00:00 GMT</pubDate>
+      <itunes:season>5</itunes:season>
+      <itunes:episode>15</itunes:episode>
+      <itunes:duration>0:02:44</itunes:duration>
+      <itunes:subtitle>Practicals · Clinical pharmacology · Pharmacokinetic problems</itunes:subtitle>
+      <description>Total iron requirement in anaemia of pregnancy. A narrated worked answer to the KMCRI postgraduate pharmacokinetics problem set for the RGUHS MD Pharmacology practical examination: the given values, the formula and every step of the calculation by hand, then the answer.</description>
+      <enclosure url="https://pub-ef148064c92046b79cd6387190ed03d9.r2.dev/pk-problems-k14-total-iron-requirement-in-anaemia-of-pregnancy.mp3" length="1313132" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>PK Problems · Problem 13 · Tobramycin maintenance and loading doses</title>
+      <guid isPermaLink="false">practicals-pk-problems-k13-tobramycin-maintenance-and-loading-doses</guid>
+      <pubDate>Thu, 14 May 2026 06:00:00 GMT</pubDate>
+      <itunes:season>5</itunes:season>
+      <itunes:episode>14</itunes:episode>
+      <itunes:duration>0:03:55</itunes:duration>
+      <itunes:subtitle>Practicals · Clinical pharmacology · Pharmacokinetic problems</itunes:subtitle>
+      <description>Tobramycin maintenance and loading doses. A narrated worked answer to the KMCRI postgraduate pharmacokinetics problem set for the RGUHS MD Pharmacology practical examination: the given values, the formula and every step of the calculation by hand, then the answer.</description>
+      <enclosure url="https://pub-ef148064c92046b79cd6387190ed03d9.r2.dev/pk-problems-k13-tobramycin-maintenance-and-loading-doses.mp3" length="1883372" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>PK Problems · Problem 12 · Steady-state concentration from bioavailability, dose and clearance</title>
+      <guid isPermaLink="false">practicals-pk-problems-k12-steady-state-concentration-from-bioavailability-dose-and-cle</guid>
+      <pubDate>Wed, 13 May 2026 06:00:00 GMT</pubDate>
+      <itunes:season>5</itunes:season>
+      <itunes:episode>13</itunes:episode>
+      <itunes:duration>0:03:29</itunes:duration>
+      <itunes:subtitle>Practicals · Clinical pharmacology · Pharmacokinetic problems</itunes:subtitle>
+      <description>Steady-state concentration from bioavailability, dose and clearance. A narrated worked answer to the KMCRI postgraduate pharmacokinetics problem set for the RGUHS MD Pharmacology practical examination: the given values, the formula and every step of the calculation by hand, then the answer.</description>
+      <enclosure url="https://pub-ef148064c92046b79cd6387190ed03d9.r2.dev/pk-problems-k12-steady-state-concentration-from-bioavailability-dose-and-cle.mp3" length="1671404" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>PK Problems · Problem 11 · Theophylline clearance limits and its metabolic and renal rate constants</title>
+      <guid isPermaLink="false">practicals-pk-problems-k11-theophylline-clearance-limits-and-its-metabolic-and-renal-ra</guid>
+      <pubDate>Tue, 12 May 2026 06:00:00 GMT</pubDate>
+      <itunes:season>5</itunes:season>
+      <itunes:episode>12</itunes:episode>
+      <itunes:duration>0:06:27</itunes:duration>
+      <itunes:subtitle>Practicals · Clinical pharmacology · Pharmacokinetic problems</itunes:subtitle>
+      <description>Theophylline clearance limits and its metabolic and renal rate constants. A narrated worked answer to the KMCRI postgraduate pharmacokinetics problem set for the RGUHS MD Pharmacology practical examination: the given values, the formula and every step of the calculation by hand, then the answer.</description>
+      <enclosure url="https://pub-ef148064c92046b79cd6387190ed03d9.r2.dev/pk-problems-k11-theophylline-clearance-limits-and-its-metabolic-and-renal-ra.mp3" length="3096812" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>PK Problems · Problem 10 · Half-life from volume and clearance, in normal and impaired renal function</title>
+      <guid isPermaLink="false">practicals-pk-problems-k10-half-life-from-volume-and-clearance-in-normal-and-impaired-r</guid>
+      <pubDate>Mon, 11 May 2026 06:00:00 GMT</pubDate>
+      <itunes:season>5</itunes:season>
+      <itunes:episode>11</itunes:episode>
+      <itunes:duration>0:04:34</itunes:duration>
+      <itunes:subtitle>Practicals · Clinical pharmacology · Pharmacokinetic problems</itunes:subtitle>
+      <description>Half-life from volume and clearance, in normal and impaired renal function. A narrated worked answer to the KMCRI postgraduate pharmacokinetics problem set for the RGUHS MD Pharmacology practical examination: the given values, the formula and every step of the calculation by hand, then the answer.</description>
+      <enclosure url="https://pub-ef148064c92046b79cd6387190ed03d9.r2.dev/pk-problems-k10-half-life-from-volume-and-clearance-in-normal-and-impaired-r.mp3" length="2194796" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>PK Problems · Problem 9 · Adjusting the digoxin maintenance dose to a target level</title>
+      <guid isPermaLink="false">practicals-pk-problems-k09-adjusting-the-digoxin-maintenance-dose-to-a-target-level</guid>
+      <pubDate>Sun, 10 May 2026 06:00:00 GMT</pubDate>
+      <itunes:season>5</itunes:season>
+      <itunes:episode>10</itunes:episode>
+      <itunes:duration>0:03:05</itunes:duration>
+      <itunes:subtitle>Practicals · Clinical pharmacology · Pharmacokinetic problems</itunes:subtitle>
+      <description>Adjusting the digoxin maintenance dose to a target level. A narrated worked answer to the KMCRI postgraduate pharmacokinetics problem set for the RGUHS MD Pharmacology practical examination: the given values, the formula and every step of the calculation by hand, then the answer.</description>
+      <enclosure url="https://pub-ef148064c92046b79cd6387190ed03d9.r2.dev/pk-problems-k09-adjusting-the-digoxin-maintenance-dose-to-a-target-level.mp3" length="1476716" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>PK Problems · Problem 8 · First-pass extraction and bioavailability: which drug does enzyme induction affect?</title>
+      <guid isPermaLink="false">practicals-pk-problems-k08-first-pass-extraction-and-bioavailability-which-drug-does-en</guid>
+      <pubDate>Sat, 09 May 2026 06:00:00 GMT</pubDate>
+      <itunes:season>5</itunes:season>
+      <itunes:episode>9</itunes:episode>
+      <itunes:duration>0:04:03</itunes:duration>
+      <itunes:subtitle>Practicals · Clinical pharmacology · Pharmacokinetic problems</itunes:subtitle>
+      <description>First-pass extraction and bioavailability: which drug does enzyme induction affect?. A narrated worked answer to the KMCRI postgraduate pharmacokinetics problem set for the RGUHS MD Pharmacology practical examination: the given values, the formula and every step of the calculation by hand, then the answer.</description>
+      <enclosure url="https://pub-ef148064c92046b79cd6387190ed03d9.r2.dev/pk-problems-k08-first-pass-extraction-and-bioavailability-which-drug-does-en.mp3" length="1940396" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>PK Problems · Problem 7 · Gentamicin dose in renal impairment</title>
+      <guid isPermaLink="false">practicals-pk-problems-k07-gentamicin-dose-in-renal-impairment</guid>
+      <pubDate>Fri, 08 May 2026 06:00:00 GMT</pubDate>
+      <itunes:season>5</itunes:season>
+      <itunes:episode>8</itunes:episode>
+      <itunes:duration>0:04:43</itunes:duration>
+      <itunes:subtitle>Practicals · Clinical pharmacology · Pharmacokinetic problems</itunes:subtitle>
+      <description>Gentamicin dose in renal impairment. A narrated worked answer to the KMCRI postgraduate pharmacokinetics problem set for the RGUHS MD Pharmacology practical examination: the given values, the formula and every step of the calculation by hand, then the answer.</description>
+      <enclosure url="https://pub-ef148064c92046b79cd6387190ed03d9.r2.dev/pk-problems-k07-gentamicin-dose-in-renal-impairment.mp3" length="2264684" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>PK Problems · Problem 6 · Clearance from a per-kilogram dose, initial concentration and half-life</title>
+      <guid isPermaLink="false">practicals-pk-problems-k06-clearance-from-a-per-kilogram-dose-initial-concentration-and</guid>
+      <pubDate>Thu, 07 May 2026 06:00:00 GMT</pubDate>
+      <itunes:season>5</itunes:season>
+      <itunes:episode>7</itunes:episode>
+      <itunes:duration>0:04:23</itunes:duration>
+      <itunes:subtitle>Practicals · Clinical pharmacology · Pharmacokinetic problems</itunes:subtitle>
+      <description>Clearance from a per-kilogram dose, initial concentration and half-life. A narrated worked answer to the KMCRI postgraduate pharmacokinetics problem set for the RGUHS MD Pharmacology practical examination: the given values, the formula and every step of the calculation by hand, then the answer.</description>
+      <enclosure url="https://pub-ef148064c92046b79cd6387190ed03d9.r2.dev/pk-problems-k06-clearance-from-a-per-kilogram-dose-initial-concentration-and.mp3" length="2100908" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>PK Problems · Problem 5 · Clearance from dose, plasma concentration and half-life</title>
+      <guid isPermaLink="false">practicals-pk-problems-k05-clearance-from-dose-plasma-concentration-and-half-life</guid>
+      <pubDate>Wed, 06 May 2026 06:00:00 GMT</pubDate>
+      <itunes:season>5</itunes:season>
+      <itunes:episode>6</itunes:episode>
+      <itunes:duration>0:03:28</itunes:duration>
+      <itunes:subtitle>Practicals · Clinical pharmacology · Pharmacokinetic problems</itunes:subtitle>
+      <description>Clearance from dose, plasma concentration and half-life. A narrated worked answer to the KMCRI postgraduate pharmacokinetics problem set for the RGUHS MD Pharmacology practical examination: the given values, the formula and every step of the calculation by hand, then the answer.</description>
+      <enclosure url="https://pub-ef148064c92046b79cd6387190ed03d9.r2.dev/pk-problems-k05-clearance-from-dose-plasma-concentration-and-half-life.mp3" length="1665836" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>PK Problems · Problem 4 · Paediatric doses of paracetamol and metronidazole by Young's formula</title>
+      <guid isPermaLink="false">practicals-pk-problems-k04-paediatric-doses-of-paracetamol-and-metronidazole-by-young-s</guid>
+      <pubDate>Tue, 05 May 2026 06:00:00 GMT</pubDate>
+      <itunes:season>5</itunes:season>
+      <itunes:episode>5</itunes:episode>
+      <itunes:duration>0:03:35</itunes:duration>
+      <itunes:subtitle>Practicals · Clinical pharmacology · Pharmacokinetic problems</itunes:subtitle>
+      <description>Paediatric doses of paracetamol and metronidazole by Young's formula. A narrated worked answer to the KMCRI postgraduate pharmacokinetics problem set for the RGUHS MD Pharmacology practical examination: the given values, the formula and every step of the calculation by hand, then the answer.</description>
+      <enclosure url="https://pub-ef148064c92046b79cd6387190ed03d9.r2.dev/pk-problems-k04-paediatric-doses-of-paracetamol-and-metronidazole-by-young-s.mp3" length="1722284" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>PK Problems · Problem 3 · Paediatric doses of isoniazid and rifampicin by Dilling's formula</title>
+      <guid isPermaLink="false">practicals-pk-problems-k03-paediatric-doses-of-isoniazid-and-rifampicin-by-dilling-s-fo</guid>
+      <pubDate>Mon, 04 May 2026 06:00:00 GMT</pubDate>
+      <itunes:season>5</itunes:season>
+      <itunes:episode>4</itunes:episode>
+      <itunes:duration>0:02:43</itunes:duration>
+      <itunes:subtitle>Practicals · Clinical pharmacology · Pharmacokinetic problems</itunes:subtitle>
+      <description>Paediatric doses of isoniazid and rifampicin by Dilling's formula. A narrated worked answer to the KMCRI postgraduate pharmacokinetics problem set for the RGUHS MD Pharmacology practical examination: the given values, the formula and every step of the calculation by hand, then the answer.</description>
+      <enclosure url="https://pub-ef148064c92046b79cd6387190ed03d9.r2.dev/pk-problems-k03-paediatric-doses-of-isoniazid-and-rifampicin-by-dilling-s-fo.mp3" length="1301612" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>PK Problems · Problem 2 · Dopamine infusion rate in drops per minute</title>
+      <guid isPermaLink="false">practicals-pk-problems-k02-dopamine-infusion-rate-in-drops-per-minute</guid>
+      <pubDate>Sun, 03 May 2026 06:00:00 GMT</pubDate>
+      <itunes:season>5</itunes:season>
+      <itunes:episode>3</itunes:episode>
+      <itunes:duration>0:04:30</itunes:duration>
+      <itunes:subtitle>Practicals · Clinical pharmacology · Pharmacokinetic problems</itunes:subtitle>
+      <description>Dopamine infusion rate in drops per minute. A narrated worked answer to the KMCRI postgraduate pharmacokinetics problem set for the RGUHS MD Pharmacology practical examination: the given values, the formula and every step of the calculation by hand, then the answer.</description>
+      <enclosure url="https://pub-ef148064c92046b79cd6387190ed03d9.r2.dev/pk-problems-k02-dopamine-infusion-rate-in-drops-per-minute.mp3" length="2156588" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>PK Problems · Problem 1 · Volume of thiopentone solution for a 50 kg patient</title>
+      <guid isPermaLink="false">practicals-pk-problems-k01-volume-of-thiopentone-solution-for-a-50-kg-patient</guid>
+      <pubDate>Sat, 02 May 2026 06:00:00 GMT</pubDate>
+      <itunes:season>5</itunes:season>
+      <itunes:episode>2</itunes:episode>
+      <itunes:duration>0:03:06</itunes:duration>
+      <itunes:subtitle>Practicals · Clinical pharmacology · Pharmacokinetic problems</itunes:subtitle>
+      <description>Volume of thiopentone solution for a 50 kg patient. A narrated worked answer to the KMCRI postgraduate pharmacokinetics problem set for the RGUHS MD Pharmacology practical examination: the given values, the formula and every step of the calculation by hand, then the answer.</description>
+      <enclosure url="https://pub-ef148064c92046b79cd6387190ed03d9.r2.dev/pk-problems-k01-volume-of-thiopentone-solution-for-a-50-kg-patient.mp3" length="1488044" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>PK Problems · Formula sheet · The formula sheet, and how to lay out a PK answer in the hall</title>
+      <guid isPermaLink="false">practicals-pk-problems-p00-the-formula-sheet-and-how-to-lay-out-a-pk-answer-in-the-hall</guid>
+      <pubDate>Fri, 01 May 2026 06:00:00 GMT</pubDate>
+      <itunes:season>5</itunes:season>
+      <itunes:episode>1</itunes:episode>
+      <itunes:duration>0:11:06</itunes:duration>
+      <itunes:subtitle>Practicals · Clinical pharmacology · Pharmacokinetic problems</itunes:subtitle>
+      <description>The formula sheet, and how to lay out a PK answer in the hall. A narrated worked answer to the KMCRI postgraduate pharmacokinetics problem set for the RGUHS MD Pharmacology practical examination: the given values, the formula and every step of the calculation by hand, then the answer.</description>
+      <enclosure url="https://pub-ef148064c92046b79cd6387190ed03d9.r2.dev/pk-problems-p00-the-formula-sheet-and-how-to-lay-out-a-pk-answer-in-the-hall.mp3" length="5326124" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
