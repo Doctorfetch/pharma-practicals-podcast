@@ -22,8 +22,8 @@
     <itunes:category text="Health &amp; Fitness">
       <itunes:category text="Medicine"/>
     </itunes:category>
-    <description>Narrated model answers for the RGUHS MD Pharmacology practical examination, kept apart from the theory-exam show. Season 1, protocol writing: eight model protocols, from a phase 2 anxiolytic trial to phase 3 registration programmes, each with its design, sample size, visit schedule, analysis, Indian regulatory and ethics requirements, and viva points. Season 2, experimental pharmacology: laboratory animals and ethics, laboratory and sophisticated instruments, and the in vivo experiments of Medhi's Practical Manual, one episode per item. Season 3, bioassay: the principles, the designs and their calculations worked from the textbook's own numbers, the isolated tissues and every determine-the-unknown-concentration experiment, and the isolated heart. About 20 hours 31 minutes.</description>
-    <itunes:summary>Narrated practical-exam answers for MD Pharmacology. Season 1 is protocol writing; season 2 is experimental pharmacology; season 3 is bioassay.</itunes:summary>
+    <description>Narrated model answers for the RGUHS MD Pharmacology practical examination, kept apart from the theory-exam show. Season 1, protocol writing: eight model protocols, from a phase 2 anxiolytic trial to phase 3 registration programmes, each with its design, sample size, visit schedule, analysis, Indian regulatory and ethics requirements, and viva points. Season 2, experimental pharmacology: laboratory animals and ethics, laboratory and sophisticated instruments, and the in vivo experiments of Medhi's Practical Manual, one episode per item. Season 3, bioassay: the principles, the designs and their calculations worked from the textbook's own numbers, the isolated tissues and every determine-the-unknown-concentration experiment, and the isolated heart. Season 4, chemical analysis and graphs: the tests for alkaloids, sterols and glycosides, how to identify an unknown sample, and every chart tracing of the KMCRI set, from adrenaline reversal to the frog rectus. About 25 hours 39 minutes.</description>
+    <itunes:summary>Narrated practical-exam answers for MD Pharmacology. Season 1 is protocol writing; season 2 is experimental pharmacology; season 3 is bioassay; season 4 is chemical analysis and graphs.</itunes:summary>
     <item>
       <title>Bioassay · 29 · Inotropic and chronotropic effects of drugs on the frog heart, isolated and in situ</title>
       <guid isPermaLink="false">practicals-bioassay-h03-inotropic-and-chronotropic-effects-of-drugs-on-the-frog-hear</guid>
@@ -903,6 +903,204 @@
       <itunes:subtitle>Practicals · Experimental pharmacology · Start here</itunes:subtitle>
       <description>How to write up an instrument or an experiment in the practical examination. A narrated model answer from the experimental pharmacology book for the RGUHS MD Pharmacology practical examination (Start here), from Medhi and Prakash's Practical Manual cross-checked against Ghosh, SK Gupta and Vogel, with its viva points.</description>
       <enclosure url="https://pub-ef148064c92046b79cd6387190ed03d9.r2.dev/experimental-pharmacology-p00-how-to-write-up-an-instrument-or-an-experiment-in-the-practi.mp3" length="2724332" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Chemical Analysis and Graphs · 17 · Cholinergic agonists on the dog's blood pressure before and after physostigmine (no tracing supplied)</title>
+      <guid isPermaLink="false">practicals-chemical-analysis-graphs-g11-cholinergic-agonists-on-the-dog-s-blood-pressure-before-and-</guid>
+      <pubDate>Fri, 26 Jun 2026 06:00:00 GMT</pubDate>
+      <itunes:season>4</itunes:season>
+      <itunes:episode>18</itunes:episode>
+      <itunes:duration>0:17:48</itunes:duration>
+      <itunes:subtitle>Practicals · Chemical analysis and graphs · Graphs and charts: cholinergic drugs</itunes:subtitle>
+      <description>Cholinergic agonists on the dog's blood pressure before and after physostigmine (no tracing supplied). A narrated model answer from the chemical analysis and graphs book for the RGUHS MD Pharmacology practical examination (Graphs and charts: cholinergic drugs): the chemical tests from pharmacopoeial and published methods, and the chart tracings of the KMCRI set read receptor by receptor from the standard textbooks, with its viva points.</description>
+      <enclosure url="https://pub-ef148064c92046b79cd6387190ed03d9.r2.dev/chemical-analysis-graphs-g11-cholinergic-agonists-on-the-dog-s-blood-pressure-before-and-.mp3" length="8543852" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Chemical Analysis and Graphs · 16 · Frog rectus abdominis: potentiation of acetylcholine by physostigmine</title>
+      <guid isPermaLink="false">practicals-chemical-analysis-graphs-g10-frog-rectus-abdominis-potentiation-of-acetylcholine-by-physo</guid>
+      <pubDate>Thu, 25 Jun 2026 06:00:00 GMT</pubDate>
+      <itunes:season>4</itunes:season>
+      <itunes:episode>17</itunes:episode>
+      <itunes:duration>0:15:52</itunes:duration>
+      <itunes:subtitle>Practicals · Chemical analysis and graphs · Graphs and charts: cholinergic drugs</itunes:subtitle>
+      <description>Frog rectus abdominis: potentiation of acetylcholine by physostigmine. A narrated model answer from the chemical analysis and graphs book for the RGUHS MD Pharmacology practical examination (Graphs and charts: cholinergic drugs): the chemical tests from pharmacopoeial and published methods, and the chart tracings of the KMCRI set read receptor by receptor from the standard textbooks, with its viva points.</description>
+      <enclosure url="https://pub-ef148064c92046b79cd6387190ed03d9.r2.dev/chemical-analysis-graphs-g10-frog-rectus-abdominis-potentiation-of-acetylcholine-by-physo.mp3" length="7618220" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Chemical Analysis and Graphs · 15 · Frog rectus abdominis: hydrolysis of acetylcholine by serum cholinesterase</title>
+      <guid isPermaLink="false">practicals-chemical-analysis-graphs-g09-frog-rectus-abdominis-hydrolysis-of-acetylcholine-by-serum-c</guid>
+      <pubDate>Wed, 24 Jun 2026 06:00:00 GMT</pubDate>
+      <itunes:season>4</itunes:season>
+      <itunes:episode>16</itunes:episode>
+      <itunes:duration>0:16:44</itunes:duration>
+      <itunes:subtitle>Practicals · Chemical analysis and graphs · Graphs and charts: cholinergic drugs</itunes:subtitle>
+      <description>Frog rectus abdominis: hydrolysis of acetylcholine by serum cholinesterase. A narrated model answer from the chemical analysis and graphs book for the RGUHS MD Pharmacology practical examination (Graphs and charts: cholinergic drugs): the chemical tests from pharmacopoeial and published methods, and the chart tracings of the KMCRI set read receptor by receptor from the standard textbooks, with its viva points.</description>
+      <enclosure url="https://pub-ef148064c92046b79cd6387190ed03d9.r2.dev/chemical-analysis-graphs-g09-frog-rectus-abdominis-hydrolysis-of-acetylcholine-by-serum-c.mp3" length="8029292" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Chemical Analysis and Graphs · 14 · Adrenaline, noradrenaline and isoprenaline before and after each blocker: one table</title>
+      <guid isPermaLink="false">practicals-chemical-analysis-graphs-g12-adrenaline-noradrenaline-and-isoprenaline-before-and-after-e</guid>
+      <pubDate>Tue, 23 Jun 2026 06:00:00 GMT</pubDate>
+      <itunes:season>4</itunes:season>
+      <itunes:episode>15</itunes:episode>
+      <itunes:duration>0:17:53</itunes:duration>
+      <itunes:subtitle>Practicals · Chemical analysis and graphs · Graphs and charts: adrenergic drugs on the dog's blood pressure</itunes:subtitle>
+      <description>Adrenaline, noradrenaline and isoprenaline before and after each blocker: one table. A narrated model answer from the chemical analysis and graphs book for the RGUHS MD Pharmacology practical examination (Graphs and charts: adrenergic drugs on the dog's blood pressure): the chemical tests from pharmacopoeial and published methods, and the chart tracings of the KMCRI set read receptor by receptor from the standard textbooks, with its viva points.</description>
+      <enclosure url="https://pub-ef148064c92046b79cd6387190ed03d9.r2.dev/chemical-analysis-graphs-g12-adrenaline-noradrenaline-and-isoprenaline-before-and-after-e.mp3" length="8585900" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Chemical Analysis and Graphs · 13 · Tachyphylaxis to repeated tyramine</title>
+      <guid isPermaLink="false">practicals-chemical-analysis-graphs-g08-tachyphylaxis-to-repeated-tyramine</guid>
+      <pubDate>Mon, 22 Jun 2026 06:00:00 GMT</pubDate>
+      <itunes:season>4</itunes:season>
+      <itunes:episode>14</itunes:episode>
+      <itunes:duration>0:12:37</itunes:duration>
+      <itunes:subtitle>Practicals · Chemical analysis and graphs · Graphs and charts: adrenergic drugs on the dog's blood pressure</itunes:subtitle>
+      <description>Tachyphylaxis to repeated tyramine. A narrated model answer from the chemical analysis and graphs book for the RGUHS MD Pharmacology practical examination (Graphs and charts: adrenergic drugs on the dog's blood pressure): the chemical tests from pharmacopoeial and published methods, and the chart tracings of the KMCRI set read receptor by receptor from the standard textbooks, with its viva points.</description>
+      <enclosure url="https://pub-ef148064c92046b79cd6387190ed03d9.r2.dev/chemical-analysis-graphs-g08-tachyphylaxis-to-repeated-tyramine.mp3" length="6052268" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Chemical Analysis and Graphs · 12 · α-blockade by phenoxybenzamine and its reversal by propranolol</title>
+      <guid isPermaLink="false">practicals-chemical-analysis-graphs-g07-blockade-by-phenoxybenzamine-and-its-reversal-by-propranolol</guid>
+      <pubDate>Sun, 21 Jun 2026 06:00:00 GMT</pubDate>
+      <itunes:season>4</itunes:season>
+      <itunes:episode>13</itunes:episode>
+      <itunes:duration>0:18:08</itunes:duration>
+      <itunes:subtitle>Practicals · Chemical analysis and graphs · Graphs and charts: adrenergic drugs on the dog's blood pressure</itunes:subtitle>
+      <description>α-blockade by phenoxybenzamine and its reversal by propranolol. A narrated model answer from the chemical analysis and graphs book for the RGUHS MD Pharmacology practical examination (Graphs and charts: adrenergic drugs on the dog's blood pressure): the chemical tests from pharmacopoeial and published methods, and the chart tracings of the KMCRI set read receptor by receptor from the standard textbooks, with its viva points.</description>
+      <enclosure url="https://pub-ef148064c92046b79cd6387190ed03d9.r2.dev/chemical-analysis-graphs-g07-blockade-by-phenoxybenzamine-and-its-reversal-by-propranolol.mp3" length="8705324" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Chemical Analysis and Graphs · 11 · β-blockade by propranolol</title>
+      <guid isPermaLink="false">practicals-chemical-analysis-graphs-g06-blockade-by-propranolol</guid>
+      <pubDate>Sat, 20 Jun 2026 06:00:00 GMT</pubDate>
+      <itunes:season>4</itunes:season>
+      <itunes:episode>12</itunes:episode>
+      <itunes:duration>0:15:42</itunes:duration>
+      <itunes:subtitle>Practicals · Chemical analysis and graphs · Graphs and charts: adrenergic drugs on the dog's blood pressure</itunes:subtitle>
+      <description>β-blockade by propranolol. A narrated model answer from the chemical analysis and graphs book for the RGUHS MD Pharmacology practical examination (Graphs and charts: adrenergic drugs on the dog's blood pressure): the chemical tests from pharmacopoeial and published methods, and the chart tracings of the KMCRI set read receptor by receptor from the standard textbooks, with its viva points.</description>
+      <enclosure url="https://pub-ef148064c92046b79cd6387190ed03d9.r2.dev/chemical-analysis-graphs-g06-blockade-by-propranolol.mp3" length="7532972" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Chemical Analysis and Graphs · 10 · α-blockade by Priscol (tolazoline): adrenaline reversal</title>
+      <guid isPermaLink="false">practicals-chemical-analysis-graphs-g05-blockade-by-priscol-tolazoline-adrenaline-reversal</guid>
+      <pubDate>Fri, 19 Jun 2026 06:00:00 GMT</pubDate>
+      <itunes:season>4</itunes:season>
+      <itunes:episode>11</itunes:episode>
+      <itunes:duration>0:16:32</itunes:duration>
+      <itunes:subtitle>Practicals · Chemical analysis and graphs · Graphs and charts: adrenergic drugs on the dog's blood pressure</itunes:subtitle>
+      <description>α-blockade by Priscol (tolazoline): adrenaline reversal. A narrated model answer from the chemical analysis and graphs book for the RGUHS MD Pharmacology practical examination (Graphs and charts: adrenergic drugs on the dog's blood pressure): the chemical tests from pharmacopoeial and published methods, and the chart tracings of the KMCRI set read receptor by receptor from the standard textbooks, with its viva points.</description>
+      <enclosure url="https://pub-ef148064c92046b79cd6387190ed03d9.r2.dev/chemical-analysis-graphs-g05-blockade-by-priscol-tolazoline-adrenaline-reversal.mp3" length="7934828" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Chemical Analysis and Graphs · 9 · Noradrenaline and adrenaline before and after tyramine</title>
+      <guid isPermaLink="false">practicals-chemical-analysis-graphs-g04-noradrenaline-and-adrenaline-before-and-after-tyramine</guid>
+      <pubDate>Thu, 18 Jun 2026 06:00:00 GMT</pubDate>
+      <itunes:season>4</itunes:season>
+      <itunes:episode>10</itunes:episode>
+      <itunes:duration>0:14:54</itunes:duration>
+      <itunes:subtitle>Practicals · Chemical analysis and graphs · Graphs and charts: adrenergic drugs on the dog's blood pressure</itunes:subtitle>
+      <description>Noradrenaline and adrenaline before and after tyramine. A narrated model answer from the chemical analysis and graphs book for the RGUHS MD Pharmacology practical examination (Graphs and charts: adrenergic drugs on the dog's blood pressure): the chemical tests from pharmacopoeial and published methods, and the chart tracings of the KMCRI set read receptor by receptor from the standard textbooks, with its viva points.</description>
+      <enclosure url="https://pub-ef148064c92046b79cd6387190ed03d9.r2.dev/chemical-analysis-graphs-g04-noradrenaline-and-adrenaline-before-and-after-tyramine.mp3" length="7151084" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Chemical Analysis and Graphs · 8 · Adrenaline and noradrenaline before and after guanethidine</title>
+      <guid isPermaLink="false">practicals-chemical-analysis-graphs-g03-adrenaline-and-noradrenaline-before-and-after-guanethidine</guid>
+      <pubDate>Wed, 17 Jun 2026 06:00:00 GMT</pubDate>
+      <itunes:season>4</itunes:season>
+      <itunes:episode>9</itunes:episode>
+      <itunes:duration>0:14:04</itunes:duration>
+      <itunes:subtitle>Practicals · Chemical analysis and graphs · Graphs and charts: adrenergic drugs on the dog's blood pressure</itunes:subtitle>
+      <description>Adrenaline and noradrenaline before and after guanethidine. A narrated model answer from the chemical analysis and graphs book for the RGUHS MD Pharmacology practical examination (Graphs and charts: adrenergic drugs on the dog's blood pressure): the chemical tests from pharmacopoeial and published methods, and the chart tracings of the KMCRI set read receptor by receptor from the standard textbooks, with its viva points.</description>
+      <enclosure url="https://pub-ef148064c92046b79cd6387190ed03d9.r2.dev/chemical-analysis-graphs-g03-adrenaline-and-noradrenaline-before-and-after-guanethidine.mp3" length="6752300" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Chemical Analysis and Graphs · 7 · Adrenaline and noradrenaline before and after cocaine</title>
+      <guid isPermaLink="false">practicals-chemical-analysis-graphs-g02-adrenaline-and-noradrenaline-before-and-after-cocaine</guid>
+      <pubDate>Tue, 16 Jun 2026 06:00:00 GMT</pubDate>
+      <itunes:season>4</itunes:season>
+      <itunes:episode>8</itunes:episode>
+      <itunes:duration>0:13:36</itunes:duration>
+      <itunes:subtitle>Practicals · Chemical analysis and graphs · Graphs and charts: adrenergic drugs on the dog's blood pressure</itunes:subtitle>
+      <description>Adrenaline and noradrenaline before and after cocaine. A narrated model answer from the chemical analysis and graphs book for the RGUHS MD Pharmacology practical examination (Graphs and charts: adrenergic drugs on the dog's blood pressure): the chemical tests from pharmacopoeial and published methods, and the chart tracings of the KMCRI set read receptor by receptor from the standard textbooks, with its viva points.</description>
+      <enclosure url="https://pub-ef148064c92046b79cd6387190ed03d9.r2.dev/chemical-analysis-graphs-g02-adrenaline-and-noradrenaline-before-and-after-cocaine.mp3" length="6528236" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Chemical Analysis and Graphs · 6 · Adrenaline, noradrenaline and isoprenaline on the dog's spleen volume, blood pressure and respiration</title>
+      <guid isPermaLink="false">practicals-chemical-analysis-graphs-g01-adrenaline-noradrenaline-and-isoprenaline-on-the-dog-s-splee</guid>
+      <pubDate>Mon, 15 Jun 2026 06:00:00 GMT</pubDate>
+      <itunes:season>4</itunes:season>
+      <itunes:episode>7</itunes:episode>
+      <itunes:duration>0:14:39</itunes:duration>
+      <itunes:subtitle>Practicals · Chemical analysis and graphs · Graphs and charts: adrenergic drugs on the dog's blood pressure</itunes:subtitle>
+      <description>Adrenaline, noradrenaline and isoprenaline on the dog's spleen volume, blood pressure and respiration. A narrated model answer from the chemical analysis and graphs book for the RGUHS MD Pharmacology practical examination (Graphs and charts: adrenergic drugs on the dog's blood pressure): the chemical tests from pharmacopoeial and published methods, and the chart tracings of the KMCRI set read receptor by receptor from the standard textbooks, with its viva points.</description>
+      <enclosure url="https://pub-ef148064c92046b79cd6387190ed03d9.r2.dev/chemical-analysis-graphs-g01-adrenaline-noradrenaline-and-isoprenaline-on-the-dog-s-splee.mp3" length="7032812" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Chemical Analysis and Graphs · 5 · How to answer an unknown tracing</title>
+      <guid isPermaLink="false">practicals-chemical-analysis-graphs-g00-how-to-answer-an-unknown-tracing</guid>
+      <pubDate>Sun, 14 Jun 2026 06:00:00 GMT</pubDate>
+      <itunes:season>4</itunes:season>
+      <itunes:episode>6</itunes:episode>
+      <itunes:duration>0:17:11</itunes:duration>
+      <itunes:subtitle>Practicals · Chemical analysis and graphs · Graphs and charts: adrenergic drugs on the dog's blood pressure</itunes:subtitle>
+      <description>How to answer an unknown tracing. A narrated model answer from the chemical analysis and graphs book for the RGUHS MD Pharmacology practical examination (Graphs and charts: adrenergic drugs on the dog's blood pressure): the chemical tests from pharmacopoeial and published methods, and the chart tracings of the KMCRI set read receptor by receptor from the standard textbooks, with its viva points.</description>
+      <enclosure url="https://pub-ef148064c92046b79cd6387190ed03d9.r2.dev/chemical-analysis-graphs-g00-how-to-answer-an-unknown-tracing.mp3" length="8245868" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Chemical Analysis and Graphs · 4 · An unknown sample: the order of tests, and the bench demonstration</title>
+      <guid isPermaLink="false">practicals-chemical-analysis-graphs-a04-an-unknown-sample-the-order-of-tests-and-the-bench-demonstra</guid>
+      <pubDate>Sat, 13 Jun 2026 06:00:00 GMT</pubDate>
+      <itunes:season>4</itunes:season>
+      <itunes:episode>5</itunes:episode>
+      <itunes:duration>0:22:02</itunes:duration>
+      <itunes:subtitle>Practicals · Chemical analysis and graphs · Chemical analysis: identifying the class of a compound</itunes:subtitle>
+      <description>An unknown sample: the order of tests, and the bench demonstration. A narrated model answer from the chemical analysis and graphs book for the RGUHS MD Pharmacology practical examination (Chemical analysis: identifying the class of a compound): the chemical tests from pharmacopoeial and published methods, and the chart tracings of the KMCRI set read receptor by receptor from the standard textbooks, with its viva points.</description>
+      <enclosure url="https://pub-ef148064c92046b79cd6387190ed03d9.r2.dev/chemical-analysis-graphs-a04-an-unknown-sample-the-order-of-tests-and-the-bench-demonstra.mp3" length="10577516" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Chemical Analysis and Graphs · 3 · Tests for glycosides</title>
+      <guid isPermaLink="false">practicals-chemical-analysis-graphs-a03-tests-for-glycosides</guid>
+      <pubDate>Fri, 12 Jun 2026 06:00:00 GMT</pubDate>
+      <itunes:season>4</itunes:season>
+      <itunes:episode>4</itunes:episode>
+      <itunes:duration>0:28:52</itunes:duration>
+      <itunes:subtitle>Practicals · Chemical analysis and graphs · Chemical analysis: identifying the class of a compound</itunes:subtitle>
+      <description>Tests for glycosides. A narrated model answer from the chemical analysis and graphs book for the RGUHS MD Pharmacology practical examination (Chemical analysis: identifying the class of a compound): the chemical tests from pharmacopoeial and published methods, and the chart tracings of the KMCRI set read receptor by receptor from the standard textbooks, with its viva points.</description>
+      <enclosure url="https://pub-ef148064c92046b79cd6387190ed03d9.r2.dev/chemical-analysis-graphs-a03-tests-for-glycosides.mp3" length="13853996" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Chemical Analysis and Graphs · 2 · Tests for sterols</title>
+      <guid isPermaLink="false">practicals-chemical-analysis-graphs-a02-tests-for-sterols</guid>
+      <pubDate>Thu, 11 Jun 2026 06:00:00 GMT</pubDate>
+      <itunes:season>4</itunes:season>
+      <itunes:episode>3</itunes:episode>
+      <itunes:duration>0:21:34</itunes:duration>
+      <itunes:subtitle>Practicals · Chemical analysis and graphs · Chemical analysis: identifying the class of a compound</itunes:subtitle>
+      <description>Tests for sterols. A narrated model answer from the chemical analysis and graphs book for the RGUHS MD Pharmacology practical examination (Chemical analysis: identifying the class of a compound): the chemical tests from pharmacopoeial and published methods, and the chart tracings of the KMCRI set read receptor by receptor from the standard textbooks, with its viva points.</description>
+      <enclosure url="https://pub-ef148064c92046b79cd6387190ed03d9.r2.dev/chemical-analysis-graphs-a02-tests-for-sterols.mp3" length="10350380" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Chemical Analysis and Graphs · 1 · Tests for alkaloids</title>
+      <guid isPermaLink="false">practicals-chemical-analysis-graphs-a01-tests-for-alkaloids</guid>
+      <pubDate>Wed, 10 Jun 2026 06:00:00 GMT</pubDate>
+      <itunes:season>4</itunes:season>
+      <itunes:episode>2</itunes:episode>
+      <itunes:duration>0:20:51</itunes:duration>
+      <itunes:subtitle>Practicals · Chemical analysis and graphs · Chemical analysis: identifying the class of a compound</itunes:subtitle>
+      <description>Tests for alkaloids. A narrated model answer from the chemical analysis and graphs book for the RGUHS MD Pharmacology practical examination (Chemical analysis: identifying the class of a compound): the chemical tests from pharmacopoeial and published methods, and the chart tracings of the KMCRI set read receptor by receptor from the standard textbooks, with its viva points.</description>
+      <enclosure url="https://pub-ef148064c92046b79cd6387190ed03d9.r2.dev/chemical-analysis-graphs-a01-tests-for-alkaloids.mp3" length="10006700" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Chemical Analysis and Graphs · Start here · How the chemical-analysis and graphs stations run, and how to write each answer</title>
+      <guid isPermaLink="false">practicals-chemical-analysis-graphs-c00-how-the-chemical-analysis-and-graphs-stations-run-and-how-to</guid>
+      <pubDate>Tue, 09 Jun 2026 06:00:00 GMT</pubDate>
+      <itunes:season>4</itunes:season>
+      <itunes:episode>1</itunes:episode>
+      <itunes:duration>0:08:24</itunes:duration>
+      <itunes:subtitle>Practicals · Chemical analysis and graphs · Start here</itunes:subtitle>
+      <description>How the chemical-analysis and graphs stations run, and how to write each answer. A narrated model answer from the chemical analysis and graphs book for the RGUHS MD Pharmacology practical examination (Start here): the chemical tests from pharmacopoeial and published methods, and the chart tracings of the KMCRI set read receptor by receptor from the standard textbooks, with its viva points.</description>
+      <enclosure url="https://pub-ef148064c92046b79cd6387190ed03d9.r2.dev/chemical-analysis-graphs-c00-how-the-chemical-analysis-and-graphs-stations-run-and-how-to.mp3" length="4028780" type="audio/mpeg"/>
     </item>
     <item>
       <title>Protocol Writing · Q8 · Phase 3 registration studies: new antidiabetic</title>
