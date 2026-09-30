@@ -22,7 +22,7 @@
     <itunes:category text="Health &amp; Fitness">
       <itunes:category text="Medicine"/>
     </itunes:category>
-    <description>Narrated model answers for the RGUHS MD Pharmacology practical examination, kept apart from the theory-exam show. Season 1, protocol writing: eight model protocols, from a phase 2 anxiolytic trial to phase 3 registration programmes, each with its design, sample size, visit schedule, analysis, Indian regulatory and ethics requirements, and viva points. Season 2, experimental pharmacology: laboratory animals and ethics, laboratory and sophisticated instruments, and the in vivo experiments of Medhi's Practical Manual, one episode per item. Season 3, bioassay: the principles, the designs and their calculations worked from the textbook's own numbers, the isolated tissues and every determine-the-unknown-concentration experiment, and the isolated heart. Season 4, chemical analysis and graphs: the tests for alkaloids, sterols and glycosides, how to identify an unknown sample, and every chart tracing of the KMCRI set, from adrenaline reversal to the frog rectus. Season 5, pharmacokinetic problems: the formula sheet and the fourteen KMCRI problems, each worked by hand from the given values to the answer, then nine PG-level problems from the clinical pharmacokinetics textbooks. Season 6, clinical cases: the eleven KMCRI clinical cases, from stable angina to type 2 diabetes with chronic kidney disease, each with the diagnosis, the drug treatment with doses and monitoring, and the viva questions. Season 7, pedagogy viva: the questions examiners ask after the microteaching session, from OHP and DOAP to Bloom's taxonomy, item analysis and CBME, each with the answer to lead with. Season 8, microteaching theory: what microteaching is, its component skills and cycle, writing objectives, slide design, and the viva questions on the session, with how the six exam decks apply them. About 37 hours 14 minutes.</description>
+    <description>Narrated model answers for the RGUHS MD Pharmacology practical examination, kept apart from the theory-exam show. Season 1, protocol writing: eight model protocols, from a phase 2 anxiolytic trial to phase 3 registration programmes, each with its design, sample size, visit schedule, analysis, Indian regulatory and ethics requirements, and viva points. Season 2, experimental pharmacology: laboratory animals and ethics, laboratory and sophisticated instruments, and the in vivo experiments of Medhi's Practical Manual, one episode per item, then nine animal workshop equipment monographs set against the textbooks. Season 3, bioassay: the principles, the designs and their calculations worked from the textbook's own numbers, the isolated tissues and every determine-the-unknown-concentration experiment, and the isolated heart. Season 4, chemical analysis and graphs: the tests for alkaloids, sterols and glycosides, how to identify an unknown sample, and every chart tracing of the KMCRI set, from adrenaline reversal to the frog rectus. Season 5, pharmacokinetic problems: the formula sheet and the fourteen KMCRI problems, each worked by hand from the given values to the answer, then nine PG-level problems from the clinical pharmacokinetics textbooks. Season 6, clinical cases: the eleven KMCRI clinical cases, from stable angina to type 2 diabetes with chronic kidney disease, each with the diagnosis, the drug treatment with doses and monitoring, and the viva questions. Season 7, pedagogy viva: the questions examiners ask after the microteaching session, from OHP and DOAP to Bloom's taxonomy, item analysis and CBME, each with the answer to lead with. Season 8, microteaching theory: what microteaching is, its component skills and cycle, writing objectives, slide design, and the viva questions on the session, with how the six exam decks apply them. About 39 hours 57 minutes.</description>
     <itunes:summary>Narrated practical-exam answers for MD Pharmacology. Season 1 is protocol writing; season 2 is experimental pharmacology; season 3 is bioassay; season 4 is chemical analysis and graphs; season 5 is pharmacokinetic problems; season 6 is clinical cases; season 7 is the pedagogy viva; season 8 is microteaching theory.</itunes:summary>
     <item>
       <title>Bioassay · 29 · Inotropic and chronotropic effects of drugs on the frog heart, isolated and in situ</title>
@@ -1805,6 +1805,105 @@
       <itunes:subtitle>Practicals · Pedagogy · Microteaching theory</itunes:subtitle>
       <description>What these notes cover. The start page of the microteaching theory notes for the RGUHS MD Pharmacology practical examination: what the notes cover and where they come from.</description>
       <enclosure url="https://pub-ef148064c92046b79cd6387190ed03d9.r2.dev/microteaching-theory-t00-what-these-notes-cover.mp3" length="868652" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Experimental Pharmacology · 58 · Y-arm maze</title>
+      <guid isPermaLink="false">practicals-experimental-pharmacology-w09-y-arm-maze</guid>
+      <pubDate>Thu, 19 Mar 2026 06:00:00 GMT</pubDate>
+      <itunes:season>2</itunes:season>
+      <itunes:episode>59</itunes:episode>
+      <itunes:duration>0:17:35</itunes:duration>
+      <itunes:subtitle>Practicals · Experimental pharmacology · Animal workshop monographs</itunes:subtitle>
+      <description>Y-arm maze. The animal workshop monograph of the Armed Forces Medical College pharmacology department, narrated in its own headings for the RGUHS MD Pharmacology practical examination, with every point checked against Medhi, Ghosh, SK Gupta, Vogel and Kulkarni and the differences set side by side, then its viva points.</description>
+      <enclosure url="https://pub-ef148064c92046b79cd6387190ed03d9.r2.dev/experimental-pharmacology-w09-y-arm-maze.mp3" length="8438828" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Experimental Pharmacology · 57 · Morris water maze</title>
+      <guid isPermaLink="false">practicals-experimental-pharmacology-w08-morris-water-maze</guid>
+      <pubDate>Wed, 18 Mar 2026 06:00:00 GMT</pubDate>
+      <itunes:season>2</itunes:season>
+      <itunes:episode>58</itunes:episode>
+      <itunes:duration>0:20:44</itunes:duration>
+      <itunes:subtitle>Practicals · Experimental pharmacology · Animal workshop monographs</itunes:subtitle>
+      <description>Morris water maze. The animal workshop monograph of the Armed Forces Medical College pharmacology department, narrated in its own headings for the RGUHS MD Pharmacology practical examination, with every point checked against Medhi, Ghosh, SK Gupta, Vogel and Kulkarni and the differences set side by side, then its viva points.</description>
+      <enclosure url="https://pub-ef148064c92046b79cd6387190ed03d9.r2.dev/experimental-pharmacology-w08-morris-water-maze.mp3" length="9955436" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Experimental Pharmacology · 56 · Writhing test</title>
+      <guid isPermaLink="false">practicals-experimental-pharmacology-w07-writhing-test</guid>
+      <pubDate>Tue, 17 Mar 2026 06:00:00 GMT</pubDate>
+      <itunes:season>2</itunes:season>
+      <itunes:episode>57</itunes:episode>
+      <itunes:duration>0:15:51</itunes:duration>
+      <itunes:subtitle>Practicals · Experimental pharmacology · Animal workshop monographs</itunes:subtitle>
+      <description>Writhing test. The animal workshop monograph of the Armed Forces Medical College pharmacology department, narrated in its own headings for the RGUHS MD Pharmacology practical examination, with every point checked against Medhi, Ghosh, SK Gupta, Vogel and Kulkarni and the differences set side by side, then its viva points.</description>
+      <enclosure url="https://pub-ef148064c92046b79cd6387190ed03d9.r2.dev/experimental-pharmacology-w07-writhing-test.mp3" length="7610732" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Experimental Pharmacology · 55 · Inclined plane</title>
+      <guid isPermaLink="false">practicals-experimental-pharmacology-w06-inclined-plane</guid>
+      <pubDate>Mon, 16 Mar 2026 06:00:00 GMT</pubDate>
+      <itunes:season>2</itunes:season>
+      <itunes:episode>56</itunes:episode>
+      <itunes:duration>0:13:53</itunes:duration>
+      <itunes:subtitle>Practicals · Experimental pharmacology · Animal workshop monographs</itunes:subtitle>
+      <description>Inclined plane. The animal workshop monograph of the Armed Forces Medical College pharmacology department, narrated in its own headings for the RGUHS MD Pharmacology practical examination, with every point checked against Medhi, Ghosh, SK Gupta, Vogel and Kulkarni and the differences set side by side, then its viva points.</description>
+      <enclosure url="https://pub-ef148064c92046b79cd6387190ed03d9.r2.dev/experimental-pharmacology-w06-inclined-plane.mp3" length="6660908" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Experimental Pharmacology · 54 · Photoactometer</title>
+      <guid isPermaLink="false">practicals-experimental-pharmacology-w05-photoactometer</guid>
+      <pubDate>Sun, 15 Mar 2026 06:00:00 GMT</pubDate>
+      <itunes:season>2</itunes:season>
+      <itunes:episode>55</itunes:episode>
+      <itunes:duration>0:18:30</itunes:duration>
+      <itunes:subtitle>Practicals · Experimental pharmacology · Animal workshop monographs</itunes:subtitle>
+      <description>Photoactometer. The animal workshop monograph of the Armed Forces Medical College pharmacology department, narrated in its own headings for the RGUHS MD Pharmacology practical examination, with every point checked against Medhi, Ghosh, SK Gupta, Vogel and Kulkarni and the differences set side by side, then its viva points.</description>
+      <enclosure url="https://pub-ef148064c92046b79cd6387190ed03d9.r2.dev/experimental-pharmacology-w05-photoactometer.mp3" length="8877164" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Experimental Pharmacology · 53 · Maximal electroshock and pentylenetetrazole-induced seizures (electroconvulsiometer)</title>
+      <guid isPermaLink="false">practicals-experimental-pharmacology-w04-maximal-electroshock-and-pentylenetetrazole-induced-seizures</guid>
+      <pubDate>Sat, 14 Mar 2026 06:00:00 GMT</pubDate>
+      <itunes:season>2</itunes:season>
+      <itunes:episode>54</itunes:episode>
+      <itunes:duration>0:26:51</itunes:duration>
+      <itunes:subtitle>Practicals · Experimental pharmacology · Animal workshop monographs</itunes:subtitle>
+      <description>Maximal electroshock and pentylenetetrazole-induced seizures (electroconvulsiometer). The animal workshop monograph of the Armed Forces Medical College pharmacology department, narrated in its own headings for the RGUHS MD Pharmacology practical examination, with every point checked against Medhi, Ghosh, SK Gupta, Vogel and Kulkarni and the differences set side by side, then its viva points.</description>
+      <enclosure url="https://pub-ef148064c92046b79cd6387190ed03d9.r2.dev/experimental-pharmacology-w04-maximal-electroshock-and-pentylenetetrazole-induced-seizures.mp3" length="12890348" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Experimental Pharmacology · 52 · Hot plate analgesiometer</title>
+      <guid isPermaLink="false">practicals-experimental-pharmacology-w03-hot-plate-analgesiometer</guid>
+      <pubDate>Fri, 13 Mar 2026 06:00:00 GMT</pubDate>
+      <itunes:season>2</itunes:season>
+      <itunes:episode>53</itunes:episode>
+      <itunes:duration>0:16:29</itunes:duration>
+      <itunes:subtitle>Practicals · Experimental pharmacology · Animal workshop monographs</itunes:subtitle>
+      <description>Hot plate analgesiometer. The animal workshop monograph of the Armed Forces Medical College pharmacology department, narrated in its own headings for the RGUHS MD Pharmacology practical examination, with every point checked against Medhi, Ghosh, SK Gupta, Vogel and Kulkarni and the differences set side by side, then its viva points.</description>
+      <enclosure url="https://pub-ef148064c92046b79cd6387190ed03d9.r2.dev/experimental-pharmacology-w03-hot-plate-analgesiometer.mp3" length="7915436" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Experimental Pharmacology · 51 · Rota rod (four-compartment model)</title>
+      <guid isPermaLink="false">practicals-experimental-pharmacology-w02-rota-rod-four-compartment-model</guid>
+      <pubDate>Thu, 12 Mar 2026 06:00:00 GMT</pubDate>
+      <itunes:season>2</itunes:season>
+      <itunes:episode>52</itunes:episode>
+      <itunes:duration>0:17:55</itunes:duration>
+      <itunes:subtitle>Practicals · Experimental pharmacology · Animal workshop monographs</itunes:subtitle>
+      <description>Rota rod (four-compartment model). The animal workshop monograph of the Armed Forces Medical College pharmacology department, narrated in its own headings for the RGUHS MD Pharmacology practical examination, with every point checked against Medhi, Ghosh, SK Gupta, Vogel and Kulkarni and the differences set side by side, then its viva points.</description>
+      <enclosure url="https://pub-ef148064c92046b79cd6387190ed03d9.r2.dev/experimental-pharmacology-w02-rota-rod-four-compartment-model.mp3" length="8598188" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Experimental Pharmacology · 50 · Tail flick analgesiometer</title>
+      <guid isPermaLink="false">practicals-experimental-pharmacology-w01-tail-flick-analgesiometer</guid>
+      <pubDate>Wed, 11 Mar 2026 06:00:00 GMT</pubDate>
+      <itunes:season>2</itunes:season>
+      <itunes:episode>51</itunes:episode>
+      <itunes:duration>0:15:21</itunes:duration>
+      <itunes:subtitle>Practicals · Experimental pharmacology · Animal workshop monographs</itunes:subtitle>
+      <description>Tail flick analgesiometer. The animal workshop monograph of the Armed Forces Medical College pharmacology department, narrated in its own headings for the RGUHS MD Pharmacology practical examination, with every point checked against Medhi, Ghosh, SK Gupta, Vogel and Kulkarni and the differences set side by side, then its viva points.</description>
+      <enclosure url="https://pub-ef148064c92046b79cd6387190ed03d9.r2.dev/experimental-pharmacology-w01-tail-flick-analgesiometer.mp3" length="7366316" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
