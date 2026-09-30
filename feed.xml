@@ -22,8 +22,8 @@
     <itunes:category text="Health &amp; Fitness">
       <itunes:category text="Medicine"/>
     </itunes:category>
-    <description>Narrated model answers for the RGUHS MD Pharmacology practical examination, kept apart from the theory-exam show. Season 1, protocol writing: eight model protocols, from a phase 2 anxiolytic trial to phase 3 registration programmes, each with its design, sample size, visit schedule, analysis, Indian regulatory and ethics requirements, and viva points. Season 2, experimental pharmacology: laboratory animals and ethics, laboratory and sophisticated instruments, and the in vivo experiments of Medhi's Practical Manual, one episode per item. Season 3, bioassay: the principles, the designs and their calculations worked from the textbook's own numbers, the isolated tissues and every determine-the-unknown-concentration experiment, and the isolated heart. Season 4, chemical analysis and graphs: the tests for alkaloids, sterols and glycosides, how to identify an unknown sample, and every chart tracing of the KMCRI set, from adrenaline reversal to the frog rectus. Season 5, pharmacokinetic problems: the formula sheet and the fourteen KMCRI problems, each worked by hand from the given values to the answer. About 26 hours 45 minutes.</description>
-    <itunes:summary>Narrated practical-exam answers for MD Pharmacology. Season 1 is protocol writing; season 2 is experimental pharmacology; season 3 is bioassay; season 4 is chemical analysis and graphs; season 5 is pharmacokinetic problems.</itunes:summary>
+    <description>Narrated model answers for the RGUHS MD Pharmacology practical examination, kept apart from the theory-exam show. Season 1, protocol writing: eight model protocols, from a phase 2 anxiolytic trial to phase 3 registration programmes, each with its design, sample size, visit schedule, analysis, Indian regulatory and ethics requirements, and viva points. Season 2, experimental pharmacology: laboratory animals and ethics, laboratory and sophisticated instruments, and the in vivo experiments of Medhi's Practical Manual, one episode per item. Season 3, bioassay: the principles, the designs and their calculations worked from the textbook's own numbers, the isolated tissues and every determine-the-unknown-concentration experiment, and the isolated heart. Season 4, chemical analysis and graphs: the tests for alkaloids, sterols and glycosides, how to identify an unknown sample, and every chart tracing of the KMCRI set, from adrenaline reversal to the frog rectus. Season 5, pharmacokinetic problems: the formula sheet and the fourteen KMCRI problems, each worked by hand from the given values to the answer, then nine PG-level problems from the clinical pharmacokinetics textbooks. Season 6, clinical cases: the eleven KMCRI clinical cases, from stable angina to type 2 diabetes with chronic kidney disease, each with the diagnosis, the drug treatment with doses and monitoring, and the viva questions. About 35 hours 9 minutes.</description>
+    <itunes:summary>Narrated practical-exam answers for MD Pharmacology. Season 1 is protocol writing; season 2 is experimental pharmacology; season 3 is bioassay; season 4 is chemical analysis and graphs; season 5 is pharmacokinetic problems; season 6 is clinical cases.</itunes:summary>
     <item>
       <title>Bioassay · 29 · Inotropic and chronotropic effects of drugs on the frog heart, isolated and in situ</title>
       <guid isPermaLink="false">practicals-bioassay-h03-inotropic-and-chronotropic-effects-of-drugs-on-the-frog-hear</guid>
@@ -1191,6 +1191,105 @@
       <enclosure url="https://pub-ef148064c92046b79cd6387190ed03d9.r2.dev/protocol-writing-q01-phase2-anxiolytic.mp3" length="13200236" type="audio/mpeg"/>
     </item>
     <item>
+      <title>PK Problems · PG 9 · Digoxin toxicity: how many more days to withhold the drug</title>
+      <guid isPermaLink="false">practicals-pk-problems-g09-digoxin-toxicity-how-many-more-days-to-withhold-the-drug</guid>
+      <pubDate>Sun, 24 May 2026 06:00:00 GMT</pubDate>
+      <itunes:season>5</itunes:season>
+      <itunes:episode>24</itunes:episode>
+      <itunes:duration>0:07:36</itunes:duration>
+      <itunes:subtitle>Practicals · Clinical pharmacology · Pharmacokinetic problems</itunes:subtitle>
+      <description>Digoxin toxicity: how many more days to withhold the drug. A narrated worked answer to a PG-level pharmacokinetics problem taken word for word from Atkinson's Principles of Clinical Pharmacology 4e, Chapter 2, Study Problem 6, pp 25–26, for the RGUHS MD Pharmacology practical examination: the given values, the formula and every step of the calculation, then the answer.</description>
+      <enclosure url="https://pub-ef148064c92046b79cd6387190ed03d9.r2.dev/pk-problems-g09-digoxin-toxicity-how-many-more-days-to-withhold-the-drug.mp3" length="3647468" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>PK Problems · PG 8 · Gentamicin in an obese patient with third-space fluid</title>
+      <guid isPermaLink="false">practicals-pk-problems-g08-gentamicin-in-an-obese-patient-with-third-space-fluid</guid>
+      <pubDate>Sat, 23 May 2026 06:00:00 GMT</pubDate>
+      <itunes:season>5</itunes:season>
+      <itunes:episode>23</itunes:episode>
+      <itunes:duration>0:13:32</itunes:duration>
+      <itunes:subtitle>Practicals · Clinical pharmacology · Pharmacokinetic problems</itunes:subtitle>
+      <description>Gentamicin in an obese patient with third-space fluid. A narrated worked answer to a PG-level pharmacokinetics problem taken word for word from Winter 6e, Chapter 6, Question 9, p 188, for the RGUHS MD Pharmacology practical examination: the given values, the formula and every step of the calculation, then the answer.</description>
+      <enclosure url="https://pub-ef148064c92046b79cd6387190ed03d9.r2.dev/pk-problems-g08-gentamicin-in-an-obese-patient-with-third-space-fluid.mp3" length="6493676" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>PK Problems · PG 7 · Vancomycin in haemodialysis: the dose, and a replacement dose after high-flux dialysis</title>
+      <guid isPermaLink="false">practicals-pk-problems-g07-vancomycin-in-haemodialysis-the-dose-and-a-replacement-dose-</guid>
+      <pubDate>Fri, 22 May 2026 06:00:00 GMT</pubDate>
+      <itunes:season>5</itunes:season>
+      <itunes:episode>22</itunes:episode>
+      <itunes:duration>0:13:02</itunes:duration>
+      <itunes:subtitle>Practicals · Clinical pharmacology · Pharmacokinetic problems</itunes:subtitle>
+      <description>Vancomycin in haemodialysis: the dose, and a replacement dose after high-flux dialysis. A narrated worked answer to a PG-level pharmacokinetics problem taken word for word from Winter, Basic Clinical Pharmacokinetics 6e, Chapter 16, Questions 4 and 5, pp 484–486, for the RGUHS MD Pharmacology practical examination: the given values, the formula and every step of the calculation, then the answer.</description>
+      <enclosure url="https://pub-ef148064c92046b79cd6387190ed03d9.r2.dev/pk-problems-g07-vancomycin-in-haemodialysis-the-dose-and-a-replacement-dose-.mp3" length="6256556" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>PK Problems · PG 6 · Aminophylline loading dose, maintenance infusion and time to steady state</title>
+      <guid isPermaLink="false">practicals-pk-problems-g06-aminophylline-loading-dose-maintenance-infusion-and-time-to-</guid>
+      <pubDate>Thu, 21 May 2026 06:00:00 GMT</pubDate>
+      <itunes:season>5</itunes:season>
+      <itunes:episode>21</itunes:episode>
+      <itunes:duration>0:09:43</itunes:duration>
+      <itunes:subtitle>Practicals · Clinical pharmacology · Pharmacokinetic problems</itunes:subtitle>
+      <description>Aminophylline loading dose, maintenance infusion and time to steady state. A narrated worked answer to a PG-level pharmacokinetics problem taken word for word from Southwood et al. 7e, Lesson 14, Case 1, Problems 1A to 1C, pp 222–224, for the RGUHS MD Pharmacology practical examination: the given values, the formula and every step of the calculation, then the answer.</description>
+      <enclosure url="https://pub-ef148064c92046b79cd6387190ed03d9.r2.dev/pk-problems-g06-aminophylline-loading-dose-maintenance-infusion-and-time-to-.mp3" length="4661804" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>PK Problems · PG 5 · Gentamicin: the patient's own half-life and volume from a measured peak and trough, and a new dose</title>
+      <guid isPermaLink="false">practicals-pk-problems-g05-gentamicin-the-patient-s-own-half-life-and-volume-from-a-mea</guid>
+      <pubDate>Wed, 20 May 2026 06:00:00 GMT</pubDate>
+      <itunes:season>5</itunes:season>
+      <itunes:episode>20</itunes:episode>
+      <itunes:duration>0:12:43</itunes:duration>
+      <itunes:subtitle>Practicals · Clinical pharmacology · Pharmacokinetic problems</itunes:subtitle>
+      <description>Gentamicin: the patient's own half-life and volume from a measured peak and trough, and a new dose. A narrated worked answer to a PG-level pharmacokinetics problem taken word for word from Southwood et al. 7e, Practice Set 2, PS2-7 to PS2-10, p 94, for the RGUHS MD Pharmacology practical examination: the given values, the formula and every step of the calculation, then the answer.</description>
+      <enclosure url="https://pub-ef148064c92046b79cd6387190ed03d9.r2.dev/pk-problems-g05-gentamicin-the-patient-s-own-half-life-and-volume-from-a-mea.mp3" length="6100460" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>PK Problems · PG 4 · Accumulation on repeated IV doses: the trough after the tenth dose, and the steady-state peak and trough</title>
+      <guid isPermaLink="false">practicals-pk-problems-g04-accumulation-on-repeated-iv-doses-the-trough-after-the-tenth</guid>
+      <pubDate>Tue, 19 May 2026 06:00:00 GMT</pubDate>
+      <itunes:season>5</itunes:season>
+      <itunes:episode>19</itunes:episode>
+      <itunes:duration>0:07:42</itunes:duration>
+      <itunes:subtitle>Practicals · Clinical pharmacology · Pharmacokinetic problems</itunes:subtitle>
+      <description>Accumulation on repeated IV doses: the trough after the tenth dose, and the steady-state peak and trough. A narrated worked answer to a PG-level pharmacokinetics problem taken word for word from Southwood et al. 7e, Appendix B, Supplemental Problems SP5 and SP8, p 262, for the RGUHS MD Pharmacology practical examination: the given values, the formula and every step of the calculation, then the answer.</description>
+      <enclosure url="https://pub-ef148064c92046b79cd6387190ed03d9.r2.dev/pk-problems-g04-accumulation-on-repeated-iv-doses-the-trough-after-the-tenth.mp3" length="3696044" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>PK Problems · PG 3 · Phenytoin: Km and Vmax from two steady-state levels, time to 90% of steady state, and the level on a higher dose</title>
+      <guid isPermaLink="false">practicals-pk-problems-g03-phenytoin-km-and-vmax-from-two-steady-state-levels-time-to-9</guid>
+      <pubDate>Mon, 18 May 2026 06:00:00 GMT</pubDate>
+      <itunes:season>5</itunes:season>
+      <itunes:episode>18</itunes:episode>
+      <itunes:duration>0:08:40</itunes:duration>
+      <itunes:subtitle>Practicals · Clinical pharmacology · Pharmacokinetic problems</itunes:subtitle>
+      <description>Phenytoin: Km and Vmax from two steady-state levels, time to 90% of steady state, and the level on a higher dose. A narrated worked answer to a PG-level pharmacokinetics problem taken word for word from Southwood et al. 7e, Lesson 10, Questions 10-7, 10-8, 10-10 and 10-11, pp 151–152, for the RGUHS MD Pharmacology practical examination: the given values, the formula and every step of the calculation, then the answer.</description>
+      <enclosure url="https://pub-ef148064c92046b79cd6387190ed03d9.r2.dev/pk-problems-g03-phenytoin-km-and-vmax-from-two-steady-state-levels-time-to-9.mp3" length="4163756" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>PK Problems · PG 2 · Relative bioavailability from concentration–time data, and reading bioequivalence confidence intervals</title>
+      <guid isPermaLink="false">practicals-pk-problems-g02-relative-bioavailability-from-concentration-time-data-and-re</guid>
+      <pubDate>Sun, 17 May 2026 06:00:00 GMT</pubDate>
+      <itunes:season>5</itunes:season>
+      <itunes:episode>17</itunes:episode>
+      <itunes:duration>0:23:01</itunes:duration>
+      <itunes:subtitle>Practicals · Clinical pharmacology · Pharmacokinetic problems</itunes:subtitle>
+      <description>Relative bioavailability from concentration–time data, and reading bioequivalence confidence intervals. A narrated worked answer to a PG-level pharmacokinetics problem taken word for word from Southwood et al. 7e, Practice Set 3, PS3-1 to PS3-4, p 171; Rowland &amp; Tozer, Clinical Pharmacokinetics and Pharmacodynamics (2019), Chapter 6, Study Problem 10, for the RGUHS MD Pharmacology practical examination: the given values, the formula and every step of the calculation, then the answer.</description>
+      <enclosure url="https://pub-ef148064c92046b79cd6387190ed03d9.r2.dev/pk-problems-g02-relative-bioavailability-from-concentration-time-data-and-re.mp3" length="11051564" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>PK Problems · PG 1 · PK parameters from plasma concentration–time data after an IV bolus</title>
+      <guid isPermaLink="false">practicals-pk-problems-g01-pk-parameters-from-plasma-concentration-time-data-after-an-i</guid>
+      <pubDate>Sat, 16 May 2026 06:00:00 GMT</pubDate>
+      <itunes:season>5</itunes:season>
+      <itunes:episode>16</itunes:episode>
+      <itunes:duration>0:11:21</itunes:duration>
+      <itunes:subtitle>Practicals · Clinical pharmacology · Pharmacokinetic problems</itunes:subtitle>
+      <description>PK parameters from plasma concentration–time data after an IV bolus. A narrated worked answer to a PG-level pharmacokinetics problem taken word for word from Southwood, Fleming and Huckaby, Concepts in Clinical Pharmacokinetics 7e (ASHP 2018; earlier editions by Spruill et al.), Practice Set 1, PS1-1 to PS1-6, pp 45–46, for the RGUHS MD Pharmacology practical examination: the given values, the formula and every step of the calculation, then the answer.</description>
+      <enclosure url="https://pub-ef148064c92046b79cd6387190ed03d9.r2.dev/pk-problems-g01-pk-parameters-from-plasma-concentration-time-data-after-an-i.mp3" length="5451884" type="audio/mpeg"/>
+    </item>
+    <item>
       <title>PK Problems · Problem 14 · Total iron requirement in anaemia of pregnancy</title>
       <guid isPermaLink="false">practicals-pk-problems-k14-total-iron-requirement-in-anaemia-of-pregnancy</guid>
       <pubDate>Fri, 15 May 2026 06:00:00 GMT</pubDate>
@@ -1287,7 +1386,7 @@
       <itunes:duration>0:04:23</itunes:duration>
       <itunes:subtitle>Practicals · Clinical pharmacology · Pharmacokinetic problems</itunes:subtitle>
       <description>Clearance from a per-kilogram dose, initial concentration and half-life. A narrated worked answer to the KMCRI postgraduate pharmacokinetics problem set for the RGUHS MD Pharmacology practical examination: the given values, the formula and every step of the calculation by hand, then the answer.</description>
-      <enclosure url="https://pub-ef148064c92046b79cd6387190ed03d9.r2.dev/pk-problems-k06-clearance-from-a-per-kilogram-dose-initial-concentration-and.mp3" length="2100908" type="audio/mpeg"/>
+      <enclosure url="https://pub-ef148064c92046b79cd6387190ed03d9.r2.dev/pk-problems-k06-clearance-from-a-per-kilogram-dose-initial-concentration-and.mp3" length="2107244" type="audio/mpeg"/>
     </item>
     <item>
       <title>PK Problems · Problem 5 · Clearance from dose, plasma concentration and half-life</title>
@@ -1295,10 +1394,10 @@
       <pubDate>Wed, 06 May 2026 06:00:00 GMT</pubDate>
       <itunes:season>5</itunes:season>
       <itunes:episode>6</itunes:episode>
-      <itunes:duration>0:03:28</itunes:duration>
+      <itunes:duration>0:03:29</itunes:duration>
       <itunes:subtitle>Practicals · Clinical pharmacology · Pharmacokinetic problems</itunes:subtitle>
       <description>Clearance from dose, plasma concentration and half-life. A narrated worked answer to the KMCRI postgraduate pharmacokinetics problem set for the RGUHS MD Pharmacology practical examination: the given values, the formula and every step of the calculation by hand, then the answer.</description>
-      <enclosure url="https://pub-ef148064c92046b79cd6387190ed03d9.r2.dev/pk-problems-k05-clearance-from-dose-plasma-concentration-and-half-life.mp3" length="1665836" type="audio/mpeg"/>
+      <enclosure url="https://pub-ef148064c92046b79cd6387190ed03d9.r2.dev/pk-problems-k05-clearance-from-dose-plasma-concentration-and-half-life.mp3" length="1673132" type="audio/mpeg"/>
     </item>
     <item>
       <title>PK Problems · Problem 4 · Paediatric doses of paracetamol and metronidazole by Young's formula</title>
@@ -1350,10 +1449,142 @@
       <pubDate>Fri, 01 May 2026 06:00:00 GMT</pubDate>
       <itunes:season>5</itunes:season>
       <itunes:episode>1</itunes:episode>
-      <itunes:duration>0:11:06</itunes:duration>
+      <itunes:duration>0:11:07</itunes:duration>
       <itunes:subtitle>Practicals · Clinical pharmacology · Pharmacokinetic problems</itunes:subtitle>
       <description>The formula sheet, and how to lay out a PK answer in the hall. A narrated worked answer to the KMCRI postgraduate pharmacokinetics problem set for the RGUHS MD Pharmacology practical examination: the given values, the formula and every step of the calculation by hand, then the answer.</description>
-      <enclosure url="https://pub-ef148064c92046b79cd6387190ed03d9.r2.dev/pk-problems-p00-the-formula-sheet-and-how-to-lay-out-a-pk-answer-in-the-hall.mp3" length="5326124" type="audio/mpeg"/>
+      <enclosure url="https://pub-ef148064c92046b79cd6387190ed03d9.r2.dev/pk-problems-p00-the-formula-sheet-and-how-to-lay-out-a-pk-answer-in-the-hall.mp3" length="5332460" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Clinical Cases · Case 11 · Type 2 diabetes with chronic kidney disease stage 4</title>
+      <guid isPermaLink="false">practicals-clinical-cases-c11-type-2-diabetes-with-chronic-kidney-disease-stage-4</guid>
+      <pubDate>Mon, 27 Apr 2026 06:00:00 GMT</pubDate>
+      <itunes:season>6</itunes:season>
+      <itunes:episode>12</itunes:episode>
+      <itunes:duration>0:39:16</itunes:duration>
+      <itunes:subtitle>Practicals · Clinical pharmacology · Clinical cases</itunes:subtitle>
+      <description>Type 2 diabetes with chronic kidney disease stage 4. A narrated model answer to a KMCRI clinical case for the RGUHS MD Pharmacology practical examination: the diagnosis, the drug treatment with doses and what to monitor, the reasons for each choice from the standard textbooks and current guidelines, and the questions the examiner is likely to ask.</description>
+      <enclosure url="https://pub-ef148064c92046b79cd6387190ed03d9.r2.dev/clinical-cases-c11-type-2-diabetes-with-chronic-kidney-disease-stage-4.mp3" length="18845804" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Clinical Cases · Case 10 · Graves' disease on carbimazole, hypothyroid after a year</title>
+      <guid isPermaLink="false">practicals-clinical-cases-c10-graves-disease-on-carbimazole-hypothyroid-after-a-year</guid>
+      <pubDate>Sun, 26 Apr 2026 06:00:00 GMT</pubDate>
+      <itunes:season>6</itunes:season>
+      <itunes:episode>11</itunes:episode>
+      <itunes:duration>0:31:43</itunes:duration>
+      <itunes:subtitle>Practicals · Clinical pharmacology · Clinical cases</itunes:subtitle>
+      <description>Graves' disease on carbimazole, hypothyroid after a year. A narrated model answer to a KMCRI clinical case for the RGUHS MD Pharmacology practical examination: the diagnosis, the drug treatment with doses and what to monitor, the reasons for each choice from the standard textbooks and current guidelines, and the questions the examiner is likely to ask.</description>
+      <enclosure url="https://pub-ef148064c92046b79cd6387190ed03d9.r2.dev/clinical-cases-c10-graves-disease-on-carbimazole-hypothyroid-after-a-year.mp3" length="15226604" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Clinical Cases · Case 9 · Tuberculosis relapse after treatment default</title>
+      <guid isPermaLink="false">practicals-clinical-cases-c09-tuberculosis-relapse-after-treatment-default</guid>
+      <pubDate>Sat, 25 Apr 2026 06:00:00 GMT</pubDate>
+      <itunes:season>6</itunes:season>
+      <itunes:episode>10</itunes:episode>
+      <itunes:duration>0:40:02</itunes:duration>
+      <itunes:subtitle>Practicals · Clinical pharmacology · Clinical cases</itunes:subtitle>
+      <description>Tuberculosis relapse after treatment default. A narrated model answer to a KMCRI clinical case for the RGUHS MD Pharmacology practical examination: the diagnosis, the drug treatment with doses and what to monitor, the reasons for each choice from the standard textbooks and current guidelines, and the questions the examiner is likely to ask.</description>
+      <enclosure url="https://pub-ef148064c92046b79cd6387190ed03d9.r2.dev/clinical-cases-c09-tuberculosis-relapse-after-treatment-default.mp3" length="19218476" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Clinical Cases · Case 8 · Dry cough on enalapril</title>
+      <guid isPermaLink="false">practicals-clinical-cases-c08-dry-cough-on-enalapril</guid>
+      <pubDate>Fri, 24 Apr 2026 06:00:00 GMT</pubDate>
+      <itunes:season>6</itunes:season>
+      <itunes:episode>9</itunes:episode>
+      <itunes:duration>0:29:39</itunes:duration>
+      <itunes:subtitle>Practicals · Clinical pharmacology · Clinical cases</itunes:subtitle>
+      <description>Dry cough on enalapril. A narrated model answer to a KMCRI clinical case for the RGUHS MD Pharmacology practical examination: the diagnosis, the drug treatment with doses and what to monitor, the reasons for each choice from the standard textbooks and current guidelines, and the questions the examiner is likely to ask.</description>
+      <enclosure url="https://pub-ef148064c92046b79cd6387190ed03d9.r2.dev/clinical-cases-c08-dry-cough-on-enalapril.mp3" length="14234156" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Clinical Cases · Case 7 · Newly diagnosed type 2 diabetes</title>
+      <guid isPermaLink="false">practicals-clinical-cases-c07-newly-diagnosed-type-2-diabetes</guid>
+      <pubDate>Thu, 23 Apr 2026 06:00:00 GMT</pubDate>
+      <itunes:season>6</itunes:season>
+      <itunes:episode>8</itunes:episode>
+      <itunes:duration>0:34:49</itunes:duration>
+      <itunes:subtitle>Practicals · Clinical pharmacology · Clinical cases</itunes:subtitle>
+      <description>Newly diagnosed type 2 diabetes. A narrated model answer to a KMCRI clinical case for the RGUHS MD Pharmacology practical examination: the diagnosis, the drug treatment with doses and what to monitor, the reasons for each choice from the standard textbooks and current guidelines, and the questions the examiner is likely to ask.</description>
+      <enclosure url="https://pub-ef148064c92046b79cd6387190ed03d9.r2.dev/clinical-cases-c07-newly-diagnosed-type-2-diabetes.mp3" length="16713836" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Clinical Cases · Case 6 · Amoebic liver abscess</title>
+      <guid isPermaLink="false">practicals-clinical-cases-c06-amoebic-liver-abscess</guid>
+      <pubDate>Wed, 22 Apr 2026 06:00:00 GMT</pubDate>
+      <itunes:season>6</itunes:season>
+      <itunes:episode>7</itunes:episode>
+      <itunes:duration>0:33:53</itunes:duration>
+      <itunes:subtitle>Practicals · Clinical pharmacology · Clinical cases</itunes:subtitle>
+      <description>Amoebic liver abscess. A narrated model answer to a KMCRI clinical case for the RGUHS MD Pharmacology practical examination: the diagnosis, the drug treatment with doses and what to monitor, the reasons for each choice from the standard textbooks and current guidelines, and the questions the examiner is likely to ask.</description>
+      <enclosure url="https://pub-ef148064c92046b79cd6387190ed03d9.r2.dev/clinical-cases-c06-amoebic-liver-abscess.mp3" length="16265900" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Clinical Cases · Case 5 · First-episode schizophrenia</title>
+      <guid isPermaLink="false">practicals-clinical-cases-c05-first-episode-schizophrenia</guid>
+      <pubDate>Tue, 21 Apr 2026 06:00:00 GMT</pubDate>
+      <itunes:season>6</itunes:season>
+      <itunes:episode>6</itunes:episode>
+      <itunes:duration>0:36:16</itunes:duration>
+      <itunes:subtitle>Practicals · Clinical pharmacology · Clinical cases</itunes:subtitle>
+      <description>First-episode schizophrenia. A narrated model answer to a KMCRI clinical case for the RGUHS MD Pharmacology practical examination: the diagnosis, the drug treatment with doses and what to monitor, the reasons for each choice from the standard textbooks and current guidelines, and the questions the examiner is likely to ask.</description>
+      <enclosure url="https://pub-ef148064c92046b79cd6387190ed03d9.r2.dev/clinical-cases-c05-first-episode-schizophrenia.mp3" length="17410796" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Clinical Cases · Case 4 · Rheumatoid arthritis with active synovitis on NSAIDs</title>
+      <guid isPermaLink="false">practicals-clinical-cases-c04-rheumatoid-arthritis-with-active-synovitis-on-nsaids</guid>
+      <pubDate>Mon, 20 Apr 2026 06:00:00 GMT</pubDate>
+      <itunes:season>6</itunes:season>
+      <itunes:episode>5</itunes:episode>
+      <itunes:duration>0:35:41</itunes:duration>
+      <itunes:subtitle>Practicals · Clinical pharmacology · Clinical cases</itunes:subtitle>
+      <description>Rheumatoid arthritis with active synovitis on NSAIDs. A narrated model answer to a KMCRI clinical case for the RGUHS MD Pharmacology practical examination: the diagnosis, the drug treatment with doses and what to monitor, the reasons for each choice from the standard textbooks and current guidelines, and the questions the examiner is likely to ask.</description>
+      <enclosure url="https://pub-ef148064c92046b79cd6387190ed03d9.r2.dev/clinical-cases-c04-rheumatoid-arthritis-with-active-synovitis-on-nsaids.mp3" length="17129132" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Clinical Cases · Case 3 · Migraine treated with sumatriptan</title>
+      <guid isPermaLink="false">practicals-clinical-cases-c03-migraine-treated-with-sumatriptan</guid>
+      <pubDate>Sun, 19 Apr 2026 06:00:00 GMT</pubDate>
+      <itunes:season>6</itunes:season>
+      <itunes:episode>4</itunes:episode>
+      <itunes:duration>0:34:58</itunes:duration>
+      <itunes:subtitle>Practicals · Clinical pharmacology · Clinical cases</itunes:subtitle>
+      <description>Migraine treated with sumatriptan. A narrated model answer to a KMCRI clinical case for the RGUHS MD Pharmacology practical examination: the diagnosis, the drug treatment with doses and what to monitor, the reasons for each choice from the standard textbooks and current guidelines, and the questions the examiner is likely to ask.</description>
+      <enclosure url="https://pub-ef148064c92046b79cd6387190ed03d9.r2.dev/clinical-cases-c03-migraine-treated-with-sumatriptan.mp3" length="16783340" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Clinical Cases · Case 2 · Septic shock from a urinary tract infection, on dopamine</title>
+      <guid isPermaLink="false">practicals-clinical-cases-c02-septic-shock-from-a-urinary-tract-infection-on-dopamine</guid>
+      <pubDate>Sat, 18 Apr 2026 06:00:00 GMT</pubDate>
+      <itunes:season>6</itunes:season>
+      <itunes:episode>3</itunes:episode>
+      <itunes:duration>0:40:33</itunes:duration>
+      <itunes:subtitle>Practicals · Clinical pharmacology · Clinical cases</itunes:subtitle>
+      <description>Septic shock from a urinary tract infection, on dopamine. A narrated model answer to a KMCRI clinical case for the RGUHS MD Pharmacology practical examination: the diagnosis, the drug treatment with doses and what to monitor, the reasons for each choice from the standard textbooks and current guidelines, and the questions the examiner is likely to ask.</description>
+      <enclosure url="https://pub-ef148064c92046b79cd6387190ed03d9.r2.dev/clinical-cases-c02-septic-shock-from-a-urinary-tract-infection-on-dopamine.mp3" length="19460588" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Clinical Cases · Case 1 · Stable angina with hypertension and dyslipidaemia</title>
+      <guid isPermaLink="false">practicals-clinical-cases-c01-stable-angina-with-hypertension-and-dyslipidaemia</guid>
+      <pubDate>Fri, 17 Apr 2026 06:00:00 GMT</pubDate>
+      <itunes:season>6</itunes:season>
+      <itunes:episode>2</itunes:episode>
+      <itunes:duration>0:34:14</itunes:duration>
+      <itunes:subtitle>Practicals · Clinical pharmacology · Clinical cases</itunes:subtitle>
+      <description>Stable angina with hypertension and dyslipidaemia. A narrated model answer to a KMCRI clinical case for the RGUHS MD Pharmacology practical examination: the diagnosis, the drug treatment with doses and what to monitor, the reasons for each choice from the standard textbooks and current guidelines, and the questions the examiner is likely to ask.</description>
+      <enclosure url="https://pub-ef148064c92046b79cd6387190ed03d9.r2.dev/clinical-cases-c01-stable-angina-with-hypertension-and-dyslipidaemia.mp3" length="16434668" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Clinical Cases · Start here · How a clinical case answer is laid out</title>
+      <guid isPermaLink="false">practicals-clinical-cases-c00-how-a-clinical-case-answer-is-laid-out</guid>
+      <pubDate>Thu, 16 Apr 2026 06:00:00 GMT</pubDate>
+      <itunes:season>6</itunes:season>
+      <itunes:episode>1</itunes:episode>
+      <itunes:duration>0:05:31</itunes:duration>
+      <itunes:subtitle>Practicals · Clinical pharmacology · Clinical cases</itunes:subtitle>
+      <description>How a clinical case answer is laid out. The start page of the clinical cases book for the RGUHS MD Pharmacology practical examination: the layout every case answer follows, and where its facts come from.</description>
+      <enclosure url="https://pub-ef148064c92046b79cd6387190ed03d9.r2.dev/clinical-cases-c00-how-a-clinical-case-answer-is-laid-out.mp3" length="2647148" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
