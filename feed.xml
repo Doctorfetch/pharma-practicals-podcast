@@ -22,8 +22,8 @@
     <itunes:category text="Health &amp; Fitness">
       <itunes:category text="Medicine"/>
     </itunes:category>
-    <description>Narrated model answers for the RGUHS MD Pharmacology practical examination, kept apart from the theory-exam show. Season 1, protocol writing: eight model protocols, from a phase 2 anxiolytic trial to phase 3 registration programmes, each with its design, sample size, visit schedule, analysis, Indian regulatory and ethics requirements, and viva points. Season 2, experimental pharmacology: laboratory animals and ethics, laboratory and sophisticated instruments, and the in vivo experiments of Medhi's Practical Manual, one episode per item. Season 3, bioassay: the principles, the designs and their calculations worked from the textbook's own numbers, the isolated tissues and every determine-the-unknown-concentration experiment, and the isolated heart. Season 4, chemical analysis and graphs: the tests for alkaloids, sterols and glycosides, how to identify an unknown sample, and every chart tracing of the KMCRI set, from adrenaline reversal to the frog rectus. Season 5, pharmacokinetic problems: the formula sheet and the fourteen KMCRI problems, each worked by hand from the given values to the answer, then nine PG-level problems from the clinical pharmacokinetics textbooks. Season 6, clinical cases: the eleven KMCRI clinical cases, from stable angina to type 2 diabetes with chronic kidney disease, each with the diagnosis, the drug treatment with doses and monitoring, and the viva questions. About 35 hours 9 minutes.</description>
-    <itunes:summary>Narrated practical-exam answers for MD Pharmacology. Season 1 is protocol writing; season 2 is experimental pharmacology; season 3 is bioassay; season 4 is chemical analysis and graphs; season 5 is pharmacokinetic problems; season 6 is clinical cases.</itunes:summary>
+    <description>Narrated model answers for the RGUHS MD Pharmacology practical examination, kept apart from the theory-exam show. Season 1, protocol writing: eight model protocols, from a phase 2 anxiolytic trial to phase 3 registration programmes, each with its design, sample size, visit schedule, analysis, Indian regulatory and ethics requirements, and viva points. Season 2, experimental pharmacology: laboratory animals and ethics, laboratory and sophisticated instruments, and the in vivo experiments of Medhi's Practical Manual, one episode per item. Season 3, bioassay: the principles, the designs and their calculations worked from the textbook's own numbers, the isolated tissues and every determine-the-unknown-concentration experiment, and the isolated heart. Season 4, chemical analysis and graphs: the tests for alkaloids, sterols and glycosides, how to identify an unknown sample, and every chart tracing of the KMCRI set, from adrenaline reversal to the frog rectus. Season 5, pharmacokinetic problems: the formula sheet and the fourteen KMCRI problems, each worked by hand from the given values to the answer, then nine PG-level problems from the clinical pharmacokinetics textbooks. Season 6, clinical cases: the eleven KMCRI clinical cases, from stable angina to type 2 diabetes with chronic kidney disease, each with the diagnosis, the drug treatment with doses and monitoring, and the viva questions. Season 7, pedagogy viva: the questions examiners ask after the microteaching session, from OHP and DOAP to Bloom's taxonomy, item analysis and CBME, each with the answer to lead with. About 36 hours 51 minutes.</description>
+    <itunes:summary>Narrated practical-exam answers for MD Pharmacology. Season 1 is protocol writing; season 2 is experimental pharmacology; season 3 is bioassay; season 4 is chemical analysis and graphs; season 5 is pharmacokinetic problems; season 6 is clinical cases; season 7 is the pedagogy viva.</itunes:summary>
     <item>
       <title>Bioassay · 29 · Inotropic and chronotropic effects of drugs on the frog heart, isolated and in situ</title>
       <guid isPermaLink="false">practicals-bioassay-h03-inotropic-and-chronotropic-effects-of-drugs-on-the-frog-hear</guid>
@@ -1585,6 +1585,138 @@
       <itunes:subtitle>Practicals · Clinical pharmacology · Clinical cases</itunes:subtitle>
       <description>How a clinical case answer is laid out. The start page of the clinical cases book for the RGUHS MD Pharmacology practical examination: the layout every case answer follows, and where its facts come from.</description>
       <enclosure url="https://pub-ef148064c92046b79cd6387190ed03d9.r2.dev/clinical-cases-c00-how-a-clinical-case-answer-is-laid-out.mp3" length="2647148" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Pedagogy Viva · 11 · Microteaching</title>
+      <guid isPermaLink="false">practicals-pedagogy-viva-v11-microteaching</guid>
+      <pubDate>Sun, 12 Apr 2026 06:00:00 GMT</pubDate>
+      <itunes:season>7</itunes:season>
+      <itunes:episode>12</itunes:episode>
+      <itunes:duration>0:08:18</itunes:duration>
+      <itunes:subtitle>Practicals · Pedagogy · Viva questions</itunes:subtitle>
+      <description>Microteaching. Pedagogy viva questions asked at other colleges, for the RGUHS MD Pharmacology practical examination: each question with the answer the examiners expect first, then the reasoning from The Art of Teaching Medical Students and the NMC curriculum.</description>
+      <enclosure url="https://pub-ef148064c92046b79cd6387190ed03d9.r2.dev/pedagogy-viva-v11-microteaching.mp3" length="3980972" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Pedagogy Viva · 10 · CBME and the curriculum</title>
+      <guid isPermaLink="false">practicals-pedagogy-viva-v10-cbme-and-the-curriculum</guid>
+      <pubDate>Sat, 11 Apr 2026 06:00:00 GMT</pubDate>
+      <itunes:season>7</itunes:season>
+      <itunes:episode>11</itunes:episode>
+      <itunes:duration>0:10:45</itunes:duration>
+      <itunes:subtitle>Practicals · Pedagogy · Viva questions</itunes:subtitle>
+      <description>CBME and the curriculum. Pedagogy viva questions asked at other colleges, for the RGUHS MD Pharmacology practical examination: each question with the answer the examiners expect first, then the reasoning from The Art of Teaching Medical Students and the NMC curriculum.</description>
+      <enclosure url="https://pub-ef148064c92046b79cd6387190ed03d9.r2.dev/pedagogy-viva-v10-cbme-and-the-curriculum.mp3" length="5159084" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Pedagogy Viva · 9 · MCQs and item analysis</title>
+      <guid isPermaLink="false">practicals-pedagogy-viva-v09-mcqs-and-item-analysis</guid>
+      <pubDate>Fri, 10 Apr 2026 06:00:00 GMT</pubDate>
+      <itunes:season>7</itunes:season>
+      <itunes:episode>10</itunes:episode>
+      <itunes:duration>0:07:43</itunes:duration>
+      <itunes:subtitle>Practicals · Pedagogy · Viva questions</itunes:subtitle>
+      <description>MCQs and item analysis. Pedagogy viva questions asked at other colleges, for the RGUHS MD Pharmacology practical examination: each question with the answer the examiners expect first, then the reasoning from The Art of Teaching Medical Students and the NMC curriculum.</description>
+      <enclosure url="https://pub-ef148064c92046b79cd6387190ed03d9.r2.dev/pedagogy-viva-v09-mcqs-and-item-analysis.mp3" length="3702572" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Pedagogy Viva · 8 · Assessment</title>
+      <guid isPermaLink="false">practicals-pedagogy-viva-v08-assessment</guid>
+      <pubDate>Thu, 09 Apr 2026 06:00:00 GMT</pubDate>
+      <itunes:season>7</itunes:season>
+      <itunes:episode>9</itunes:episode>
+      <itunes:duration>0:12:03</itunes:duration>
+      <itunes:subtitle>Practicals · Pedagogy · Viva questions</itunes:subtitle>
+      <description>Assessment. Pedagogy viva questions asked at other colleges, for the RGUHS MD Pharmacology practical examination: each question with the answer the examiners expect first, then the reasoning from The Art of Teaching Medical Students and the NMC curriculum.</description>
+      <enclosure url="https://pub-ef148064c92046b79cd6387190ed03d9.r2.dev/pedagogy-viva-v08-assessment.mp3" length="5785388" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Pedagogy Viva · 7 · How students learn</title>
+      <guid isPermaLink="false">practicals-pedagogy-viva-v07-how-students-learn</guid>
+      <pubDate>Wed, 08 Apr 2026 06:00:00 GMT</pubDate>
+      <itunes:season>7</itunes:season>
+      <itunes:episode>8</itunes:episode>
+      <itunes:duration>0:10:57</itunes:duration>
+      <itunes:subtitle>Practicals · Pedagogy · Viva questions</itunes:subtitle>
+      <description>How students learn. Pedagogy viva questions asked at other colleges, for the RGUHS MD Pharmacology practical examination: each question with the answer the examiners expect first, then the reasoning from The Art of Teaching Medical Students and the NMC curriculum.</description>
+      <enclosure url="https://pub-ef148064c92046b79cd6387190ed03d9.r2.dev/pedagogy-viva-v07-how-students-learn.mp3" length="5255276" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Pedagogy Viva · 6 · Objectives and domains of learning</title>
+      <guid isPermaLink="false">practicals-pedagogy-viva-v06-objectives-and-domains-of-learning</guid>
+      <pubDate>Tue, 07 Apr 2026 06:00:00 GMT</pubDate>
+      <itunes:season>7</itunes:season>
+      <itunes:episode>7</itunes:episode>
+      <itunes:duration>0:10:09</itunes:duration>
+      <itunes:subtitle>Practicals · Pedagogy · Viva questions</itunes:subtitle>
+      <description>Objectives and domains of learning. Pedagogy viva questions asked at other colleges, for the RGUHS MD Pharmacology practical examination: each question with the answer the examiners expect first, then the reasoning from The Art of Teaching Medical Students and the NMC curriculum.</description>
+      <enclosure url="https://pub-ef148064c92046b79cd6387190ed03d9.r2.dev/pedagogy-viva-v06-objectives-and-domains-of-learning.mp3" length="4874348" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Pedagogy Viva · 5 · Modern methods</title>
+      <guid isPermaLink="false">practicals-pedagogy-viva-v05-modern-methods</guid>
+      <pubDate>Mon, 06 Apr 2026 06:00:00 GMT</pubDate>
+      <itunes:season>7</itunes:season>
+      <itunes:episode>6</itunes:episode>
+      <itunes:duration>0:04:32</itunes:duration>
+      <itunes:subtitle>Practicals · Pedagogy · Viva questions</itunes:subtitle>
+      <description>Modern methods. Pedagogy viva questions asked at other colleges, for the RGUHS MD Pharmacology practical examination: each question with the answer the examiners expect first, then the reasoning from The Art of Teaching Medical Students and the NMC curriculum.</description>
+      <enclosure url="https://pub-ef148064c92046b79cd6387190ed03d9.r2.dev/pedagogy-viva-v05-modern-methods.mp3" length="2174060" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Pedagogy Viva · 4 · Aids, slides and the blackboard</title>
+      <guid isPermaLink="false">practicals-pedagogy-viva-v04-aids-slides-and-the-blackboard</guid>
+      <pubDate>Sun, 05 Apr 2026 06:00:00 GMT</pubDate>
+      <itunes:season>7</itunes:season>
+      <itunes:episode>5</itunes:episode>
+      <itunes:duration>0:08:52</itunes:duration>
+      <itunes:subtitle>Practicals · Pedagogy · Viva questions</itunes:subtitle>
+      <description>Aids, slides and the blackboard. Pedagogy viva questions asked at other colleges, for the RGUHS MD Pharmacology practical examination: each question with the answer the examiners expect first, then the reasoning from The Art of Teaching Medical Students and the NMC curriculum.</description>
+      <enclosure url="https://pub-ef148064c92046b79cd6387190ed03d9.r2.dev/pedagogy-viva-v04-aids-slides-and-the-blackboard.mp3" length="4258604" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Pedagogy Viva · 3 · Teaching methods</title>
+      <guid isPermaLink="false">practicals-pedagogy-viva-v03-teaching-methods</guid>
+      <pubDate>Sat, 04 Apr 2026 06:00:00 GMT</pubDate>
+      <itunes:season>7</itunes:season>
+      <itunes:episode>4</itunes:episode>
+      <itunes:duration>0:12:50</itunes:duration>
+      <itunes:subtitle>Practicals · Pedagogy · Viva questions</itunes:subtitle>
+      <description>Teaching methods. Pedagogy viva questions asked at other colleges, for the RGUHS MD Pharmacology practical examination: each question with the answer the examiners expect first, then the reasoning from The Art of Teaching Medical Students and the NMC curriculum.</description>
+      <enclosure url="https://pub-ef148064c92046b79cd6387190ed03d9.r2.dev/pedagogy-viva-v03-teaching-methods.mp3" length="6161900" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Pedagogy Viva · 2 · The classroom, communication and roles</title>
+      <guid isPermaLink="false">practicals-pedagogy-viva-v02-the-classroom-communication-and-roles</guid>
+      <pubDate>Fri, 03 Apr 2026 06:00:00 GMT</pubDate>
+      <itunes:season>7</itunes:season>
+      <itunes:episode>3</itunes:episode>
+      <itunes:duration>0:07:31</itunes:duration>
+      <itunes:subtitle>Practicals · Pedagogy · Viva questions</itunes:subtitle>
+      <description>The classroom, communication and roles. Pedagogy viva questions asked at other colleges, for the RGUHS MD Pharmacology practical examination: each question with the answer the examiners expect first, then the reasoning from The Art of Teaching Medical Students and the NMC curriculum.</description>
+      <enclosure url="https://pub-ef148064c92046b79cd6387190ed03d9.r2.dev/pedagogy-viva-v02-the-classroom-communication-and-roles.mp3" length="3607148" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Pedagogy Viva · 1 · Terms and full forms</title>
+      <guid isPermaLink="false">practicals-pedagogy-viva-v01-terms-and-full-forms</guid>
+      <pubDate>Thu, 02 Apr 2026 06:00:00 GMT</pubDate>
+      <itunes:season>7</itunes:season>
+      <itunes:episode>2</itunes:episode>
+      <itunes:duration>0:05:17</itunes:duration>
+      <itunes:subtitle>Practicals · Pedagogy · Viva questions</itunes:subtitle>
+      <description>Terms and full forms. Pedagogy viva questions asked at other colleges, for the RGUHS MD Pharmacology practical examination: each question with the answer the examiners expect first, then the reasoning from The Art of Teaching Medical Students and the NMC curriculum.</description>
+      <enclosure url="https://pub-ef148064c92046b79cd6387190ed03d9.r2.dev/pedagogy-viva-v01-terms-and-full-forms.mp3" length="2536748" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Pedagogy Viva · Start here · How this book is laid out</title>
+      <guid isPermaLink="false">practicals-pedagogy-viva-v00-how-this-book-is-laid-out</guid>
+      <pubDate>Wed, 01 Apr 2026 06:00:00 GMT</pubDate>
+      <itunes:season>7</itunes:season>
+      <itunes:episode>1</itunes:episode>
+      <itunes:duration>0:03:31</itunes:duration>
+      <itunes:subtitle>Practicals · Pedagogy · Viva questions</itunes:subtitle>
+      <description>How this book is laid out. The start page of the pedagogy viva book for the RGUHS MD Pharmacology practical examination: where the questions come from, how each answer is built, and the sources.</description>
+      <enclosure url="https://pub-ef148064c92046b79cd6387190ed03d9.r2.dev/pedagogy-viva-v00-how-this-book-is-laid-out.mp3" length="1687148" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
