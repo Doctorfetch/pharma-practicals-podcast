@@ -22,7 +22,7 @@
     <itunes:category text="Health &amp; Fitness">
       <itunes:category text="Medicine"/>
     </itunes:category>
-    <description>Narrated model answers for the RGUHS MD Pharmacology practical examination, kept apart from the theory-exam show. Season 1, protocol writing: eight model protocols, from a phase 2 anxiolytic trial to phase 3 registration programmes, each with its design, sample size, visit schedule, analysis, Indian regulatory and ethics requirements, and viva points. Season 2, experimental pharmacology: laboratory animals and ethics, laboratory and sophisticated instruments, and the in vivo experiments of Medhi's Practical Manual, one episode per item, then nine animal workshop equipment monographs set against the textbooks. Season 3, bioassay: the principles, the designs and their calculations worked from the textbook's own numbers, the isolated tissues and every determine-the-unknown-concentration experiment, and the isolated heart. Season 4, chemical analysis and graphs: the tests for alkaloids, sterols and glycosides, how to identify an unknown sample, and every chart tracing of the KMCRI set, from adrenaline reversal to the frog rectus. Season 5, pharmacokinetic problems: the formula sheet and the fourteen KMCRI problems, each worked by hand from the given values to the answer, then nine PG-level problems from the clinical pharmacokinetics textbooks. Season 6, clinical cases: the eleven KMCRI clinical cases, from stable angina to type 2 diabetes with chronic kidney disease, each with the diagnosis, the drug treatment with doses and monitoring, and the viva questions. Season 7, pedagogy viva: the questions examiners ask after the microteaching session, from OHP and DOAP to Bloom's taxonomy, item analysis and CBME, each with the answer to lead with. Season 8, microteaching theory: what microteaching is, its component skills and cycle, writing objectives, slide design, and the viva questions on the session, with how the six exam decks apply them. Season 9, grand viva: rapid viva questions on the basics, general pharmacology and the autonomic nervous system, then three on every question of the four September 2026 theory papers, each with the answer to say first. About 43 hours 18 minutes.</description>
+    <description>Narrated model answers for the RGUHS MD Pharmacology practical examination, kept apart from the theory-exam show. Season 1, protocol writing: eight model protocols, from a phase 2 anxiolytic trial to phase 3 registration programmes, each with its design, sample size, visit schedule, analysis, Indian regulatory and ethics requirements, and viva points. Season 2, experimental pharmacology: laboratory animals and ethics, laboratory and sophisticated instruments, and the in vivo experiments of Medhi's Practical Manual, one episode per item, then nine animal workshop equipment monographs set against the textbooks. Season 3, bioassay: the principles, the designs and their calculations worked from the textbook's own numbers, the isolated tissues and every determine-the-unknown-concentration experiment, and the isolated heart. Season 4, chemical analysis and graphs: the tests for alkaloids, sterols and glycosides, how to identify an unknown sample, and every chart tracing of the KMCRI set, from adrenaline reversal to the frog rectus. Season 5, pharmacokinetic problems: the formula sheet and the fourteen KMCRI problems, each worked by hand from the given values to the answer, then nine PG-level problems from the clinical pharmacokinetics textbooks. Season 6, clinical cases: the eleven KMCRI clinical cases, from stable angina to type 2 diabetes with chronic kidney disease, each with the diagnosis, the drug treatment with doses and monitoring, and the viva questions. Season 7, pedagogy viva: the questions examiners ask after the microteaching session, from OHP and DOAP to Bloom's taxonomy, item analysis and CBME, each with the answer to lead with. Season 8, microteaching theory: what microteaching is, its component skills and cycle, writing objectives, slide design, and the viva questions on the session, with how the six exam decks apply them. Season 9, grand viva: rapid viva questions on the basics, general pharmacology and the autonomic nervous system, the drug groups of every system with their uses and hallmark adverse effects, then three on every question of the four September 2026 theory papers, each with the answer to say first. About 47 hours 51 minutes.</description>
     <itunes:summary>Narrated practical-exam answers for MD Pharmacology. Season 1 is protocol writing; season 2 is experimental pharmacology; season 3 is bioassay; season 4 is chemical analysis and graphs; season 5 is pharmacokinetic problems; season 6 is clinical cases; season 7 is the pedagogy viva; season 8 is microteaching theory; season 9 is the grand viva.</itunes:summary>
     <item>
       <title>Bioassay · 29 · Inotropic and chronotropic effects of drugs on the frog heart, isolated and in situ</title>
@@ -33,7 +33,7 @@
       <itunes:duration>0:13:33</itunes:duration>
       <itunes:subtitle>Practicals · Bioassay · The isolated heart</itunes:subtitle>
       <description>Inotropic and chronotropic effects of drugs on the frog heart, isolated and in situ. A narrated model answer from the bioassay book for the RGUHS MD Pharmacology practical examination (The isolated heart), from Medhi and Prakash's Practical Manual with the mathematics checked against Ghosh, every calculation worked from the textbook's own numbers, with its viva points.</description>
-      <enclosure url="https://pub-ef148064c92046b79cd6387190ed03d9.r2.dev/bioassay-h03-inotropic-and-chronotropic-effects-of-drugs-on-the-frog-hear.mp3" length="6500972" type="audio/mpeg"/>
+      <enclosure url="https://pub-ef148064c92046b79cd6387190ed03d9.r2.dev/bioassay-h03-inotropic-and-chronotropic-effects-of-drugs-on-the-frog-hear.mp3" length="6507692" type="audio/mpeg"/>
     </item>
     <item>
       <title>Bioassay · 28 · Drugs on the normal and hypodynamic rabbit heart</title>
@@ -41,10 +41,10 @@
       <pubDate>Thu, 17 Sep 2026 06:00:00 GMT</pubDate>
       <itunes:season>3</itunes:season>
       <itunes:episode>29</itunes:episode>
-      <itunes:duration>0:12:51</itunes:duration>
+      <itunes:duration>0:12:53</itunes:duration>
       <itunes:subtitle>Practicals · Bioassay · The isolated heart</itunes:subtitle>
       <description>Drugs on the normal and hypodynamic rabbit heart. A narrated model answer from the bioassay book for the RGUHS MD Pharmacology practical examination (The isolated heart), from Medhi and Prakash's Practical Manual with the mathematics checked against Ghosh, every calculation worked from the textbook's own numbers, with its viva points.</description>
-      <enclosure url="https://pub-ef148064c92046b79cd6387190ed03d9.r2.dev/bioassay-h02-drugs-on-the-normal-and-hypodynamic-rabbit-heart.mp3" length="6167852" type="audio/mpeg"/>
+      <enclosure url="https://pub-ef148064c92046b79cd6387190ed03d9.r2.dev/bioassay-h02-drugs-on-the-normal-and-hypodynamic-rabbit-heart.mp3" length="6181100" type="audio/mpeg"/>
     </item>
     <item>
       <title>Bioassay · 27 · Drugs on the isolated perfused mammalian heart (Langendorff)</title>
@@ -52,10 +52,10 @@
       <pubDate>Wed, 16 Sep 2026 06:00:00 GMT</pubDate>
       <itunes:season>3</itunes:season>
       <itunes:episode>28</itunes:episode>
-      <itunes:duration>0:16:17</itunes:duration>
+      <itunes:duration>0:16:18</itunes:duration>
       <itunes:subtitle>Practicals · Bioassay · The isolated heart</itunes:subtitle>
       <description>Drugs on the isolated perfused mammalian heart (Langendorff). A narrated model answer from the bioassay book for the RGUHS MD Pharmacology practical examination (The isolated heart), from Medhi and Prakash's Practical Manual with the mathematics checked against Ghosh, every calculation worked from the textbook's own numbers, with its viva points.</description>
-      <enclosure url="https://pub-ef148064c92046b79cd6387190ed03d9.r2.dev/bioassay-h01-drugs-on-the-isolated-perfused-mammalian-heart-langendorff.mp3" length="7815212" type="audio/mpeg"/>
+      <enclosure url="https://pub-ef148064c92046b79cd6387190ed03d9.r2.dev/bioassay-h01-drugs-on-the-isolated-perfused-mammalian-heart-langendorff.mp3" length="7825580" type="audio/mpeg"/>
     </item>
     <item>
       <title>Bioassay · 26 · Neuromuscular blockers on the chick biventer cervicis</title>
@@ -63,10 +63,10 @@
       <pubDate>Tue, 15 Sep 2026 06:00:00 GMT</pubDate>
       <itunes:season>3</itunes:season>
       <itunes:episode>27</itunes:episode>
-      <itunes:duration>0:15:10</itunes:duration>
+      <itunes:duration>0:15:12</itunes:duration>
       <itunes:subtitle>Practicals · Bioassay · Assays on slow-contracting tissues</itunes:subtitle>
       <description>Neuromuscular blockers on the chick biventer cervicis. A narrated model answer from the bioassay book for the RGUHS MD Pharmacology practical examination (Assays on slow-contracting tissues), from Medhi and Prakash's Practical Manual with the mathematics checked against Ghosh, every calculation worked from the textbook's own numbers, with its viva points.</description>
-      <enclosure url="https://pub-ef148064c92046b79cd6387190ed03d9.r2.dev/bioassay-x12-neuromuscular-blockers-on-the-chick-biventer-cervicis.mp3" length="7280876" type="audio/mpeg"/>
+      <enclosure url="https://pub-ef148064c92046b79cd6387190ed03d9.r2.dev/bioassay-x12-neuromuscular-blockers-on-the-chick-biventer-cervicis.mp3" length="7293932" type="audio/mpeg"/>
     </item>
     <item>
       <title>Bioassay · 25 · Acetylcholine on the rat phrenic nerve–diaphragm</title>
@@ -74,10 +74,10 @@
       <pubDate>Mon, 14 Sep 2026 06:00:00 GMT</pubDate>
       <itunes:season>3</itunes:season>
       <itunes:episode>26</itunes:episode>
-      <itunes:duration>0:18:23</itunes:duration>
+      <itunes:duration>0:18:27</itunes:duration>
       <itunes:subtitle>Practicals · Bioassay · Assays on slow-contracting tissues</itunes:subtitle>
       <description>Acetylcholine on the rat phrenic nerve–diaphragm. A narrated model answer from the bioassay book for the RGUHS MD Pharmacology practical examination (Assays on slow-contracting tissues), from Medhi and Prakash's Practical Manual with the mathematics checked against Ghosh, every calculation worked from the textbook's own numbers, with its viva points.</description>
-      <enclosure url="https://pub-ef148064c92046b79cd6387190ed03d9.r2.dev/bioassay-x11-acetylcholine-on-the-rat-phrenic-nerve-diaphragm.mp3" length="8824940" type="audio/mpeg"/>
+      <enclosure url="https://pub-ef148064c92046b79cd6387190ed03d9.r2.dev/bioassay-x11-acetylcholine-on-the-rat-phrenic-nerve-diaphragm.mp3" length="8858924" type="audio/mpeg"/>
     </item>
     <item>
       <title>Bioassay · 24 · Acetylcholine on the guinea pig trachea</title>
@@ -85,10 +85,10 @@
       <pubDate>Sun, 13 Sep 2026 06:00:00 GMT</pubDate>
       <itunes:season>3</itunes:season>
       <itunes:episode>25</itunes:episode>
-      <itunes:duration>0:20:35</itunes:duration>
+      <itunes:duration>0:20:38</itunes:duration>
       <itunes:subtitle>Practicals · Bioassay · Assays on slow-contracting tissues</itunes:subtitle>
       <description>Acetylcholine on the guinea pig trachea. A narrated model answer from the bioassay book for the RGUHS MD Pharmacology practical examination (Assays on slow-contracting tissues), from Medhi and Prakash's Practical Manual with the mathematics checked against Ghosh, every calculation worked from the textbook's own numbers, with its viva points.</description>
-      <enclosure url="https://pub-ef148064c92046b79cd6387190ed03d9.r2.dev/bioassay-x10-acetylcholine-on-the-guinea-pig-trachea.mp3" length="9880364" type="audio/mpeg"/>
+      <enclosure url="https://pub-ef148064c92046b79cd6387190ed03d9.r2.dev/bioassay-x10-acetylcholine-on-the-guinea-pig-trachea.mp3" length="9900908" type="audio/mpeg"/>
     </item>
     <item>
       <title>Bioassay · 23 · Acetylcholine on the frog rectus abdominis</title>
@@ -96,10 +96,10 @@
       <pubDate>Sat, 12 Sep 2026 06:00:00 GMT</pubDate>
       <itunes:season>3</itunes:season>
       <itunes:episode>24</itunes:episode>
-      <itunes:duration>0:17:50</itunes:duration>
+      <itunes:duration>0:17:53</itunes:duration>
       <itunes:subtitle>Practicals · Bioassay · Assays on slow-contracting tissues</itunes:subtitle>
       <description>Acetylcholine on the frog rectus abdominis. A narrated model answer from the bioassay book for the RGUHS MD Pharmacology practical examination (Assays on slow-contracting tissues), from Medhi and Prakash's Practical Manual with the mathematics checked against Ghosh, every calculation worked from the textbook's own numbers, with its viva points.</description>
-      <enclosure url="https://pub-ef148064c92046b79cd6387190ed03d9.r2.dev/bioassay-x09-acetylcholine-on-the-frog-rectus-abdominis.mp3" length="8559212" type="audio/mpeg"/>
+      <enclosure url="https://pub-ef148064c92046b79cd6387190ed03d9.r2.dev/bioassay-x09-acetylcholine-on-the-frog-rectus-abdominis.mp3" length="8587436" type="audio/mpeg"/>
     </item>
     <item>
       <title>Bioassay · 22 · Serotonin on the rat stomach fundus</title>
@@ -107,10 +107,10 @@
       <pubDate>Fri, 11 Sep 2026 06:00:00 GMT</pubDate>
       <itunes:season>3</itunes:season>
       <itunes:episode>23</itunes:episode>
-      <itunes:duration>0:15:16</itunes:duration>
+      <itunes:duration>0:15:19</itunes:duration>
       <itunes:subtitle>Practicals · Bioassay · Assays on slow-contracting tissues</itunes:subtitle>
       <description>Serotonin on the rat stomach fundus. A narrated model answer from the bioassay book for the RGUHS MD Pharmacology practical examination (Assays on slow-contracting tissues), from Medhi and Prakash's Practical Manual with the mathematics checked against Ghosh, every calculation worked from the textbook's own numbers, with its viva points.</description>
-      <enclosure url="https://pub-ef148064c92046b79cd6387190ed03d9.r2.dev/bioassay-x08-serotonin-on-the-rat-stomach-fundus.mp3" length="7330028" type="audio/mpeg"/>
+      <enclosure url="https://pub-ef148064c92046b79cd6387190ed03d9.r2.dev/bioassay-x08-serotonin-on-the-rat-stomach-fundus.mp3" length="7348076" type="audio/mpeg"/>
     </item>
     <item>
       <title>Bioassay · 21 · pA₂ of atropine against acetylcholine on the guinea pig ileum</title>
@@ -118,10 +118,10 @@
       <pubDate>Thu, 10 Sep 2026 06:00:00 GMT</pubDate>
       <itunes:season>3</itunes:season>
       <itunes:episode>22</itunes:episode>
-      <itunes:duration>0:26:47</itunes:duration>
+      <itunes:duration>0:26:48</itunes:duration>
       <itunes:subtitle>Practicals · Bioassay · Assays on fast-contracting tissues</itunes:subtitle>
       <description>pA₂ of atropine against acetylcholine on the guinea pig ileum. A narrated model answer from the bioassay book for the RGUHS MD Pharmacology practical examination (Assays on fast-contracting tissues), from Medhi and Prakash's Practical Manual with the mathematics checked against Ghosh, every calculation worked from the textbook's own numbers, with its viva points.</description>
-      <enclosure url="https://pub-ef148064c92046b79cd6387190ed03d9.r2.dev/bioassay-x07-pa-of-atropine-against-acetylcholine-on-the-guinea-pig-ileum.mp3" length="12856940" type="audio/mpeg"/>
+      <enclosure url="https://pub-ef148064c92046b79cd6387190ed03d9.r2.dev/bioassay-x07-pa-of-atropine-against-acetylcholine-on-the-guinea-pig-ileum.mp3" length="12864428" type="audio/mpeg"/>
     </item>
     <item>
       <title>Bioassay · 20 · Acetylcholine on the rat vas deferens</title>
@@ -129,10 +129,10 @@
       <pubDate>Wed, 09 Sep 2026 06:00:00 GMT</pubDate>
       <itunes:season>3</itunes:season>
       <itunes:episode>21</itunes:episode>
-      <itunes:duration>0:19:39</itunes:duration>
+      <itunes:duration>0:19:43</itunes:duration>
       <itunes:subtitle>Practicals · Bioassay · Assays on fast-contracting tissues</itunes:subtitle>
       <description>Acetylcholine on the rat vas deferens. A narrated model answer from the bioassay book for the RGUHS MD Pharmacology practical examination (Assays on fast-contracting tissues), from Medhi and Prakash's Practical Manual with the mathematics checked against Ghosh, every calculation worked from the textbook's own numbers, with its viva points.</description>
-      <enclosure url="https://pub-ef148064c92046b79cd6387190ed03d9.r2.dev/bioassay-x06-acetylcholine-on-the-rat-vas-deferens.mp3" length="9432044" type="audio/mpeg"/>
+      <enclosure url="https://pub-ef148064c92046b79cd6387190ed03d9.r2.dev/bioassay-x06-acetylcholine-on-the-rat-vas-deferens.mp3" length="9464492" type="audio/mpeg"/>
     </item>
     <item>
       <title>Bioassay · 19 · Acetylcholine on the rat anococcygeus muscle</title>
@@ -140,10 +140,10 @@
       <pubDate>Tue, 08 Sep 2026 06:00:00 GMT</pubDate>
       <itunes:season>3</itunes:season>
       <itunes:episode>20</itunes:episode>
-      <itunes:duration>0:19:07</itunes:duration>
+      <itunes:duration>0:19:12</itunes:duration>
       <itunes:subtitle>Practicals · Bioassay · Assays on fast-contracting tissues</itunes:subtitle>
       <description>Acetylcholine on the rat anococcygeus muscle. A narrated model answer from the bioassay book for the RGUHS MD Pharmacology practical examination (Assays on fast-contracting tissues), from Medhi and Prakash's Practical Manual with the mathematics checked against Ghosh, every calculation worked from the textbook's own numbers, with its viva points.</description>
-      <enclosure url="https://pub-ef148064c92046b79cd6387190ed03d9.r2.dev/bioassay-x05-acetylcholine-on-the-rat-anococcygeus-muscle.mp3" length="9176684" type="audio/mpeg"/>
+      <enclosure url="https://pub-ef148064c92046b79cd6387190ed03d9.r2.dev/bioassay-x05-acetylcholine-on-the-rat-anococcygeus-muscle.mp3" length="9212588" type="audio/mpeg"/>
     </item>
     <item>
       <title>Bioassay · 18 · Adrenaline on the guinea pig atria</title>
@@ -151,10 +151,10 @@
       <pubDate>Mon, 07 Sep 2026 06:00:00 GMT</pubDate>
       <itunes:season>3</itunes:season>
       <itunes:episode>19</itunes:episode>
-      <itunes:duration>0:18:24</itunes:duration>
+      <itunes:duration>0:18:28</itunes:duration>
       <itunes:subtitle>Practicals · Bioassay · Assays on fast-contracting tissues</itunes:subtitle>
       <description>Adrenaline on the guinea pig atria. A narrated model answer from the bioassay book for the RGUHS MD Pharmacology practical examination (Assays on fast-contracting tissues), from Medhi and Prakash's Practical Manual with the mathematics checked against Ghosh, every calculation worked from the textbook's own numbers, with its viva points.</description>
-      <enclosure url="https://pub-ef148064c92046b79cd6387190ed03d9.r2.dev/bioassay-x04-adrenaline-on-the-guinea-pig-atria.mp3" length="8833196" type="audio/mpeg"/>
+      <enclosure url="https://pub-ef148064c92046b79cd6387190ed03d9.r2.dev/bioassay-x04-adrenaline-on-the-guinea-pig-atria.mp3" length="8867180" type="audio/mpeg"/>
     </item>
     <item>
       <title>Bioassay · 17 · Acetylcholine on the rat uterus</title>
@@ -162,10 +162,10 @@
       <pubDate>Sun, 06 Sep 2026 06:00:00 GMT</pubDate>
       <itunes:season>3</itunes:season>
       <itunes:episode>18</itunes:episode>
-      <itunes:duration>0:21:24</itunes:duration>
+      <itunes:duration>0:21:29</itunes:duration>
       <itunes:subtitle>Practicals · Bioassay · Assays on fast-contracting tissues</itunes:subtitle>
       <description>Acetylcholine on the rat uterus. A narrated model answer from the bioassay book for the RGUHS MD Pharmacology practical examination (Assays on fast-contracting tissues), from Medhi and Prakash's Practical Manual with the mathematics checked against Ghosh, every calculation worked from the textbook's own numbers, with its viva points.</description>
-      <enclosure url="https://pub-ef148064c92046b79cd6387190ed03d9.r2.dev/bioassay-x03-acetylcholine-on-the-rat-uterus.mp3" length="10270700" type="audio/mpeg"/>
+      <enclosure url="https://pub-ef148064c92046b79cd6387190ed03d9.r2.dev/bioassay-x03-acetylcholine-on-the-rat-uterus.mp3" length="10314476" type="audio/mpeg"/>
     </item>
     <item>
       <title>Bioassay · 16 · Acetylcholine on the rat colon</title>
@@ -173,10 +173,10 @@
       <pubDate>Sat, 05 Sep 2026 06:00:00 GMT</pubDate>
       <itunes:season>3</itunes:season>
       <itunes:episode>17</itunes:episode>
-      <itunes:duration>0:19:17</itunes:duration>
+      <itunes:duration>0:19:20</itunes:duration>
       <itunes:subtitle>Practicals · Bioassay · Assays on fast-contracting tissues</itunes:subtitle>
       <description>Acetylcholine on the rat colon. A narrated model answer from the bioassay book for the RGUHS MD Pharmacology practical examination (Assays on fast-contracting tissues), from Medhi and Prakash's Practical Manual with the mathematics checked against Ghosh, every calculation worked from the textbook's own numbers, with its viva points.</description>
-      <enclosure url="https://pub-ef148064c92046b79cd6387190ed03d9.r2.dev/bioassay-x02-acetylcholine-on-the-rat-colon.mp3" length="9252908" type="audio/mpeg"/>
+      <enclosure url="https://pub-ef148064c92046b79cd6387190ed03d9.r2.dev/bioassay-x02-acetylcholine-on-the-rat-colon.mp3" length="9282284" type="audio/mpeg"/>
     </item>
     <item>
       <title>Bioassay · 15 · Histamine on the guinea pig ileum</title>
@@ -184,10 +184,10 @@
       <pubDate>Fri, 04 Sep 2026 06:00:00 GMT</pubDate>
       <itunes:season>3</itunes:season>
       <itunes:episode>16</itunes:episode>
-      <itunes:duration>0:22:09</itunes:duration>
+      <itunes:duration>0:22:11</itunes:duration>
       <itunes:subtitle>Practicals · Bioassay · Assays on fast-contracting tissues</itunes:subtitle>
       <description>Histamine on the guinea pig ileum. A narrated model answer from the bioassay book for the RGUHS MD Pharmacology practical examination (Assays on fast-contracting tissues), from Medhi and Prakash's Practical Manual with the mathematics checked against Ghosh, every calculation worked from the textbook's own numbers, with its viva points.</description>
-      <enclosure url="https://pub-ef148064c92046b79cd6387190ed03d9.r2.dev/bioassay-x01-histamine-on-the-guinea-pig-ileum.mp3" length="10633196" type="audio/mpeg"/>
+      <enclosure url="https://pub-ef148064c92046b79cd6387190ed03d9.r2.dev/bioassay-x01-histamine-on-the-guinea-pig-ileum.mp3" length="10648172" type="audio/mpeg"/>
     </item>
     <item>
       <title>Bioassay · 14 · Principle of muscle contraction: isotonic and isometric recording</title>
@@ -195,10 +195,10 @@
       <pubDate>Thu, 03 Sep 2026 06:00:00 GMT</pubDate>
       <itunes:season>3</itunes:season>
       <itunes:episode>15</itunes:episode>
-      <itunes:duration>0:13:59</itunes:duration>
+      <itunes:duration>0:14:01</itunes:duration>
       <itunes:subtitle>Practicals · Bioassay · Tissues: collection, identification and muscle contraction</itunes:subtitle>
       <description>Principle of muscle contraction: isotonic and isometric recording. A narrated model answer from the bioassay book for the RGUHS MD Pharmacology practical examination (Tissues: collection, identification and muscle contraction), from Medhi and Prakash's Practical Manual with the mathematics checked against Ghosh, every calculation worked from the textbook's own numbers, with its viva points.</description>
-      <enclosure url="https://pub-ef148064c92046b79cd6387190ed03d9.r2.dev/bioassay-t04-principle-of-muscle-contraction-isotonic-and-isometric-recor.mp3" length="6709868" type="audio/mpeg"/>
+      <enclosure url="https://pub-ef148064c92046b79cd6387190ed03d9.r2.dev/bioassay-t04-principle-of-muscle-contraction-isotonic-and-isometric-recor.mp3" length="6724652" type="audio/mpeg"/>
     </item>
     <item>
       <title>Bioassay · 13 · Collecting other tissues: uterus, trachea, vas deferens, anococcygeus, frog rectus abdominis, phrenic nerve–diaphragm and chick biventer cervicis</title>
@@ -206,10 +206,10 @@
       <pubDate>Wed, 02 Sep 2026 06:00:00 GMT</pubDate>
       <itunes:season>3</itunes:season>
       <itunes:episode>14</itunes:episode>
-      <itunes:duration>0:21:10</itunes:duration>
+      <itunes:duration>0:21:13</itunes:duration>
       <itunes:subtitle>Practicals · Bioassay · Tissues: collection, identification and muscle contraction</itunes:subtitle>
       <description>Collecting other tissues: uterus, trachea, vas deferens, anococcygeus, frog rectus abdominis, phrenic nerve–diaphragm and chick biventer cervicis. A narrated model answer from the bioassay book for the RGUHS MD Pharmacology practical examination (Tissues: collection, identification and muscle contraction), from Medhi and Prakash's Practical Manual with the mathematics checked against Ghosh, every calculation worked from the textbook's own numbers, with its viva points.</description>
-      <enclosure url="https://pub-ef148064c92046b79cd6387190ed03d9.r2.dev/bioassay-t03-collecting-other-tissues-uterus-trachea-vas-deferens-anococc.mp3" length="10162604" type="audio/mpeg"/>
+      <enclosure url="https://pub-ef148064c92046b79cd6387190ed03d9.r2.dev/bioassay-t03-collecting-other-tissues-uterus-trachea-vas-deferens-anococc.mp3" length="10183340" type="audio/mpeg"/>
     </item>
     <item>
       <title>Bioassay · 12 · Collecting gut tissues: ileum, colon and stomach fundus</title>
@@ -217,10 +217,10 @@
       <pubDate>Tue, 01 Sep 2026 06:00:00 GMT</pubDate>
       <itunes:season>3</itunes:season>
       <itunes:episode>13</itunes:episode>
-      <itunes:duration>0:15:45</itunes:duration>
+      <itunes:duration>0:15:48</itunes:duration>
       <itunes:subtitle>Practicals · Bioassay · Tissues: collection, identification and muscle contraction</itunes:subtitle>
       <description>Collecting gut tissues: ileum, colon and stomach fundus. A narrated model answer from the bioassay book for the RGUHS MD Pharmacology practical examination (Tissues: collection, identification and muscle contraction), from Medhi and Prakash's Practical Manual with the mathematics checked against Ghosh, every calculation worked from the textbook's own numbers, with its viva points.</description>
-      <enclosure url="https://pub-ef148064c92046b79cd6387190ed03d9.r2.dev/bioassay-t02-collecting-gut-tissues-ileum-colon-and-stomach-fundus.mp3" length="7558700" type="audio/mpeg"/>
+      <enclosure url="https://pub-ef148064c92046b79cd6387190ed03d9.r2.dev/bioassay-t02-collecting-gut-tissues-ileum-colon-and-stomach-fundus.mp3" length="7586156" type="audio/mpeg"/>
     </item>
     <item>
       <title>Bioassay · 11 · General considerations in animal experiments: accuracy, precision and study terms</title>
@@ -231,7 +231,7 @@
       <itunes:duration>0:13:08</itunes:duration>
       <itunes:subtitle>Practicals · Bioassay · Tissues: collection, identification and muscle contraction</itunes:subtitle>
       <description>General considerations in animal experiments: accuracy, precision and study terms. A narrated model answer from the bioassay book for the RGUHS MD Pharmacology practical examination (Tissues: collection, identification and muscle contraction), from Medhi and Prakash's Practical Manual with the mathematics checked against Ghosh, every calculation worked from the textbook's own numbers, with its viva points.</description>
-      <enclosure url="https://pub-ef148064c92046b79cd6387190ed03d9.r2.dev/bioassay-t01-general-considerations-in-animal-experiments-accuracy-precis.mp3" length="6300332" type="audio/mpeg"/>
+      <enclosure url="https://pub-ef148064c92046b79cd6387190ed03d9.r2.dev/bioassay-t01-general-considerations-in-animal-experiments-accuracy-precis.mp3" length="6302636" type="audio/mpeg"/>
     </item>
     <item>
       <title>Bioassay · 10 · Human tissue and cytokine bioassays</title>
@@ -242,7 +242,7 @@
       <itunes:duration>0:12:22</itunes:duration>
       <itunes:subtitle>Practicals · Bioassay · Principles, designs and calculations</itunes:subtitle>
       <description>Human tissue and cytokine bioassays. A narrated model answer from the bioassay book for the RGUHS MD Pharmacology practical examination (Principles, designs and calculations), from Medhi and Prakash's Practical Manual with the mathematics checked against Ghosh, every calculation worked from the textbook's own numbers, with its viva points.</description>
-      <enclosure url="https://pub-ef148064c92046b79cd6387190ed03d9.r2.dev/bioassay-b10-human-tissue-and-cytokine-bioassays.mp3" length="5936108" type="audio/mpeg"/>
+      <enclosure url="https://pub-ef148064c92046b79cd6387190ed03d9.r2.dev/bioassay-b10-human-tissue-and-cytokine-bioassays.mp3" length="5938796" type="audio/mpeg"/>
     </item>
     <item>
       <title>Bioassay · 9 · Bioassay of an antagonist: pA₂, pA₁₀ and the Schild plot, with a worked calculation</title>
@@ -253,7 +253,7 @@
       <itunes:duration>0:26:18</itunes:duration>
       <itunes:subtitle>Practicals · Bioassay · Principles, designs and calculations</itunes:subtitle>
       <description>Bioassay of an antagonist: pA₂, pA₁₀ and the Schild plot, with a worked calculation. A narrated model answer from the bioassay book for the RGUHS MD Pharmacology practical examination (Principles, designs and calculations), from Medhi and Prakash's Practical Manual with the mathematics checked against Ghosh, every calculation worked from the textbook's own numbers, with its viva points.</description>
-      <enclosure url="https://pub-ef148064c92046b79cd6387190ed03d9.r2.dev/bioassay-b09-bioassay-of-an-antagonist-pa-pa-and-the-schild-plot-with-a-w.mp3" length="12622700" type="audio/mpeg"/>
+      <enclosure url="https://pub-ef148064c92046b79cd6387190ed03d9.r2.dev/bioassay-b09-bioassay-of-an-antagonist-pa-pa-and-the-schild-plot-with-a-w.mp3" length="12625964" type="audio/mpeg"/>
     </item>
     <item>
       <title>Bioassay · 8 · Four-point assay, with a worked calculation</title>
@@ -264,7 +264,7 @@
       <itunes:duration>0:17:22</itunes:duration>
       <itunes:subtitle>Practicals · Bioassay · Principles, designs and calculations</itunes:subtitle>
       <description>Four-point assay, with a worked calculation. A narrated model answer from the bioassay book for the RGUHS MD Pharmacology practical examination (Principles, designs and calculations), from Medhi and Prakash's Practical Manual with the mathematics checked against Ghosh, every calculation worked from the textbook's own numbers, with its viva points.</description>
-      <enclosure url="https://pub-ef148064c92046b79cd6387190ed03d9.r2.dev/bioassay-b08-four-point-assay-with-a-worked-calculation.mp3" length="8333228" type="audio/mpeg"/>
+      <enclosure url="https://pub-ef148064c92046b79cd6387190ed03d9.r2.dev/bioassay-b08-four-point-assay-with-a-worked-calculation.mp3" length="8336684" type="audio/mpeg"/>
     </item>
     <item>
       <title>Bioassay · 7 · Three-point assay, with a worked calculation</title>
@@ -272,10 +272,10 @@
       <pubDate>Thu, 27 Aug 2026 06:00:00 GMT</pubDate>
       <itunes:season>3</itunes:season>
       <itunes:episode>8</itunes:episode>
-      <itunes:duration>0:16:22</itunes:duration>
+      <itunes:duration>0:16:44</itunes:duration>
       <itunes:subtitle>Practicals · Bioassay · Principles, designs and calculations</itunes:subtitle>
       <description>Three-point assay, with a worked calculation. A narrated model answer from the bioassay book for the RGUHS MD Pharmacology practical examination (Principles, designs and calculations), from Medhi and Prakash's Practical Manual with the mathematics checked against Ghosh, every calculation worked from the textbook's own numbers, with its viva points.</description>
-      <enclosure url="https://pub-ef148064c92046b79cd6387190ed03d9.r2.dev/bioassay-b07-three-point-assay-with-a-worked-calculation.mp3" length="7853036" type="audio/mpeg"/>
+      <enclosure url="https://pub-ef148064c92046b79cd6387190ed03d9.r2.dev/bioassay-b07-three-point-assay-with-a-worked-calculation.mp3" length="8036012" type="audio/mpeg"/>
     </item>
     <item>
       <title>Bioassay · 6 · Interpolation assay</title>
@@ -283,10 +283,10 @@
       <pubDate>Wed, 26 Aug 2026 06:00:00 GMT</pubDate>
       <itunes:season>3</itunes:season>
       <itunes:episode>7</itunes:episode>
-      <itunes:duration>0:14:06</itunes:duration>
+      <itunes:duration>0:14:07</itunes:duration>
       <itunes:subtitle>Practicals · Bioassay · Principles, designs and calculations</itunes:subtitle>
       <description>Interpolation assay. A narrated model answer from the bioassay book for the RGUHS MD Pharmacology practical examination (Principles, designs and calculations), from Medhi and Prakash's Practical Manual with the mathematics checked against Ghosh, every calculation worked from the textbook's own numbers, with its viva points.</description>
-      <enclosure url="https://pub-ef148064c92046b79cd6387190ed03d9.r2.dev/bioassay-b06-interpolation-assay.mp3" length="6769004" type="audio/mpeg"/>
+      <enclosure url="https://pub-ef148064c92046b79cd6387190ed03d9.r2.dev/bioassay-b06-interpolation-assay.mp3" length="6776492" type="audio/mpeg"/>
     </item>
     <item>
       <title>Bioassay · 5 · Matching and bracketing assays</title>
@@ -297,7 +297,7 @@
       <itunes:duration>0:12:33</itunes:duration>
       <itunes:subtitle>Practicals · Bioassay · Principles, designs and calculations</itunes:subtitle>
       <description>Matching and bracketing assays. A narrated model answer from the bioassay book for the RGUHS MD Pharmacology practical examination (Principles, designs and calculations), from Medhi and Prakash's Practical Manual with the mathematics checked against Ghosh, every calculation worked from the textbook's own numbers, with its viva points.</description>
-      <enclosure url="https://pub-ef148064c92046b79cd6387190ed03d9.r2.dev/bioassay-b05-matching-and-bracketing-assays.mp3" length="6020972" type="audio/mpeg"/>
+      <enclosure url="https://pub-ef148064c92046b79cd6387190ed03d9.r2.dev/bioassay-b05-matching-and-bracketing-assays.mp3" length="6025196" type="audio/mpeg"/>
     </item>
     <item>
       <title>Bioassay · 4 · Types of bioassay: direct end-point, quantal and graded</title>
@@ -305,10 +305,10 @@
       <pubDate>Mon, 24 Aug 2026 06:00:00 GMT</pubDate>
       <itunes:season>3</itunes:season>
       <itunes:episode>5</itunes:episode>
-      <itunes:duration>0:12:34</itunes:duration>
+      <itunes:duration>0:12:36</itunes:duration>
       <itunes:subtitle>Practicals · Bioassay · Principles, designs and calculations</itunes:subtitle>
       <description>Types of bioassay: direct end-point, quantal and graded. A narrated model answer from the bioassay book for the RGUHS MD Pharmacology practical examination (Principles, designs and calculations), from Medhi and Prakash's Practical Manual with the mathematics checked against Ghosh, every calculation worked from the textbook's own numbers, with its viva points.</description>
-      <enclosure url="https://pub-ef148064c92046b79cd6387190ed03d9.r2.dev/bioassay-b04-types-of-bioassay-direct-end-point-quantal-and-graded.mp3" length="6030572" type="audio/mpeg"/>
+      <enclosure url="https://pub-ef148064c92046b79cd6387190ed03d9.r2.dev/bioassay-b04-types-of-bioassay-direct-end-point-quantal-and-graded.mp3" length="6044972" type="audio/mpeg"/>
     </item>
     <item>
       <title>Bioassay · 3 · Levers and magnification, dose cycle and types of tissue</title>
@@ -316,10 +316,10 @@
       <pubDate>Sun, 23 Aug 2026 06:00:00 GMT</pubDate>
       <itunes:season>3</itunes:season>
       <itunes:episode>4</itunes:episode>
-      <itunes:duration>0:13:44</itunes:duration>
+      <itunes:duration>0:13:45</itunes:duration>
       <itunes:subtitle>Practicals · Bioassay · Principles, designs and calculations</itunes:subtitle>
       <description>Levers and magnification, dose cycle and types of tissue. A narrated model answer from the bioassay book for the RGUHS MD Pharmacology practical examination (Principles, designs and calculations), from Medhi and Prakash's Practical Manual with the mathematics checked against Ghosh, every calculation worked from the textbook's own numbers, with its viva points.</description>
-      <enclosure url="https://pub-ef148064c92046b79cd6387190ed03d9.r2.dev/bioassay-b03-levers-and-magnification-dose-cycle-and-types-of-tissue.mp3" length="6590828" type="audio/mpeg"/>
+      <enclosure url="https://pub-ef148064c92046b79cd6387190ed03d9.r2.dev/bioassay-b03-levers-and-magnification-dose-cycle-and-types-of-tissue.mp3" length="6600428" type="audio/mpeg"/>
     </item>
     <item>
       <title>Bioassay · 2 · Setting up a bioassay: organ bath, kymograph, physiological salt solutions and the dose–response curve</title>
@@ -327,10 +327,10 @@
       <pubDate>Sat, 22 Aug 2026 06:00:00 GMT</pubDate>
       <itunes:season>3</itunes:season>
       <itunes:episode>3</itunes:episode>
-      <itunes:duration>0:18:18</itunes:duration>
+      <itunes:duration>0:18:21</itunes:duration>
       <itunes:subtitle>Practicals · Bioassay · Principles, designs and calculations</itunes:subtitle>
       <description>Setting up a bioassay: organ bath, kymograph, physiological salt solutions and the dose–response curve. A narrated model answer from the bioassay book for the RGUHS MD Pharmacology practical examination (Principles, designs and calculations), from Medhi and Prakash's Practical Manual with the mathematics checked against Ghosh, every calculation worked from the textbook's own numbers, with its viva points.</description>
-      <enclosure url="https://pub-ef148064c92046b79cd6387190ed03d9.r2.dev/bioassay-b02-setting-up-a-bioassay-organ-bath-kymograph-physiological-sal.mp3" length="8785580" type="audio/mpeg"/>
+      <enclosure url="https://pub-ef148064c92046b79cd6387190ed03d9.r2.dev/bioassay-b02-setting-up-a-bioassay-organ-bath-kymograph-physiological-sal.mp3" length="8809772" type="audio/mpeg"/>
     </item>
     <item>
       <title>Bioassay · 1 · Bioassay: definition, principles, sources of error and applications</title>
@@ -338,10 +338,10 @@
       <pubDate>Fri, 21 Aug 2026 06:00:00 GMT</pubDate>
       <itunes:season>3</itunes:season>
       <itunes:episode>2</itunes:episode>
-      <itunes:duration>0:13:20</itunes:duration>
+      <itunes:duration>0:13:21</itunes:duration>
       <itunes:subtitle>Practicals · Bioassay · Principles, designs and calculations</itunes:subtitle>
       <description>Bioassay: definition, principles, sources of error and applications. A narrated model answer from the bioassay book for the RGUHS MD Pharmacology practical examination (Principles, designs and calculations), from Medhi and Prakash's Practical Manual with the mathematics checked against Ghosh, every calculation worked from the textbook's own numbers, with its viva points.</description>
-      <enclosure url="https://pub-ef148064c92046b79cd6387190ed03d9.r2.dev/bioassay-b01-bioassay-definition-principles-sources-of-error-and-applicat.mp3" length="6397868" type="audio/mpeg"/>
+      <enclosure url="https://pub-ef148064c92046b79cd6387190ed03d9.r2.dev/bioassay-b01-bioassay-definition-principles-sources-of-error-and-applicat.mp3" length="6410540" type="audio/mpeg"/>
     </item>
     <item>
       <title>Bioassay · Start here · How to write up a bioassay in the practical examination</title>
@@ -349,10 +349,10 @@
       <pubDate>Thu, 20 Aug 2026 06:00:00 GMT</pubDate>
       <itunes:season>3</itunes:season>
       <itunes:episode>1</itunes:episode>
-      <itunes:duration>0:11:30</itunes:duration>
+      <itunes:duration>0:11:32</itunes:duration>
       <itunes:subtitle>Practicals · Bioassay · Start here</itunes:subtitle>
       <description>How to write up a bioassay in the practical examination. A narrated model answer from the bioassay book for the RGUHS MD Pharmacology practical examination (Start here), from Medhi and Prakash's Practical Manual with the mathematics checked against Ghosh, every calculation worked from the textbook's own numbers, with its viva points.</description>
-      <enclosure url="https://pub-ef148064c92046b79cd6387190ed03d9.r2.dev/bioassay-b00-how-to-write-up-a-bioassay-in-the-practical-examination.mp3" length="5520812" type="audio/mpeg"/>
+      <enclosure url="https://pub-ef148064c92046b79cd6387190ed03d9.r2.dev/bioassay-b00-how-to-write-up-a-bioassay-in-the-practical-examination.mp3" length="5533484" type="audio/mpeg"/>
     </item>
     <item>
       <title>Experimental Pharmacology · 49 · Effects of drugs on the rabbit eye</title>
@@ -363,7 +363,7 @@
       <itunes:duration>0:10:06</itunes:duration>
       <itunes:subtitle>Practicals · Experimental pharmacology · Inflammation, local anaesthetics and the eye</itunes:subtitle>
       <description>Effects of drugs on the rabbit eye. A narrated model answer from the experimental pharmacology book for the RGUHS MD Pharmacology practical examination (Inflammation, local anaesthetics and the eye), from Medhi and Prakash's Practical Manual cross-checked against Ghosh, SK Gupta and Vogel, with its viva points.</description>
-      <enclosure url="https://pub-ef148064c92046b79cd6387190ed03d9.r2.dev/experimental-pharmacology-e01-effects-of-drugs-on-the-rabbit-eye.mp3" length="4844972" type="audio/mpeg"/>
+      <enclosure url="https://pub-ef148064c92046b79cd6387190ed03d9.r2.dev/experimental-pharmacology-e01-effects-of-drugs-on-the-rabbit-eye.mp3" length="4844204" type="audio/mpeg"/>
     </item>
     <item>
       <title>Experimental Pharmacology · 48 · Procaine and the foot-withdrawal reflex of the frog</title>
@@ -374,7 +374,7 @@
       <itunes:duration>0:07:17</itunes:duration>
       <itunes:subtitle>Practicals · Experimental pharmacology · Inflammation, local anaesthetics and the eye</itunes:subtitle>
       <description>Procaine and the foot-withdrawal reflex of the frog. A narrated model answer from the experimental pharmacology book for the RGUHS MD Pharmacology practical examination (Inflammation, local anaesthetics and the eye), from Medhi and Prakash's Practical Manual cross-checked against Ghosh, SK Gupta and Vogel, with its viva points.</description>
-      <enclosure url="https://pub-ef148064c92046b79cd6387190ed03d9.r2.dev/experimental-pharmacology-l02-procaine-and-the-foot-withdrawal-reflex-of-the-frog.mp3" length="3497516" type="audio/mpeg"/>
+      <enclosure url="https://pub-ef148064c92046b79cd6387190ed03d9.r2.dev/experimental-pharmacology-l02-procaine-and-the-foot-withdrawal-reflex-of-the-frog.mp3" length="3496940" type="audio/mpeg"/>
     </item>
     <item>
       <title>Experimental Pharmacology · 47 · Local anaesthetic effect in the guinea pig</title>
@@ -393,10 +393,10 @@
       <pubDate>Sun, 16 Aug 2026 06:00:00 GMT</pubDate>
       <itunes:season>2</itunes:season>
       <itunes:episode>47</itunes:episode>
-      <itunes:duration>0:09:48</itunes:duration>
+      <itunes:duration>0:09:49</itunes:duration>
       <itunes:subtitle>Practicals · Experimental pharmacology · Inflammation, local anaesthetics and the eye</itunes:subtitle>
       <description>Morphine against acetic acid-induced writhing. A narrated model answer from the experimental pharmacology book for the RGUHS MD Pharmacology practical examination (Inflammation, local anaesthetics and the eye), from Medhi and Prakash's Practical Manual cross-checked against Ghosh, SK Gupta and Vogel, with its viva points.</description>
-      <enclosure url="https://pub-ef148064c92046b79cd6387190ed03d9.r2.dev/experimental-pharmacology-a02-morphine-against-acetic-acid-induced-writhing.mp3" length="4705772" type="audio/mpeg"/>
+      <enclosure url="https://pub-ef148064c92046b79cd6387190ed03d9.r2.dev/experimental-pharmacology-a02-morphine-against-acetic-acid-induced-writhing.mp3" length="4712876" type="audio/mpeg"/>
     </item>
     <item>
       <title>Experimental Pharmacology · 45 · Indomethacin against carrageenan-induced paw oedema</title>
@@ -404,10 +404,10 @@
       <pubDate>Sat, 15 Aug 2026 06:00:00 GMT</pubDate>
       <itunes:season>2</itunes:season>
       <itunes:episode>46</itunes:episode>
-      <itunes:duration>0:09:45</itunes:duration>
+      <itunes:duration>0:09:46</itunes:duration>
       <itunes:subtitle>Practicals · Experimental pharmacology · Inflammation, local anaesthetics and the eye</itunes:subtitle>
       <description>Indomethacin against carrageenan-induced paw oedema. A narrated model answer from the experimental pharmacology book for the RGUHS MD Pharmacology practical examination (Inflammation, local anaesthetics and the eye), from Medhi and Prakash's Practical Manual cross-checked against Ghosh, SK Gupta and Vogel, with its viva points.</description>
-      <enclosure url="https://pub-ef148064c92046b79cd6387190ed03d9.r2.dev/experimental-pharmacology-a01-indomethacin-against-carrageenan-induced-paw-oedema.mp3" length="4680812" type="audio/mpeg"/>
+      <enclosure url="https://pub-ef148064c92046b79cd6387190ed03d9.r2.dev/experimental-pharmacology-a01-indomethacin-against-carrageenan-induced-paw-oedema.mp3" length="4684460" type="audio/mpeg"/>
     </item>
     <item>
       <title>Experimental Pharmacology · 44 · Collecting bronchoalveolar lavage fluid</title>
@@ -415,10 +415,10 @@
       <pubDate>Fri, 14 Aug 2026 06:00:00 GMT</pubDate>
       <itunes:season>2</itunes:season>
       <itunes:episode>45</itunes:episode>
-      <itunes:duration>0:07:04</itunes:duration>
+      <itunes:duration>0:07:05</itunes:duration>
       <itunes:subtitle>Practicals · Experimental pharmacology · Experiments on the heart and circulation, gut and lungs</itunes:subtitle>
       <description>Collecting bronchoalveolar lavage fluid. A narrated model answer from the experimental pharmacology book for the RGUHS MD Pharmacology practical examination (Experiments on the heart and circulation, gut and lungs), from Medhi and Prakash's Practical Manual cross-checked against Ghosh, SK Gupta and Vogel, with its viva points.</description>
-      <enclosure url="https://pub-ef148064c92046b79cd6387190ed03d9.r2.dev/experimental-pharmacology-r02-collecting-bronchoalveolar-lavage-fluid.mp3" length="3389228" type="audio/mpeg"/>
+      <enclosure url="https://pub-ef148064c92046b79cd6387190ed03d9.r2.dev/experimental-pharmacology-r02-collecting-bronchoalveolar-lavage-fluid.mp3" length="3397676" type="audio/mpeg"/>
     </item>
     <item>
       <title>Experimental Pharmacology · 43 · Respiratory volumes in guinea pigs by body plethysmography</title>
@@ -426,10 +426,10 @@
       <pubDate>Thu, 13 Aug 2026 06:00:00 GMT</pubDate>
       <itunes:season>2</itunes:season>
       <itunes:episode>44</itunes:episode>
-      <itunes:duration>0:10:38</itunes:duration>
+      <itunes:duration>0:10:39</itunes:duration>
       <itunes:subtitle>Practicals · Experimental pharmacology · Experiments on the heart and circulation, gut and lungs</itunes:subtitle>
       <description>Respiratory volumes in guinea pigs by body plethysmography. A narrated model answer from the experimental pharmacology book for the RGUHS MD Pharmacology practical examination (Experiments on the heart and circulation, gut and lungs), from Medhi and Prakash's Practical Manual cross-checked against Ghosh, SK Gupta and Vogel, with its viva points.</description>
-      <enclosure url="https://pub-ef148064c92046b79cd6387190ed03d9.r2.dev/experimental-pharmacology-r01-respiratory-volumes-in-guinea-pigs-by-body-plethysmography.mp3" length="5101484" type="audio/mpeg"/>
+      <enclosure url="https://pub-ef148064c92046b79cd6387190ed03d9.r2.dev/experimental-pharmacology-r01-respiratory-volumes-in-guinea-pigs-by-body-plethysmography.mp3" length="5112620" type="audio/mpeg"/>
     </item>
     <item>
       <title>Experimental Pharmacology · 42 · TNBS-induced colitis in rats</title>
@@ -437,10 +437,10 @@
       <pubDate>Wed, 12 Aug 2026 06:00:00 GMT</pubDate>
       <itunes:season>2</itunes:season>
       <itunes:episode>43</itunes:episode>
-      <itunes:duration>0:09:51</itunes:duration>
+      <itunes:duration>0:09:52</itunes:duration>
       <itunes:subtitle>Practicals · Experimental pharmacology · Experiments on the heart and circulation, gut and lungs</itunes:subtitle>
       <description>TNBS-induced colitis in rats. A narrated model answer from the experimental pharmacology book for the RGUHS MD Pharmacology practical examination (Experiments on the heart and circulation, gut and lungs), from Medhi and Prakash's Practical Manual cross-checked against Ghosh, SK Gupta and Vogel, with its viva points.</description>
-      <enclosure url="https://pub-ef148064c92046b79cd6387190ed03d9.r2.dev/experimental-pharmacology-g03-tnbs-induced-colitis-in-rats.mp3" length="4726700" type="audio/mpeg"/>
+      <enclosure url="https://pub-ef148064c92046b79cd6387190ed03d9.r2.dev/experimental-pharmacology-g03-tnbs-induced-colitis-in-rats.mp3" length="4739372" type="audio/mpeg"/>
     </item>
     <item>
       <title>Experimental Pharmacology · 41 · Caerulein-induced acute pancreatitis in rats</title>
@@ -451,7 +451,7 @@
       <itunes:duration>0:08:15</itunes:duration>
       <itunes:subtitle>Practicals · Experimental pharmacology · Experiments on the heart and circulation, gut and lungs</itunes:subtitle>
       <description>Caerulein-induced acute pancreatitis in rats. A narrated model answer from the experimental pharmacology book for the RGUHS MD Pharmacology practical examination (Experiments on the heart and circulation, gut and lungs), from Medhi and Prakash's Practical Manual cross-checked against Ghosh, SK Gupta and Vogel, with its viva points.</description>
-      <enclosure url="https://pub-ef148064c92046b79cd6387190ed03d9.r2.dev/experimental-pharmacology-g02-caerulein-induced-acute-pancreatitis-in-rats.mp3" length="3959468" type="audio/mpeg"/>
+      <enclosure url="https://pub-ef148064c92046b79cd6387190ed03d9.r2.dev/experimental-pharmacology-g02-caerulein-induced-acute-pancreatitis-in-rats.mp3" length="3961196" type="audio/mpeg"/>
     </item>
     <item>
       <title>Experimental Pharmacology · 40 · Experimental gastric ulcer models</title>
@@ -459,10 +459,10 @@
       <pubDate>Mon, 10 Aug 2026 06:00:00 GMT</pubDate>
       <itunes:season>2</itunes:season>
       <itunes:episode>41</itunes:episode>
-      <itunes:duration>0:12:00</itunes:duration>
+      <itunes:duration>0:12:02</itunes:duration>
       <itunes:subtitle>Practicals · Experimental pharmacology · Experiments on the heart and circulation, gut and lungs</itunes:subtitle>
       <description>Experimental gastric ulcer models. A narrated model answer from the experimental pharmacology book for the RGUHS MD Pharmacology practical examination (Experiments on the heart and circulation, gut and lungs), from Medhi and Prakash's Practical Manual cross-checked against Ghosh, SK Gupta and Vogel, with its viva points.</description>
-      <enclosure url="https://pub-ef148064c92046b79cd6387190ed03d9.r2.dev/experimental-pharmacology-g01-experimental-gastric-ulcer-models.mp3" length="5758508" type="audio/mpeg"/>
+      <enclosure url="https://pub-ef148064c92046b79cd6387190ed03d9.r2.dev/experimental-pharmacology-g01-experimental-gastric-ulcer-models.mp3" length="5777900" type="audio/mpeg"/>
     </item>
     <item>
       <title>Experimental Pharmacology · 39 · Ferric chloride-induced thrombosis in rats</title>
@@ -470,10 +470,10 @@
       <pubDate>Sun, 09 Aug 2026 06:00:00 GMT</pubDate>
       <itunes:season>2</itunes:season>
       <itunes:episode>40</itunes:episode>
-      <itunes:duration>0:08:13</itunes:duration>
+      <itunes:duration>0:08:14</itunes:duration>
       <itunes:subtitle>Practicals · Experimental pharmacology · Experiments on the heart and circulation, gut and lungs</itunes:subtitle>
       <description>Ferric chloride-induced thrombosis in rats. A narrated model answer from the experimental pharmacology book for the RGUHS MD Pharmacology practical examination (Experiments on the heart and circulation, gut and lungs), from Medhi and Prakash's Practical Manual cross-checked against Ghosh, SK Gupta and Vogel, with its viva points.</description>
-      <enclosure url="https://pub-ef148064c92046b79cd6387190ed03d9.r2.dev/experimental-pharmacology-v05-ferric-chloride-induced-thrombosis-in-rats.mp3" length="3940076" type="audio/mpeg"/>
+      <enclosure url="https://pub-ef148064c92046b79cd6387190ed03d9.r2.dev/experimental-pharmacology-v05-ferric-chloride-induced-thrombosis-in-rats.mp3" length="3950252" type="audio/mpeg"/>
     </item>
     <item>
       <title>Experimental Pharmacology · 38 · DOCA-salt hypertension in rats</title>
@@ -481,10 +481,10 @@
       <pubDate>Sat, 08 Aug 2026 06:00:00 GMT</pubDate>
       <itunes:season>2</itunes:season>
       <itunes:episode>39</itunes:episode>
-      <itunes:duration>0:09:25</itunes:duration>
+      <itunes:duration>0:09:29</itunes:duration>
       <itunes:subtitle>Practicals · Experimental pharmacology · Experiments on the heart and circulation, gut and lungs</itunes:subtitle>
       <description>DOCA-salt hypertension in rats. A narrated model answer from the experimental pharmacology book for the RGUHS MD Pharmacology practical examination (Experiments on the heart and circulation, gut and lungs), from Medhi and Prakash's Practical Manual cross-checked against Ghosh, SK Gupta and Vogel, with its viva points.</description>
-      <enclosure url="https://pub-ef148064c92046b79cd6387190ed03d9.r2.dev/experimental-pharmacology-v04-doca-salt-hypertension-in-rats.mp3" length="4517996" type="audio/mpeg"/>
+      <enclosure url="https://pub-ef148064c92046b79cd6387190ed03d9.r2.dev/experimental-pharmacology-v04-doca-salt-hypertension-in-rats.mp3" length="4550252" type="audio/mpeg"/>
     </item>
     <item>
       <title>Experimental Pharmacology · 37 · Isoproterenol-induced myocardial infarction in rats</title>
@@ -492,10 +492,10 @@
       <pubDate>Fri, 07 Aug 2026 06:00:00 GMT</pubDate>
       <itunes:season>2</itunes:season>
       <itunes:episode>38</itunes:episode>
-      <itunes:duration>0:09:41</itunes:duration>
+      <itunes:duration>0:09:43</itunes:duration>
       <itunes:subtitle>Practicals · Experimental pharmacology · Experiments on the heart and circulation, gut and lungs</itunes:subtitle>
       <description>Isoproterenol-induced myocardial infarction in rats. A narrated model answer from the experimental pharmacology book for the RGUHS MD Pharmacology practical examination (Experiments on the heart and circulation, gut and lungs), from Medhi and Prakash's Practical Manual cross-checked against Ghosh, SK Gupta and Vogel, with its viva points.</description>
-      <enclosure url="https://pub-ef148064c92046b79cd6387190ed03d9.r2.dev/experimental-pharmacology-v03-isoproterenol-induced-myocardial-infarction-in-rats.mp3" length="4651628" type="audio/mpeg"/>
+      <enclosure url="https://pub-ef148064c92046b79cd6387190ed03d9.r2.dev/experimental-pharmacology-v03-isoproterenol-induced-myocardial-infarction-in-rats.mp3" length="4667564" type="audio/mpeg"/>
     </item>
     <item>
       <title>Experimental Pharmacology · 36 · Recording the ECG in rats and mice</title>
@@ -506,7 +506,7 @@
       <itunes:duration>0:07:47</itunes:duration>
       <itunes:subtitle>Practicals · Experimental pharmacology · Experiments on the heart and circulation, gut and lungs</itunes:subtitle>
       <description>Recording the ECG in rats and mice. A narrated model answer from the experimental pharmacology book for the RGUHS MD Pharmacology practical examination (Experiments on the heart and circulation, gut and lungs), from Medhi and Prakash's Practical Manual cross-checked against Ghosh, SK Gupta and Vogel, with its viva points.</description>
-      <enclosure url="https://pub-ef148064c92046b79cd6387190ed03d9.r2.dev/experimental-pharmacology-v02-recording-the-ecg-in-rats-and-mice.mp3" length="3735212" type="audio/mpeg"/>
+      <enclosure url="https://pub-ef148064c92046b79cd6387190ed03d9.r2.dev/experimental-pharmacology-v02-recording-the-ecg-in-rats-and-mice.mp3" length="3740012" type="audio/mpeg"/>
     </item>
     <item>
       <title>Experimental Pharmacology · 35 · Recording blood pressure in rats</title>
@@ -514,10 +514,10 @@
       <pubDate>Wed, 05 Aug 2026 06:00:00 GMT</pubDate>
       <itunes:season>2</itunes:season>
       <itunes:episode>36</itunes:episode>
-      <itunes:duration>0:10:19</itunes:duration>
+      <itunes:duration>0:10:20</itunes:duration>
       <itunes:subtitle>Practicals · Experimental pharmacology · Experiments on the heart and circulation, gut and lungs</itunes:subtitle>
       <description>Recording blood pressure in rats. A narrated model answer from the experimental pharmacology book for the RGUHS MD Pharmacology practical examination (Experiments on the heart and circulation, gut and lungs), from Medhi and Prakash's Practical Manual cross-checked against Ghosh, SK Gupta and Vogel, with its viva points.</description>
-      <enclosure url="https://pub-ef148064c92046b79cd6387190ed03d9.r2.dev/experimental-pharmacology-v01-recording-blood-pressure-in-rats.mp3" length="4953452" type="audio/mpeg"/>
+      <enclosure url="https://pub-ef148064c92046b79cd6387190ed03d9.r2.dev/experimental-pharmacology-v01-recording-blood-pressure-in-rats.mp3" length="4957676" type="audio/mpeg"/>
     </item>
     <item>
       <title>Experimental Pharmacology · 34 · Partial global cerebral ischaemia in mice</title>
@@ -525,10 +525,10 @@
       <pubDate>Tue, 04 Aug 2026 06:00:00 GMT</pubDate>
       <itunes:season>2</itunes:season>
       <itunes:episode>35</itunes:episode>
-      <itunes:duration>0:10:08</itunes:duration>
+      <itunes:duration>0:10:09</itunes:duration>
       <itunes:subtitle>Practicals · Experimental pharmacology · Experiments on the central nervous system</itunes:subtitle>
       <description>Partial global cerebral ischaemia in mice. A narrated model answer from the experimental pharmacology book for the RGUHS MD Pharmacology practical examination (Experiments on the central nervous system), from Medhi and Prakash's Practical Manual cross-checked against Ghosh, SK Gupta and Vogel, with its viva points.</description>
-      <enclosure url="https://pub-ef148064c92046b79cd6387190ed03d9.r2.dev/experimental-pharmacology-c12-partial-global-cerebral-ischaemia-in-mice.mp3" length="4867052" type="audio/mpeg"/>
+      <enclosure url="https://pub-ef148064c92046b79cd6387190ed03d9.r2.dev/experimental-pharmacology-c12-partial-global-cerebral-ischaemia-in-mice.mp3" length="4869932" type="audio/mpeg"/>
     </item>
     <item>
       <title>Experimental Pharmacology · 33 · Analgesic effect of morphine by the hot plate and tail flick methods</title>
@@ -539,7 +539,7 @@
       <itunes:duration>0:10:03</itunes:duration>
       <itunes:subtitle>Practicals · Experimental pharmacology · Experiments on the central nervous system</itunes:subtitle>
       <description>Analgesic effect of morphine by the hot plate and tail flick methods. A narrated model answer from the experimental pharmacology book for the RGUHS MD Pharmacology practical examination (Experiments on the central nervous system), from Medhi and Prakash's Practical Manual cross-checked against Ghosh, SK Gupta and Vogel, with its viva points.</description>
-      <enclosure url="https://pub-ef148064c92046b79cd6387190ed03d9.r2.dev/experimental-pharmacology-c11-analgesic-effect-of-morphine-by-the-hot-plate-and-tail-flick.mp3" length="4821356" type="audio/mpeg"/>
+      <enclosure url="https://pub-ef148064c92046b79cd6387190ed03d9.r2.dev/experimental-pharmacology-c11-analgesic-effect-of-morphine-by-the-hot-plate-and-tail-flick.mp3" length="4823852" type="audio/mpeg"/>
     </item>
     <item>
       <title>Experimental Pharmacology · 32 · Morphine and the Straub tail reaction</title>
@@ -561,7 +561,7 @@
       <itunes:duration>0:09:29</itunes:duration>
       <itunes:subtitle>Practicals · Experimental pharmacology · Experiments on the central nervous system</itunes:subtitle>
       <description>Haloperidol-induced catatonia in rats. A narrated model answer from the experimental pharmacology book for the RGUHS MD Pharmacology practical examination (Experiments on the central nervous system), from Medhi and Prakash's Practical Manual cross-checked against Ghosh, SK Gupta and Vogel, with its viva points.</description>
-      <enclosure url="https://pub-ef148064c92046b79cd6387190ed03d9.r2.dev/experimental-pharmacology-c09-haloperidol-induced-catatonia-in-rats.mp3" length="4551020" type="audio/mpeg"/>
+      <enclosure url="https://pub-ef148064c92046b79cd6387190ed03d9.r2.dev/experimental-pharmacology-c09-haloperidol-induced-catatonia-in-rats.mp3" length="4554284" type="audio/mpeg"/>
     </item>
     <item>
       <title>Experimental Pharmacology · 30 · Phenytoin against maximal electroshock convulsions in rats</title>
@@ -583,7 +583,7 @@
       <itunes:duration>0:09:24</itunes:duration>
       <itunes:subtitle>Practicals · Experimental pharmacology · Experiments on the central nervous system</itunes:subtitle>
       <description>Diazepam against pentylenetetrazole kindling in rats. A narrated model answer from the experimental pharmacology book for the RGUHS MD Pharmacology practical examination (Experiments on the central nervous system), from Medhi and Prakash's Practical Manual cross-checked against Ghosh, SK Gupta and Vogel, with its viva points.</description>
-      <enclosure url="https://pub-ef148064c92046b79cd6387190ed03d9.r2.dev/experimental-pharmacology-c07-diazepam-against-pentylenetetrazole-kindling-in-rats.mp3" length="4512236" type="audio/mpeg"/>
+      <enclosure url="https://pub-ef148064c92046b79cd6387190ed03d9.r2.dev/experimental-pharmacology-c07-diazepam-against-pentylenetetrazole-kindling-in-rats.mp3" length="4512812" type="audio/mpeg"/>
     </item>
     <item>
       <title>Experimental Pharmacology · 28 · Diazepam against pentylenetetrazole-induced convulsions in mice</title>
@@ -594,7 +594,7 @@
       <itunes:duration>0:09:26</itunes:duration>
       <itunes:subtitle>Practicals · Experimental pharmacology · Experiments on the central nervous system</itunes:subtitle>
       <description>Diazepam against pentylenetetrazole-induced convulsions in mice. A narrated model answer from the experimental pharmacology book for the RGUHS MD Pharmacology practical examination (Experiments on the central nervous system), from Medhi and Prakash's Practical Manual cross-checked against Ghosh, SK Gupta and Vogel, with its viva points.</description>
-      <enclosure url="https://pub-ef148064c92046b79cd6387190ed03d9.r2.dev/experimental-pharmacology-c06-diazepam-against-pentylenetetrazole-induced-convulsions-in-m.mp3" length="4525292" type="audio/mpeg"/>
+      <enclosure url="https://pub-ef148064c92046b79cd6387190ed03d9.r2.dev/experimental-pharmacology-c06-diazepam-against-pentylenetetrazole-induced-convulsions-in-m.mp3" length="4528364" type="audio/mpeg"/>
     </item>
     <item>
       <title>Experimental Pharmacology · 27 · Amnesic effect of diazepam in the Morris water maze in rats</title>
@@ -605,7 +605,7 @@
       <itunes:duration>0:09:58</itunes:duration>
       <itunes:subtitle>Practicals · Experimental pharmacology · Experiments on the central nervous system</itunes:subtitle>
       <description>Amnesic effect of diazepam in the Morris water maze in rats. A narrated model answer from the experimental pharmacology book for the RGUHS MD Pharmacology practical examination (Experiments on the central nervous system), from Medhi and Prakash's Practical Manual cross-checked against Ghosh, SK Gupta and Vogel, with its viva points.</description>
-      <enclosure url="https://pub-ef148064c92046b79cd6387190ed03d9.r2.dev/experimental-pharmacology-c05-amnesic-effect-of-diazepam-in-the-morris-water-maze-in-rats.mp3" length="4783724" type="audio/mpeg"/>
+      <enclosure url="https://pub-ef148064c92046b79cd6387190ed03d9.r2.dev/experimental-pharmacology-c05-amnesic-effect-of-diazepam-in-the-morris-water-maze-in-rats.mp3" length="4782764" type="audio/mpeg"/>
     </item>
     <item>
       <title>Experimental Pharmacology · 26 · Anxiolytic effect of diazepam on the elevated plus maze in rats</title>
@@ -613,10 +613,10 @@
       <pubDate>Mon, 27 Jul 2026 06:00:00 GMT</pubDate>
       <itunes:season>2</itunes:season>
       <itunes:episode>27</itunes:episode>
-      <itunes:duration>0:10:30</itunes:duration>
+      <itunes:duration>0:10:31</itunes:duration>
       <itunes:subtitle>Practicals · Experimental pharmacology · Experiments on the central nervous system</itunes:subtitle>
       <description>Anxiolytic effect of diazepam on the elevated plus maze in rats. A narrated model answer from the experimental pharmacology book for the RGUHS MD Pharmacology practical examination (Experiments on the central nervous system), from Medhi and Prakash's Practical Manual cross-checked against Ghosh, SK Gupta and Vogel, with its viva points.</description>
-      <enclosure url="https://pub-ef148064c92046b79cd6387190ed03d9.r2.dev/experimental-pharmacology-c04-anxiolytic-effect-of-diazepam-on-the-elevated-plus-maze-in-r.mp3" length="5043116" type="audio/mpeg"/>
+      <enclosure url="https://pub-ef148064c92046b79cd6387190ed03d9.r2.dev/experimental-pharmacology-c04-anxiolytic-effect-of-diazepam-on-the-elevated-plus-maze-in-r.mp3" length="5047916" type="audio/mpeg"/>
     </item>
     <item>
       <title>Experimental Pharmacology · 25 · Muscle relaxant effect of diazepam in the chimney test in mice</title>
@@ -635,10 +635,10 @@
       <pubDate>Sat, 25 Jul 2026 06:00:00 GMT</pubDate>
       <itunes:season>2</itunes:season>
       <itunes:episode>25</itunes:episode>
-      <itunes:duration>0:08:37</itunes:duration>
+      <itunes:duration>0:08:38</itunes:duration>
       <itunes:subtitle>Practicals · Experimental pharmacology · Experiments on the central nervous system</itunes:subtitle>
       <description>Muscle relaxant effect of diazepam on the rota-rod in mice. A narrated model answer from the experimental pharmacology book for the RGUHS MD Pharmacology practical examination (Experiments on the central nervous system), from Medhi and Prakash's Practical Manual cross-checked against Ghosh, SK Gupta and Vogel, with its viva points.</description>
-      <enclosure url="https://pub-ef148064c92046b79cd6387190ed03d9.r2.dev/experimental-pharmacology-c02-muscle-relaxant-effect-of-diazepam-on-the-rota-rod-in-mice.mp3" length="4139180" type="audio/mpeg"/>
+      <enclosure url="https://pub-ef148064c92046b79cd6387190ed03d9.r2.dev/experimental-pharmacology-c02-muscle-relaxant-effect-of-diazepam-on-the-rota-rod-in-mice.mp3" length="4140524" type="audio/mpeg"/>
     </item>
     <item>
       <title>Experimental Pharmacology · 23 · Pentobarbital and the righting reflex (hypnosis) in mice</title>
@@ -649,7 +649,7 @@
       <itunes:duration>0:09:36</itunes:duration>
       <itunes:subtitle>Practicals · Experimental pharmacology · Experiments on the central nervous system</itunes:subtitle>
       <description>Pentobarbital and the righting reflex (hypnosis) in mice. A narrated model answer from the experimental pharmacology book for the RGUHS MD Pharmacology practical examination (Experiments on the central nervous system), from Medhi and Prakash's Practical Manual cross-checked against Ghosh, SK Gupta and Vogel, with its viva points.</description>
-      <enclosure url="https://pub-ef148064c92046b79cd6387190ed03d9.r2.dev/experimental-pharmacology-c01-pentobarbital-and-the-righting-reflex-hypnosis-in-mice.mp3" length="4605548" type="audio/mpeg"/>
+      <enclosure url="https://pub-ef148064c92046b79cd6387190ed03d9.r2.dev/experimental-pharmacology-c01-pentobarbital-and-the-righting-reflex-hypnosis-in-mice.mp3" length="4609772" type="audio/mpeg"/>
     </item>
     <item>
       <title>Experimental Pharmacology · 22 · Telemetry</title>
@@ -657,10 +657,10 @@
       <pubDate>Thu, 23 Jul 2026 06:00:00 GMT</pubDate>
       <itunes:season>2</itunes:season>
       <itunes:episode>23</itunes:episode>
-      <itunes:duration>0:09:43</itunes:duration>
+      <itunes:duration>0:09:44</itunes:duration>
       <itunes:subtitle>Practicals · Experimental pharmacology · Sophisticated instruments</itunes:subtitle>
       <description>Telemetry. A narrated model answer from the experimental pharmacology book for the RGUHS MD Pharmacology practical examination (Sophisticated instruments), from Medhi and Prakash's Practical Manual cross-checked against Ghosh, SK Gupta and Vogel, with its viva points.</description>
-      <enclosure url="https://pub-ef148064c92046b79cd6387190ed03d9.r2.dev/experimental-pharmacology-s04-telemetry.mp3" length="4666988" type="audio/mpeg"/>
+      <enclosure url="https://pub-ef148064c92046b79cd6387190ed03d9.r2.dev/experimental-pharmacology-s04-telemetry.mp3" length="4672556" type="audio/mpeg"/>
     </item>
     <item>
       <title>Experimental Pharmacology · 21 · Polymerase chain reaction (PCR)</title>
@@ -671,7 +671,7 @@
       <itunes:duration>0:11:11</itunes:duration>
       <itunes:subtitle>Practicals · Experimental pharmacology · Sophisticated instruments</itunes:subtitle>
       <description>Polymerase chain reaction (PCR). A narrated model answer from the experimental pharmacology book for the RGUHS MD Pharmacology practical examination (Sophisticated instruments), from Medhi and Prakash's Practical Manual cross-checked against Ghosh, SK Gupta and Vogel, with its viva points.</description>
-      <enclosure url="https://pub-ef148064c92046b79cd6387190ed03d9.r2.dev/experimental-pharmacology-s03-polymerase-chain-reaction-pcr.mp3" length="5369132" type="audio/mpeg"/>
+      <enclosure url="https://pub-ef148064c92046b79cd6387190ed03d9.r2.dev/experimental-pharmacology-s03-polymerase-chain-reaction-pcr.mp3" length="5371436" type="audio/mpeg"/>
     </item>
     <item>
       <title>Experimental Pharmacology · 20 · High-performance liquid chromatography (HPLC)</title>
@@ -682,7 +682,7 @@
       <itunes:duration>0:11:19</itunes:duration>
       <itunes:subtitle>Practicals · Experimental pharmacology · Sophisticated instruments</itunes:subtitle>
       <description>High-performance liquid chromatography (HPLC). A narrated model answer from the experimental pharmacology book for the RGUHS MD Pharmacology practical examination (Sophisticated instruments), from Medhi and Prakash's Practical Manual cross-checked against Ghosh, SK Gupta and Vogel, with its viva points.</description>
-      <enclosure url="https://pub-ef148064c92046b79cd6387190ed03d9.r2.dev/experimental-pharmacology-s02-high-performance-liquid-chromatography-hplc.mp3" length="5428652" type="audio/mpeg"/>
+      <enclosure url="https://pub-ef148064c92046b79cd6387190ed03d9.r2.dev/experimental-pharmacology-s02-high-performance-liquid-chromatography-hplc.mp3" length="5431916" type="audio/mpeg"/>
     </item>
     <item>
       <title>Experimental Pharmacology · 19 · Centrifuge</title>
@@ -701,10 +701,10 @@
       <pubDate>Sun, 19 Jul 2026 06:00:00 GMT</pubDate>
       <itunes:season>2</itunes:season>
       <itunes:episode>19</itunes:episode>
-      <itunes:duration>0:10:08</itunes:duration>
+      <itunes:duration>0:10:10</itunes:duration>
       <itunes:subtitle>Practicals · Experimental pharmacology · Laboratory instruments</itunes:subtitle>
       <description>Body plethysmograph and paw plethysmometer. A narrated model answer from the experimental pharmacology book for the RGUHS MD Pharmacology practical examination (Laboratory instruments), from Medhi and Prakash's Practical Manual cross-checked against Ghosh, SK Gupta and Vogel, with its viva points.</description>
-      <enclosure url="https://pub-ef148064c92046b79cd6387190ed03d9.r2.dev/experimental-pharmacology-i12-body-plethysmograph-and-paw-plethysmometer.mp3" length="4865516" type="audio/mpeg"/>
+      <enclosure url="https://pub-ef148064c92046b79cd6387190ed03d9.r2.dev/experimental-pharmacology-i12-body-plethysmograph-and-paw-plethysmometer.mp3" length="4879916" type="audio/mpeg"/>
     </item>
     <item>
       <title>Experimental Pharmacology · 17 · Electrolyte analyser</title>
@@ -715,7 +715,7 @@
       <itunes:duration>0:07:27</itunes:duration>
       <itunes:subtitle>Practicals · Experimental pharmacology · Laboratory instruments</itunes:subtitle>
       <description>Electrolyte analyser. A narrated model answer from the experimental pharmacology book for the RGUHS MD Pharmacology practical examination (Laboratory instruments), from Medhi and Prakash's Practical Manual cross-checked against Ghosh, SK Gupta and Vogel, with its viva points.</description>
-      <enclosure url="https://pub-ef148064c92046b79cd6387190ed03d9.r2.dev/experimental-pharmacology-i11-electrolyte-analyser.mp3" length="3572972" type="audio/mpeg"/>
+      <enclosure url="https://pub-ef148064c92046b79cd6387190ed03d9.r2.dev/experimental-pharmacology-i11-electrolyte-analyser.mp3" length="3577964" type="audio/mpeg"/>
     </item>
     <item>
       <title>Experimental Pharmacology · 16 · Non-invasive (tail-cuff) blood pressure apparatus</title>
@@ -723,10 +723,10 @@
       <pubDate>Fri, 17 Jul 2026 06:00:00 GMT</pubDate>
       <itunes:season>2</itunes:season>
       <itunes:episode>17</itunes:episode>
-      <itunes:duration>0:08:56</itunes:duration>
+      <itunes:duration>0:08:59</itunes:duration>
       <itunes:subtitle>Practicals · Experimental pharmacology · Laboratory instruments</itunes:subtitle>
       <description>Non-invasive (tail-cuff) blood pressure apparatus. A narrated model answer from the experimental pharmacology book for the RGUHS MD Pharmacology practical examination (Laboratory instruments), from Medhi and Prakash's Practical Manual cross-checked against Ghosh, SK Gupta and Vogel, with its viva points.</description>
-      <enclosure url="https://pub-ef148064c92046b79cd6387190ed03d9.r2.dev/experimental-pharmacology-i10-non-invasive-tail-cuff-blood-pressure-apparatus.mp3" length="4289900" type="audio/mpeg"/>
+      <enclosure url="https://pub-ef148064c92046b79cd6387190ed03d9.r2.dev/experimental-pharmacology-i10-non-invasive-tail-cuff-blood-pressure-apparatus.mp3" length="4308716" type="audio/mpeg"/>
     </item>
     <item>
       <title>Experimental Pharmacology · 15 · Rota-rod and chimney-test apparatus</title>
@@ -734,10 +734,10 @@
       <pubDate>Thu, 16 Jul 2026 06:00:00 GMT</pubDate>
       <itunes:season>2</itunes:season>
       <itunes:episode>16</itunes:episode>
-      <itunes:duration>0:09:22</itunes:duration>
+      <itunes:duration>0:09:23</itunes:duration>
       <itunes:subtitle>Practicals · Experimental pharmacology · Laboratory instruments</itunes:subtitle>
       <description>Rota-rod and chimney-test apparatus. A narrated model answer from the experimental pharmacology book for the RGUHS MD Pharmacology practical examination (Laboratory instruments), from Medhi and Prakash's Practical Manual cross-checked against Ghosh, SK Gupta and Vogel, with its viva points.</description>
-      <enclosure url="https://pub-ef148064c92046b79cd6387190ed03d9.r2.dev/experimental-pharmacology-i09-rota-rod-and-chimney-test-apparatus.mp3" length="4498604" type="audio/mpeg"/>
+      <enclosure url="https://pub-ef148064c92046b79cd6387190ed03d9.r2.dev/experimental-pharmacology-i09-rota-rod-and-chimney-test-apparatus.mp3" length="4502636" type="audio/mpeg"/>
     </item>
     <item>
       <title>Experimental Pharmacology · 14 · Passive avoidance apparatus (shuttle box)</title>
@@ -745,10 +745,10 @@
       <pubDate>Wed, 15 Jul 2026 06:00:00 GMT</pubDate>
       <itunes:season>2</itunes:season>
       <itunes:episode>15</itunes:episode>
-      <itunes:duration>0:09:04</itunes:duration>
+      <itunes:duration>0:09:07</itunes:duration>
       <itunes:subtitle>Practicals · Experimental pharmacology · Laboratory instruments</itunes:subtitle>
       <description>Passive avoidance apparatus (shuttle box). A narrated model answer from the experimental pharmacology book for the RGUHS MD Pharmacology practical examination (Laboratory instruments), from Medhi and Prakash's Practical Manual cross-checked against Ghosh, SK Gupta and Vogel, with its viva points.</description>
-      <enclosure url="https://pub-ef148064c92046b79cd6387190ed03d9.r2.dev/experimental-pharmacology-i08-passive-avoidance-apparatus-shuttle-box.mp3" length="4354796" type="audio/mpeg"/>
+      <enclosure url="https://pub-ef148064c92046b79cd6387190ed03d9.r2.dev/experimental-pharmacology-i08-passive-avoidance-apparatus-shuttle-box.mp3" length="4373228" type="audio/mpeg"/>
     </item>
     <item>
       <title>Experimental Pharmacology · 13 · Morris water maze</title>
@@ -756,10 +756,10 @@
       <pubDate>Tue, 14 Jul 2026 06:00:00 GMT</pubDate>
       <itunes:season>2</itunes:season>
       <itunes:episode>14</itunes:episode>
-      <itunes:duration>0:09:07</itunes:duration>
+      <itunes:duration>0:09:06</itunes:duration>
       <itunes:subtitle>Practicals · Experimental pharmacology · Laboratory instruments</itunes:subtitle>
       <description>Morris water maze. A narrated model answer from the experimental pharmacology book for the RGUHS MD Pharmacology practical examination (Laboratory instruments), from Medhi and Prakash's Practical Manual cross-checked against Ghosh, SK Gupta and Vogel, with its viva points.</description>
-      <enclosure url="https://pub-ef148064c92046b79cd6387190ed03d9.r2.dev/experimental-pharmacology-i07-morris-water-maze.mp3" length="4372076" type="audio/mpeg"/>
+      <enclosure url="https://pub-ef148064c92046b79cd6387190ed03d9.r2.dev/experimental-pharmacology-i07-morris-water-maze.mp3" length="4370348" type="audio/mpeg"/>
     </item>
     <item>
       <title>Experimental Pharmacology · 12 · Elevated plus maze</title>
@@ -767,10 +767,10 @@
       <pubDate>Mon, 13 Jul 2026 06:00:00 GMT</pubDate>
       <itunes:season>2</itunes:season>
       <itunes:episode>13</itunes:episode>
-      <itunes:duration>0:09:25</itunes:duration>
+      <itunes:duration>0:09:26</itunes:duration>
       <itunes:subtitle>Practicals · Experimental pharmacology · Laboratory instruments</itunes:subtitle>
       <description>Elevated plus maze. A narrated model answer from the experimental pharmacology book for the RGUHS MD Pharmacology practical examination (Laboratory instruments), from Medhi and Prakash's Practical Manual cross-checked against Ghosh, SK Gupta and Vogel, with its viva points.</description>
-      <enclosure url="https://pub-ef148064c92046b79cd6387190ed03d9.r2.dev/experimental-pharmacology-i06-elevated-plus-maze.mp3" length="4519148" type="audio/mpeg"/>
+      <enclosure url="https://pub-ef148064c92046b79cd6387190ed03d9.r2.dev/experimental-pharmacology-i06-elevated-plus-maze.mp3" length="4529708" type="audio/mpeg"/>
     </item>
     <item>
       <title>Experimental Pharmacology · 11 · Convulsiometer for maximal electroshock seizures</title>
@@ -778,10 +778,10 @@
       <pubDate>Sun, 12 Jul 2026 06:00:00 GMT</pubDate>
       <itunes:season>2</itunes:season>
       <itunes:episode>12</itunes:episode>
-      <itunes:duration>0:09:45</itunes:duration>
+      <itunes:duration>0:09:47</itunes:duration>
       <itunes:subtitle>Practicals · Experimental pharmacology · Laboratory instruments</itunes:subtitle>
       <description>Convulsiometer for maximal electroshock seizures. A narrated model answer from the experimental pharmacology book for the RGUHS MD Pharmacology practical examination (Laboratory instruments), from Medhi and Prakash's Practical Manual cross-checked against Ghosh, SK Gupta and Vogel, with its viva points.</description>
-      <enclosure url="https://pub-ef148064c92046b79cd6387190ed03d9.r2.dev/experimental-pharmacology-i05-convulsiometer-for-maximal-electroshock-seizures.mp3" length="4676588" type="audio/mpeg"/>
+      <enclosure url="https://pub-ef148064c92046b79cd6387190ed03d9.r2.dev/experimental-pharmacology-i05-convulsiometer-for-maximal-electroshock-seizures.mp3" length="4698476" type="audio/mpeg"/>
     </item>
     <item>
       <title>Experimental Pharmacology · 10 · Analgesiometers: tail flick and Eddy's hot plate</title>
@@ -789,10 +789,10 @@
       <pubDate>Sat, 11 Jul 2026 06:00:00 GMT</pubDate>
       <itunes:season>2</itunes:season>
       <itunes:episode>11</itunes:episode>
-      <itunes:duration>0:10:48</itunes:duration>
+      <itunes:duration>0:10:49</itunes:duration>
       <itunes:subtitle>Practicals · Experimental pharmacology · Laboratory instruments</itunes:subtitle>
       <description>Analgesiometers: tail flick and Eddy's hot plate. A narrated model answer from the experimental pharmacology book for the RGUHS MD Pharmacology practical examination (Laboratory instruments), from Medhi and Prakash's Practical Manual cross-checked against Ghosh, SK Gupta and Vogel, with its viva points.</description>
-      <enclosure url="https://pub-ef148064c92046b79cd6387190ed03d9.r2.dev/experimental-pharmacology-i04-analgesiometers-tail-flick-and-eddy-s-hot-plate.mp3" length="5185388" type="audio/mpeg"/>
+      <enclosure url="https://pub-ef148064c92046b79cd6387190ed03d9.r2.dev/experimental-pharmacology-i04-analgesiometers-tail-flick-and-eddy-s-hot-plate.mp3" length="5189420" type="audio/mpeg"/>
     </item>
     <item>
       <title>Experimental Pharmacology · 9 · Student's physiograph, transducers and couplers</title>
@@ -800,10 +800,10 @@
       <pubDate>Fri, 10 Jul 2026 06:00:00 GMT</pubDate>
       <itunes:season>2</itunes:season>
       <itunes:episode>10</itunes:episode>
-      <itunes:duration>0:08:25</itunes:duration>
+      <itunes:duration>0:08:27</itunes:duration>
       <itunes:subtitle>Practicals · Experimental pharmacology · Laboratory instruments</itunes:subtitle>
       <description>Student's physiograph, transducers and couplers. A narrated model answer from the experimental pharmacology book for the RGUHS MD Pharmacology practical examination (Laboratory instruments), from Medhi and Prakash's Practical Manual cross-checked against Ghosh, SK Gupta and Vogel, with its viva points.</description>
-      <enclosure url="https://pub-ef148064c92046b79cd6387190ed03d9.r2.dev/experimental-pharmacology-i03-student-s-physiograph-transducers-and-couplers.mp3" length="4037420" type="audio/mpeg"/>
+      <enclosure url="https://pub-ef148064c92046b79cd6387190ed03d9.r2.dev/experimental-pharmacology-i03-student-s-physiograph-transducers-and-couplers.mp3" length="4059692" type="audio/mpeg"/>
     </item>
     <item>
       <title>Experimental Pharmacology · 8 · Sherrington–Starling kymograph and writing levers</title>
@@ -811,10 +811,10 @@
       <pubDate>Thu, 09 Jul 2026 06:00:00 GMT</pubDate>
       <itunes:season>2</itunes:season>
       <itunes:episode>9</itunes:episode>
-      <itunes:duration>0:10:09</itunes:duration>
+      <itunes:duration>0:10:12</itunes:duration>
       <itunes:subtitle>Practicals · Experimental pharmacology · Laboratory instruments</itunes:subtitle>
       <description>Sherrington–Starling kymograph and writing levers. A narrated model answer from the experimental pharmacology book for the RGUHS MD Pharmacology practical examination (Laboratory instruments), from Medhi and Prakash's Practical Manual cross-checked against Ghosh, SK Gupta and Vogel, with its viva points.</description>
-      <enclosure url="https://pub-ef148064c92046b79cd6387190ed03d9.r2.dev/experimental-pharmacology-i02-sherrington-starling-kymograph-and-writing-levers.mp3" length="4875500" type="audio/mpeg"/>
+      <enclosure url="https://pub-ef148064c92046b79cd6387190ed03d9.r2.dev/experimental-pharmacology-i02-sherrington-starling-kymograph-and-writing-levers.mp3" length="4892588" type="audio/mpeg"/>
     </item>
     <item>
       <title>Experimental Pharmacology · 7 · Organ bath assembly and physiological salt solutions</title>
@@ -822,10 +822,10 @@
       <pubDate>Wed, 08 Jul 2026 06:00:00 GMT</pubDate>
       <itunes:season>2</itunes:season>
       <itunes:episode>8</itunes:episode>
-      <itunes:duration>0:13:58</itunes:duration>
+      <itunes:duration>0:13:59</itunes:duration>
       <itunes:subtitle>Practicals · Experimental pharmacology · Laboratory instruments</itunes:subtitle>
       <description>Organ bath assembly and physiological salt solutions. A narrated model answer from the experimental pharmacology book for the RGUHS MD Pharmacology practical examination (Laboratory instruments), from Medhi and Prakash's Practical Manual cross-checked against Ghosh, SK Gupta and Vogel, with its viva points.</description>
-      <enclosure url="https://pub-ef148064c92046b79cd6387190ed03d9.r2.dev/experimental-pharmacology-i01-organ-bath-assembly-and-physiological-salt-solutions.mp3" length="6700460" type="audio/mpeg"/>
+      <enclosure url="https://pub-ef148064c92046b79cd6387190ed03d9.r2.dev/experimental-pharmacology-i01-organ-bath-assembly-and-physiological-salt-solutions.mp3" length="6709100" type="audio/mpeg"/>
     </item>
     <item>
       <title>Experimental Pharmacology · 6 · Ethics of animal experiments: CPCSEA, IAEC, the 3Rs and alternatives</title>
@@ -869,7 +869,7 @@
       <itunes:duration>0:16:07</itunes:duration>
       <itunes:subtitle>Practicals · Experimental pharmacology · Before the experiment: animals, doses and ethics</itunes:subtitle>
       <description>Routes of administration, dose calculation between species, and blood collection. A narrated model answer from the experimental pharmacology book for the RGUHS MD Pharmacology practical examination (Before the experiment: animals, doses and ethics), from Medhi and Prakash's Practical Manual cross-checked against Ghosh, SK Gupta and Vogel, with its viva points.</description>
-      <enclosure url="https://pub-ef148064c92046b79cd6387190ed03d9.r2.dev/experimental-pharmacology-f03-routes-of-administration-dose-calculation-between-species-an.mp3" length="7737836" type="audio/mpeg"/>
+      <enclosure url="https://pub-ef148064c92046b79cd6387190ed03d9.r2.dev/experimental-pharmacology-f03-routes-of-administration-dose-calculation-between-species-an.mp3" length="7739756" type="audio/mpeg"/>
     </item>
     <item>
       <title>Experimental Pharmacology · 2 · Animal house, care, handling, sexing and diet, with normal values</title>
@@ -880,7 +880,7 @@
       <itunes:duration>0:12:01</itunes:duration>
       <itunes:subtitle>Practicals · Experimental pharmacology · Before the experiment: animals, doses and ethics</itunes:subtitle>
       <description>Animal house, care, handling, sexing and diet, with normal values. A narrated model answer from the experimental pharmacology book for the RGUHS MD Pharmacology practical examination (Before the experiment: animals, doses and ethics), from Medhi and Prakash's Practical Manual cross-checked against Ghosh, SK Gupta and Vogel, with its viva points.</description>
-      <enclosure url="https://pub-ef148064c92046b79cd6387190ed03d9.r2.dev/experimental-pharmacology-f02-animal-house-care-handling-sexing-and-diet-with-normal-value.mp3" length="5770412" type="audio/mpeg"/>
+      <enclosure url="https://pub-ef148064c92046b79cd6387190ed03d9.r2.dev/experimental-pharmacology-f02-animal-house-care-handling-sexing-and-diet-with-normal-value.mp3" length="5767916" type="audio/mpeg"/>
     </item>
     <item>
       <title>Experimental Pharmacology · 1 · Common laboratory animals: species, strains and what each is used for</title>
@@ -888,10 +888,10 @@
       <pubDate>Thu, 02 Jul 2026 06:00:00 GMT</pubDate>
       <itunes:season>2</itunes:season>
       <itunes:episode>2</itunes:episode>
-      <itunes:duration>0:10:47</itunes:duration>
+      <itunes:duration>0:10:48</itunes:duration>
       <itunes:subtitle>Practicals · Experimental pharmacology · Before the experiment: animals, doses and ethics</itunes:subtitle>
       <description>Common laboratory animals: species, strains and what each is used for. A narrated model answer from the experimental pharmacology book for the RGUHS MD Pharmacology practical examination (Before the experiment: animals, doses and ethics), from Medhi and Prakash's Practical Manual cross-checked against Ghosh, SK Gupta and Vogel, with its viva points.</description>
-      <enclosure url="https://pub-ef148064c92046b79cd6387190ed03d9.r2.dev/experimental-pharmacology-f01-common-laboratory-animals-species-strains-and-what-each-is-u.mp3" length="5178092" type="audio/mpeg"/>
+      <enclosure url="https://pub-ef148064c92046b79cd6387190ed03d9.r2.dev/experimental-pharmacology-f01-common-laboratory-animals-species-strains-and-what-each-is-u.mp3" length="5183276" type="audio/mpeg"/>
     </item>
     <item>
       <title>Experimental Pharmacology · Start here · How to write up an instrument or an experiment in the practical examination</title>
@@ -910,10 +910,10 @@
       <pubDate>Fri, 26 Jun 2026 06:00:00 GMT</pubDate>
       <itunes:season>4</itunes:season>
       <itunes:episode>18</itunes:episode>
-      <itunes:duration>0:17:48</itunes:duration>
+      <itunes:duration>0:17:52</itunes:duration>
       <itunes:subtitle>Practicals · Chemical analysis and graphs · Graphs and charts: cholinergic drugs</itunes:subtitle>
       <description>Cholinergic agonists on the dog's blood pressure before and after physostigmine (no tracing supplied). A narrated model answer from the chemical analysis and graphs book for the RGUHS MD Pharmacology practical examination (Graphs and charts: cholinergic drugs): the chemical tests from pharmacopoeial and published methods, and the chart tracings of the KMCRI set read receptor by receptor from the standard textbooks, with its viva points.</description>
-      <enclosure url="https://pub-ef148064c92046b79cd6387190ed03d9.r2.dev/chemical-analysis-graphs-g11-cholinergic-agonists-on-the-dog-s-blood-pressure-before-and-.mp3" length="8543852" type="audio/mpeg"/>
+      <enclosure url="https://pub-ef148064c92046b79cd6387190ed03d9.r2.dev/chemical-analysis-graphs-g11-cholinergic-agonists-on-the-dog-s-blood-pressure-before-and-.mp3" length="8576492" type="audio/mpeg"/>
     </item>
     <item>
       <title>Chemical Analysis and Graphs · 16 · Frog rectus abdominis: potentiation of acetylcholine by physostigmine</title>
@@ -921,10 +921,10 @@
       <pubDate>Thu, 25 Jun 2026 06:00:00 GMT</pubDate>
       <itunes:season>4</itunes:season>
       <itunes:episode>17</itunes:episode>
-      <itunes:duration>0:15:52</itunes:duration>
+      <itunes:duration>0:15:55</itunes:duration>
       <itunes:subtitle>Practicals · Chemical analysis and graphs · Graphs and charts: cholinergic drugs</itunes:subtitle>
       <description>Frog rectus abdominis: potentiation of acetylcholine by physostigmine. A narrated model answer from the chemical analysis and graphs book for the RGUHS MD Pharmacology practical examination (Graphs and charts: cholinergic drugs): the chemical tests from pharmacopoeial and published methods, and the chart tracings of the KMCRI set read receptor by receptor from the standard textbooks, with its viva points.</description>
-      <enclosure url="https://pub-ef148064c92046b79cd6387190ed03d9.r2.dev/chemical-analysis-graphs-g10-frog-rectus-abdominis-potentiation-of-acetylcholine-by-physo.mp3" length="7618220" type="audio/mpeg"/>
+      <enclosure url="https://pub-ef148064c92046b79cd6387190ed03d9.r2.dev/chemical-analysis-graphs-g10-frog-rectus-abdominis-potentiation-of-acetylcholine-by-physo.mp3" length="7638956" type="audio/mpeg"/>
     </item>
     <item>
       <title>Chemical Analysis and Graphs · 15 · Frog rectus abdominis: hydrolysis of acetylcholine by serum cholinesterase</title>
@@ -932,10 +932,10 @@
       <pubDate>Wed, 24 Jun 2026 06:00:00 GMT</pubDate>
       <itunes:season>4</itunes:season>
       <itunes:episode>16</itunes:episode>
-      <itunes:duration>0:16:44</itunes:duration>
+      <itunes:duration>0:16:47</itunes:duration>
       <itunes:subtitle>Practicals · Chemical analysis and graphs · Graphs and charts: cholinergic drugs</itunes:subtitle>
       <description>Frog rectus abdominis: hydrolysis of acetylcholine by serum cholinesterase. A narrated model answer from the chemical analysis and graphs book for the RGUHS MD Pharmacology practical examination (Graphs and charts: cholinergic drugs): the chemical tests from pharmacopoeial and published methods, and the chart tracings of the KMCRI set read receptor by receptor from the standard textbooks, with its viva points.</description>
-      <enclosure url="https://pub-ef148064c92046b79cd6387190ed03d9.r2.dev/chemical-analysis-graphs-g09-frog-rectus-abdominis-hydrolysis-of-acetylcholine-by-serum-c.mp3" length="8029292" type="audio/mpeg"/>
+      <enclosure url="https://pub-ef148064c92046b79cd6387190ed03d9.r2.dev/chemical-analysis-graphs-g09-frog-rectus-abdominis-hydrolysis-of-acetylcholine-by-serum-c.mp3" length="8053100" type="audio/mpeg"/>
     </item>
     <item>
       <title>Chemical Analysis and Graphs · 14 · Adrenaline, noradrenaline and isoprenaline before and after each blocker: one table</title>
@@ -943,10 +943,10 @@
       <pubDate>Tue, 23 Jun 2026 06:00:00 GMT</pubDate>
       <itunes:season>4</itunes:season>
       <itunes:episode>15</itunes:episode>
-      <itunes:duration>0:17:53</itunes:duration>
+      <itunes:duration>0:17:57</itunes:duration>
       <itunes:subtitle>Practicals · Chemical analysis and graphs · Graphs and charts: adrenergic drugs on the dog's blood pressure</itunes:subtitle>
       <description>Adrenaline, noradrenaline and isoprenaline before and after each blocker: one table. A narrated model answer from the chemical analysis and graphs book for the RGUHS MD Pharmacology practical examination (Graphs and charts: adrenergic drugs on the dog's blood pressure): the chemical tests from pharmacopoeial and published methods, and the chart tracings of the KMCRI set read receptor by receptor from the standard textbooks, with its viva points.</description>
-      <enclosure url="https://pub-ef148064c92046b79cd6387190ed03d9.r2.dev/chemical-analysis-graphs-g12-adrenaline-noradrenaline-and-isoprenaline-before-and-after-e.mp3" length="8585900" type="audio/mpeg"/>
+      <enclosure url="https://pub-ef148064c92046b79cd6387190ed03d9.r2.dev/chemical-analysis-graphs-g12-adrenaline-noradrenaline-and-isoprenaline-before-and-after-e.mp3" length="8614124" type="audio/mpeg"/>
     </item>
     <item>
       <title>Chemical Analysis and Graphs · 13 · Tachyphylaxis to repeated tyramine</title>
@@ -954,10 +954,10 @@
       <pubDate>Mon, 22 Jun 2026 06:00:00 GMT</pubDate>
       <itunes:season>4</itunes:season>
       <itunes:episode>14</itunes:episode>
-      <itunes:duration>0:12:37</itunes:duration>
+      <itunes:duration>0:12:40</itunes:duration>
       <itunes:subtitle>Practicals · Chemical analysis and graphs · Graphs and charts: adrenergic drugs on the dog's blood pressure</itunes:subtitle>
       <description>Tachyphylaxis to repeated tyramine. A narrated model answer from the chemical analysis and graphs book for the RGUHS MD Pharmacology practical examination (Graphs and charts: adrenergic drugs on the dog's blood pressure): the chemical tests from pharmacopoeial and published methods, and the chart tracings of the KMCRI set read receptor by receptor from the standard textbooks, with its viva points.</description>
-      <enclosure url="https://pub-ef148064c92046b79cd6387190ed03d9.r2.dev/chemical-analysis-graphs-g08-tachyphylaxis-to-repeated-tyramine.mp3" length="6052268" type="audio/mpeg"/>
+      <enclosure url="https://pub-ef148064c92046b79cd6387190ed03d9.r2.dev/chemical-analysis-graphs-g08-tachyphylaxis-to-repeated-tyramine.mp3" length="6082028" type="audio/mpeg"/>
     </item>
     <item>
       <title>Chemical Analysis and Graphs · 12 · α-blockade by phenoxybenzamine and its reversal by propranolol</title>
@@ -965,10 +965,10 @@
       <pubDate>Sun, 21 Jun 2026 06:00:00 GMT</pubDate>
       <itunes:season>4</itunes:season>
       <itunes:episode>13</itunes:episode>
-      <itunes:duration>0:18:08</itunes:duration>
+      <itunes:duration>0:18:13</itunes:duration>
       <itunes:subtitle>Practicals · Chemical analysis and graphs · Graphs and charts: adrenergic drugs on the dog's blood pressure</itunes:subtitle>
       <description>α-blockade by phenoxybenzamine and its reversal by propranolol. A narrated model answer from the chemical analysis and graphs book for the RGUHS MD Pharmacology practical examination (Graphs and charts: adrenergic drugs on the dog's blood pressure): the chemical tests from pharmacopoeial and published methods, and the chart tracings of the KMCRI set read receptor by receptor from the standard textbooks, with its viva points.</description>
-      <enclosure url="https://pub-ef148064c92046b79cd6387190ed03d9.r2.dev/chemical-analysis-graphs-g07-blockade-by-phenoxybenzamine-and-its-reversal-by-propranolol.mp3" length="8705324" type="audio/mpeg"/>
+      <enclosure url="https://pub-ef148064c92046b79cd6387190ed03d9.r2.dev/chemical-analysis-graphs-g07-blockade-by-phenoxybenzamine-and-its-reversal-by-propranolol.mp3" length="8740460" type="audio/mpeg"/>
     </item>
     <item>
       <title>Chemical Analysis and Graphs · 11 · β-blockade by propranolol</title>
@@ -976,10 +976,10 @@
       <pubDate>Sat, 20 Jun 2026 06:00:00 GMT</pubDate>
       <itunes:season>4</itunes:season>
       <itunes:episode>12</itunes:episode>
-      <itunes:duration>0:15:42</itunes:duration>
+      <itunes:duration>0:15:44</itunes:duration>
       <itunes:subtitle>Practicals · Chemical analysis and graphs · Graphs and charts: adrenergic drugs on the dog's blood pressure</itunes:subtitle>
       <description>β-blockade by propranolol. A narrated model answer from the chemical analysis and graphs book for the RGUHS MD Pharmacology practical examination (Graphs and charts: adrenergic drugs on the dog's blood pressure): the chemical tests from pharmacopoeial and published methods, and the chart tracings of the KMCRI set read receptor by receptor from the standard textbooks, with its viva points.</description>
-      <enclosure url="https://pub-ef148064c92046b79cd6387190ed03d9.r2.dev/chemical-analysis-graphs-g06-blockade-by-propranolol.mp3" length="7532972" type="audio/mpeg"/>
+      <enclosure url="https://pub-ef148064c92046b79cd6387190ed03d9.r2.dev/chemical-analysis-graphs-g06-blockade-by-propranolol.mp3" length="7553708" type="audio/mpeg"/>
     </item>
     <item>
       <title>Chemical Analysis and Graphs · 10 · α-blockade by Priscol (tolazoline): adrenaline reversal</title>
@@ -990,7 +990,7 @@
       <itunes:duration>0:16:32</itunes:duration>
       <itunes:subtitle>Practicals · Chemical analysis and graphs · Graphs and charts: adrenergic drugs on the dog's blood pressure</itunes:subtitle>
       <description>α-blockade by Priscol (tolazoline): adrenaline reversal. A narrated model answer from the chemical analysis and graphs book for the RGUHS MD Pharmacology practical examination (Graphs and charts: adrenergic drugs on the dog's blood pressure): the chemical tests from pharmacopoeial and published methods, and the chart tracings of the KMCRI set read receptor by receptor from the standard textbooks, with its viva points.</description>
-      <enclosure url="https://pub-ef148064c92046b79cd6387190ed03d9.r2.dev/chemical-analysis-graphs-g05-blockade-by-priscol-tolazoline-adrenaline-reversal.mp3" length="7934828" type="audio/mpeg"/>
+      <enclosure url="https://pub-ef148064c92046b79cd6387190ed03d9.r2.dev/chemical-analysis-graphs-g05-blockade-by-priscol-tolazoline-adrenaline-reversal.mp3" length="7938476" type="audio/mpeg"/>
     </item>
     <item>
       <title>Chemical Analysis and Graphs · 9 · Noradrenaline and adrenaline before and after tyramine</title>
@@ -998,10 +998,10 @@
       <pubDate>Thu, 18 Jun 2026 06:00:00 GMT</pubDate>
       <itunes:season>4</itunes:season>
       <itunes:episode>10</itunes:episode>
-      <itunes:duration>0:14:54</itunes:duration>
+      <itunes:duration>0:14:55</itunes:duration>
       <itunes:subtitle>Practicals · Chemical analysis and graphs · Graphs and charts: adrenergic drugs on the dog's blood pressure</itunes:subtitle>
       <description>Noradrenaline and adrenaline before and after tyramine. A narrated model answer from the chemical analysis and graphs book for the RGUHS MD Pharmacology practical examination (Graphs and charts: adrenergic drugs on the dog's blood pressure): the chemical tests from pharmacopoeial and published methods, and the chart tracings of the KMCRI set read receptor by receptor from the standard textbooks, with its viva points.</description>
-      <enclosure url="https://pub-ef148064c92046b79cd6387190ed03d9.r2.dev/chemical-analysis-graphs-g04-noradrenaline-and-adrenaline-before-and-after-tyramine.mp3" length="7151084" type="audio/mpeg"/>
+      <enclosure url="https://pub-ef148064c92046b79cd6387190ed03d9.r2.dev/chemical-analysis-graphs-g04-noradrenaline-and-adrenaline-before-and-after-tyramine.mp3" length="7156076" type="audio/mpeg"/>
     </item>
     <item>
       <title>Chemical Analysis and Graphs · 8 · Adrenaline and noradrenaline before and after guanethidine</title>
@@ -1009,10 +1009,10 @@
       <pubDate>Wed, 17 Jun 2026 06:00:00 GMT</pubDate>
       <itunes:season>4</itunes:season>
       <itunes:episode>9</itunes:episode>
-      <itunes:duration>0:14:04</itunes:duration>
+      <itunes:duration>0:14:05</itunes:duration>
       <itunes:subtitle>Practicals · Chemical analysis and graphs · Graphs and charts: adrenergic drugs on the dog's blood pressure</itunes:subtitle>
       <description>Adrenaline and noradrenaline before and after guanethidine. A narrated model answer from the chemical analysis and graphs book for the RGUHS MD Pharmacology practical examination (Graphs and charts: adrenergic drugs on the dog's blood pressure): the chemical tests from pharmacopoeial and published methods, and the chart tracings of the KMCRI set read receptor by receptor from the standard textbooks, with its viva points.</description>
-      <enclosure url="https://pub-ef148064c92046b79cd6387190ed03d9.r2.dev/chemical-analysis-graphs-g03-adrenaline-and-noradrenaline-before-and-after-guanethidine.mp3" length="6752300" type="audio/mpeg"/>
+      <enclosure url="https://pub-ef148064c92046b79cd6387190ed03d9.r2.dev/chemical-analysis-graphs-g03-adrenaline-and-noradrenaline-before-and-after-guanethidine.mp3" length="6757292" type="audio/mpeg"/>
     </item>
     <item>
       <title>Chemical Analysis and Graphs · 7 · Adrenaline and noradrenaline before and after cocaine</title>
@@ -1020,10 +1020,10 @@
       <pubDate>Tue, 16 Jun 2026 06:00:00 GMT</pubDate>
       <itunes:season>4</itunes:season>
       <itunes:episode>8</itunes:episode>
-      <itunes:duration>0:13:36</itunes:duration>
+      <itunes:duration>0:13:37</itunes:duration>
       <itunes:subtitle>Practicals · Chemical analysis and graphs · Graphs and charts: adrenergic drugs on the dog's blood pressure</itunes:subtitle>
       <description>Adrenaline and noradrenaline before and after cocaine. A narrated model answer from the chemical analysis and graphs book for the RGUHS MD Pharmacology practical examination (Graphs and charts: adrenergic drugs on the dog's blood pressure): the chemical tests from pharmacopoeial and published methods, and the chart tracings of the KMCRI set read receptor by receptor from the standard textbooks, with its viva points.</description>
-      <enclosure url="https://pub-ef148064c92046b79cd6387190ed03d9.r2.dev/chemical-analysis-graphs-g02-adrenaline-and-noradrenaline-before-and-after-cocaine.mp3" length="6528236" type="audio/mpeg"/>
+      <enclosure url="https://pub-ef148064c92046b79cd6387190ed03d9.r2.dev/chemical-analysis-graphs-g02-adrenaline-and-noradrenaline-before-and-after-cocaine.mp3" length="6538412" type="audio/mpeg"/>
     </item>
     <item>
       <title>Chemical Analysis and Graphs · 6 · Adrenaline, noradrenaline and isoprenaline on the dog's spleen volume, blood pressure and respiration</title>
@@ -1031,10 +1031,10 @@
       <pubDate>Mon, 15 Jun 2026 06:00:00 GMT</pubDate>
       <itunes:season>4</itunes:season>
       <itunes:episode>7</itunes:episode>
-      <itunes:duration>0:14:39</itunes:duration>
+      <itunes:duration>0:14:40</itunes:duration>
       <itunes:subtitle>Practicals · Chemical analysis and graphs · Graphs and charts: adrenergic drugs on the dog's blood pressure</itunes:subtitle>
       <description>Adrenaline, noradrenaline and isoprenaline on the dog's spleen volume, blood pressure and respiration. A narrated model answer from the chemical analysis and graphs book for the RGUHS MD Pharmacology practical examination (Graphs and charts: adrenergic drugs on the dog's blood pressure): the chemical tests from pharmacopoeial and published methods, and the chart tracings of the KMCRI set read receptor by receptor from the standard textbooks, with its viva points.</description>
-      <enclosure url="https://pub-ef148064c92046b79cd6387190ed03d9.r2.dev/chemical-analysis-graphs-g01-adrenaline-noradrenaline-and-isoprenaline-on-the-dog-s-splee.mp3" length="7032812" type="audio/mpeg"/>
+      <enclosure url="https://pub-ef148064c92046b79cd6387190ed03d9.r2.dev/chemical-analysis-graphs-g01-adrenaline-noradrenaline-and-isoprenaline-on-the-dog-s-splee.mp3" length="7043180" type="audio/mpeg"/>
     </item>
     <item>
       <title>Chemical Analysis and Graphs · 5 · How to answer an unknown tracing</title>
@@ -1042,10 +1042,10 @@
       <pubDate>Sun, 14 Jun 2026 06:00:00 GMT</pubDate>
       <itunes:season>4</itunes:season>
       <itunes:episode>6</itunes:episode>
-      <itunes:duration>0:17:11</itunes:duration>
+      <itunes:duration>0:17:12</itunes:duration>
       <itunes:subtitle>Practicals · Chemical analysis and graphs · Graphs and charts: adrenergic drugs on the dog's blood pressure</itunes:subtitle>
       <description>How to answer an unknown tracing. A narrated model answer from the chemical analysis and graphs book for the RGUHS MD Pharmacology practical examination (Graphs and charts: adrenergic drugs on the dog's blood pressure): the chemical tests from pharmacopoeial and published methods, and the chart tracings of the KMCRI set read receptor by receptor from the standard textbooks, with its viva points.</description>
-      <enclosure url="https://pub-ef148064c92046b79cd6387190ed03d9.r2.dev/chemical-analysis-graphs-g00-how-to-answer-an-unknown-tracing.mp3" length="8245868" type="audio/mpeg"/>
+      <enclosure url="https://pub-ef148064c92046b79cd6387190ed03d9.r2.dev/chemical-analysis-graphs-g00-how-to-answer-an-unknown-tracing.mp3" length="8253164" type="audio/mpeg"/>
     </item>
     <item>
       <title>Chemical Analysis and Graphs · 4 · An unknown sample: the order of tests, and the bench demonstration</title>
@@ -1053,10 +1053,10 @@
       <pubDate>Sat, 13 Jun 2026 06:00:00 GMT</pubDate>
       <itunes:season>4</itunes:season>
       <itunes:episode>5</itunes:episode>
-      <itunes:duration>0:22:02</itunes:duration>
+      <itunes:duration>0:27:53</itunes:duration>
       <itunes:subtitle>Practicals · Chemical analysis and graphs · Chemical analysis: identifying the class of a compound</itunes:subtitle>
       <description>An unknown sample: the order of tests, and the bench demonstration. A narrated model answer from the chemical analysis and graphs book for the RGUHS MD Pharmacology practical examination (Chemical analysis: identifying the class of a compound): the chemical tests from pharmacopoeial and published methods, and the chart tracings of the KMCRI set read receptor by receptor from the standard textbooks, with its viva points.</description>
-      <enclosure url="https://pub-ef148064c92046b79cd6387190ed03d9.r2.dev/chemical-analysis-graphs-a04-an-unknown-sample-the-order-of-tests-and-the-bench-demonstra.mp3" length="10577516" type="audio/mpeg"/>
+      <enclosure url="https://pub-ef148064c92046b79cd6387190ed03d9.r2.dev/chemical-analysis-graphs-a04-an-unknown-sample-the-order-of-tests-and-the-bench-demonstra.mp3" length="13385324" type="audio/mpeg"/>
     </item>
     <item>
       <title>Chemical Analysis and Graphs · 3 · Tests for glycosides</title>
@@ -1064,10 +1064,10 @@
       <pubDate>Fri, 12 Jun 2026 06:00:00 GMT</pubDate>
       <itunes:season>4</itunes:season>
       <itunes:episode>4</itunes:episode>
-      <itunes:duration>0:28:52</itunes:duration>
+      <itunes:duration>0:34:26</itunes:duration>
       <itunes:subtitle>Practicals · Chemical analysis and graphs · Chemical analysis: identifying the class of a compound</itunes:subtitle>
       <description>Tests for glycosides. A narrated model answer from the chemical analysis and graphs book for the RGUHS MD Pharmacology practical examination (Chemical analysis: identifying the class of a compound): the chemical tests from pharmacopoeial and published methods, and the chart tracings of the KMCRI set read receptor by receptor from the standard textbooks, with its viva points.</description>
-      <enclosure url="https://pub-ef148064c92046b79cd6387190ed03d9.r2.dev/chemical-analysis-graphs-a03-tests-for-glycosides.mp3" length="13853996" type="audio/mpeg"/>
+      <enclosure url="https://pub-ef148064c92046b79cd6387190ed03d9.r2.dev/chemical-analysis-graphs-a03-tests-for-glycosides.mp3" length="16527020" type="audio/mpeg"/>
     </item>
     <item>
       <title>Chemical Analysis and Graphs · 2 · Tests for sterols</title>
@@ -1075,10 +1075,10 @@
       <pubDate>Thu, 11 Jun 2026 06:00:00 GMT</pubDate>
       <itunes:season>4</itunes:season>
       <itunes:episode>3</itunes:episode>
-      <itunes:duration>0:21:34</itunes:duration>
+      <itunes:duration>0:25:16</itunes:duration>
       <itunes:subtitle>Practicals · Chemical analysis and graphs · Chemical analysis: identifying the class of a compound</itunes:subtitle>
       <description>Tests for sterols. A narrated model answer from the chemical analysis and graphs book for the RGUHS MD Pharmacology practical examination (Chemical analysis: identifying the class of a compound): the chemical tests from pharmacopoeial and published methods, and the chart tracings of the KMCRI set read receptor by receptor from the standard textbooks, with its viva points.</description>
-      <enclosure url="https://pub-ef148064c92046b79cd6387190ed03d9.r2.dev/chemical-analysis-graphs-a02-tests-for-sterols.mp3" length="10350380" type="audio/mpeg"/>
+      <enclosure url="https://pub-ef148064c92046b79cd6387190ed03d9.r2.dev/chemical-analysis-graphs-a02-tests-for-sterols.mp3" length="12129452" type="audio/mpeg"/>
     </item>
     <item>
       <title>Chemical Analysis and Graphs · 1 · Tests for alkaloids</title>
@@ -1086,10 +1086,10 @@
       <pubDate>Wed, 10 Jun 2026 06:00:00 GMT</pubDate>
       <itunes:season>4</itunes:season>
       <itunes:episode>2</itunes:episode>
-      <itunes:duration>0:20:51</itunes:duration>
+      <itunes:duration>0:28:21</itunes:duration>
       <itunes:subtitle>Practicals · Chemical analysis and graphs · Chemical analysis: identifying the class of a compound</itunes:subtitle>
       <description>Tests for alkaloids. A narrated model answer from the chemical analysis and graphs book for the RGUHS MD Pharmacology practical examination (Chemical analysis: identifying the class of a compound): the chemical tests from pharmacopoeial and published methods, and the chart tracings of the KMCRI set read receptor by receptor from the standard textbooks, with its viva points.</description>
-      <enclosure url="https://pub-ef148064c92046b79cd6387190ed03d9.r2.dev/chemical-analysis-graphs-a01-tests-for-alkaloids.mp3" length="10006700" type="audio/mpeg"/>
+      <enclosure url="https://pub-ef148064c92046b79cd6387190ed03d9.r2.dev/chemical-analysis-graphs-a01-tests-for-alkaloids.mp3" length="13610924" type="audio/mpeg"/>
     </item>
     <item>
       <title>Chemical Analysis and Graphs · Start here · How the chemical-analysis and graphs stations run, and how to write each answer</title>
@@ -1100,7 +1100,7 @@
       <itunes:duration>0:08:24</itunes:duration>
       <itunes:subtitle>Practicals · Chemical analysis and graphs · Start here</itunes:subtitle>
       <description>How the chemical-analysis and graphs stations run, and how to write each answer. A narrated model answer from the chemical analysis and graphs book for the RGUHS MD Pharmacology practical examination (Start here): the chemical tests from pharmacopoeial and published methods, and the chart tracings of the KMCRI set read receptor by receptor from the standard textbooks, with its viva points.</description>
-      <enclosure url="https://pub-ef148064c92046b79cd6387190ed03d9.r2.dev/chemical-analysis-graphs-c00-how-the-chemical-analysis-and-graphs-stations-run-and-how-to.mp3" length="4028780" type="audio/mpeg"/>
+      <enclosure url="https://pub-ef148064c92046b79cd6387190ed03d9.r2.dev/chemical-analysis-graphs-c00-how-the-chemical-analysis-and-graphs-stations-run-and-how-to.mp3" length="4028588" type="audio/mpeg"/>
     </item>
     <item>
       <title>Protocol Writing · Q8 · Phase 3 registration studies: new antidiabetic</title>
@@ -1108,10 +1108,10 @@
       <pubDate>Mon, 08 Jun 2026 06:00:00 GMT</pubDate>
       <itunes:season>1</itunes:season>
       <itunes:episode>8</itunes:episode>
-      <itunes:duration>0:31:23</itunes:duration>
+      <itunes:duration>0:31:24</itunes:duration>
       <itunes:subtitle>Practicals · Clinical Pharmacology · Protocol writing</itunes:subtitle>
       <description>Phase 3 studies for registration of a new antidiabetic drug. A narrated model answer for the RGUHS MD Pharmacology practical examination: aim, design, population, sample size worked through, visit schedule, endpoints, analysis, ethics and Indian regulatory requirements, then viva points.</description>
-      <enclosure url="https://pub-ef148064c92046b79cd6387190ed03d9.r2.dev/protocol-writing-q08-registration-antidiabetic.mp3" length="15068012" type="audio/mpeg"/>
+      <enclosure url="https://pub-ef148064c92046b79cd6387190ed03d9.r2.dev/protocol-writing-q08-registration-antidiabetic.mp3" length="15068972" type="audio/mpeg"/>
     </item>
     <item>
       <title>Protocol Writing · Q7 · Phase 3 registration studies: new drug for rheumatoid arthritis</title>
@@ -1122,29 +1122,29 @@
       <itunes:duration>0:31:26</itunes:duration>
       <itunes:subtitle>Practicals · Clinical Pharmacology · Protocol writing</itunes:subtitle>
       <description>Phase 3 studies for registration of a new drug for rheumatoid arthritis. A narrated model answer for the RGUHS MD Pharmacology practical examination: aim, design, population, sample size worked through, visit schedule, endpoints, analysis, ethics and Indian regulatory requirements, then viva points.</description>
-      <enclosure url="https://pub-ef148064c92046b79cd6387190ed03d9.r2.dev/protocol-writing-q07-registration-rheumatoid-arthritis.mp3" length="15085100" type="audio/mpeg"/>
+      <enclosure url="https://pub-ef148064c92046b79cd6387190ed03d9.r2.dev/protocol-writing-q07-registration-rheumatoid-arthritis.mp3" length="15092012" type="audio/mpeg"/>
     </item>
     <item>
-      <title>Protocol Writing · Q6 · Phase 3 registration studies: new antiepileptic</title>
+      <title>Protocol Writing · Q6 · Phase 1 first-in-human study: new antiepileptic in healthy volunteers</title>
       <guid isPermaLink="false">practicals-protocol-writing-q06-registration-antiepileptic</guid>
       <pubDate>Sat, 06 Jun 2026 06:00:00 GMT</pubDate>
       <itunes:season>1</itunes:season>
       <itunes:episode>6</itunes:episode>
-      <itunes:duration>0:30:10</itunes:duration>
+      <itunes:duration>0:33:48</itunes:duration>
       <itunes:subtitle>Practicals · Clinical Pharmacology · Protocol writing</itunes:subtitle>
-      <description>Phase 3 studies for registration of a new antiepileptic drug. A narrated model answer for the RGUHS MD Pharmacology practical examination: aim, design, population, sample size worked through, visit schedule, endpoints, analysis, ethics and Indian regulatory requirements, then viva points.</description>
-      <enclosure url="https://pub-ef148064c92046b79cd6387190ed03d9.r2.dev/protocol-writing-q06-registration-antiepileptic.mp3" length="14477612" type="audio/mpeg"/>
+      <description>Phase 1 clinical study protocol for the initial evaluation of a new antiepileptic drug in healthy human volunteers. A narrated model answer for the RGUHS MD Pharmacology practical examination: aim, design, population, sample size worked through, visit schedule, endpoints, analysis, ethics and Indian regulatory requirements, then viva points.</description>
+      <enclosure url="https://pub-ef148064c92046b79cd6387190ed03d9.r2.dev/protocol-writing-q06-registration-antiepileptic.mp3" length="16223660" type="audio/mpeg"/>
     </item>
     <item>
-      <title>Protocol Writing · Q5 · Phase 3 studies: new antihypertensive</title>
+      <title>Protocol Writing · Q5 · Phase 2 studies: new antihypertensive</title>
       <guid isPermaLink="false">practicals-protocol-writing-q05-phase3-antihypertensive</guid>
       <pubDate>Fri, 05 Jun 2026 06:00:00 GMT</pubDate>
       <itunes:season>1</itunes:season>
       <itunes:episode>5</itunes:episode>
-      <itunes:duration>0:30:02</itunes:duration>
+      <itunes:duration>0:31:19</itunes:duration>
       <itunes:subtitle>Practicals · Clinical Pharmacology · Protocol writing</itunes:subtitle>
-      <description>Phase 3 studies to evaluate the effectiveness and safety of a new antihypertensive drug. A narrated model answer for the RGUHS MD Pharmacology practical examination: aim, design, population, sample size worked through, visit schedule, endpoints, analysis, ethics and Indian regulatory requirements, then viva points.</description>
-      <enclosure url="https://pub-ef148064c92046b79cd6387190ed03d9.r2.dev/protocol-writing-q05-phase3-antihypertensive.mp3" length="14416748" type="audio/mpeg"/>
+      <description>Phase 2 studies to evaluate the effectiveness and safety of a new antihypertensive drug. A narrated model answer for the RGUHS MD Pharmacology practical examination: aim, design, population, sample size worked through, visit schedule, endpoints, analysis, ethics and Indian regulatory requirements, then viva points.</description>
+      <enclosure url="https://pub-ef148064c92046b79cd6387190ed03d9.r2.dev/protocol-writing-q05-phase3-antihypertensive.mp3" length="15030572" type="audio/mpeg"/>
     </item>
     <item>
       <title>Protocol Writing · Q4 · Phase 3 add-on trial: new antiepileptic in refractory partial epilepsy</title>
@@ -1177,7 +1177,7 @@
       <itunes:duration>0:26:21</itunes:duration>
       <itunes:subtitle>Practicals · Clinical Pharmacology · Protocol writing</itunes:subtitle>
       <description>Design a phase 3 protocol for evaluating new antimigraine drug X in patients with acute migraine attack. A narrated model answer for the RGUHS MD Pharmacology practical examination: aim, design, population, sample size worked through, visit schedule, endpoints, analysis, ethics and Indian regulatory requirements, then viva points.</description>
-      <enclosure url="https://pub-ef148064c92046b79cd6387190ed03d9.r2.dev/protocol-writing-q02-phase3-acute-migraine.mp3" length="12645356" type="audio/mpeg"/>
+      <enclosure url="https://pub-ef148064c92046b79cd6387190ed03d9.r2.dev/protocol-writing-q02-phase3-acute-migraine.mp3" length="12647276" type="audio/mpeg"/>
     </item>
     <item>
       <title>Protocol Writing · Q1 · Phase 2 protocol: new antianxiety drug</title>
@@ -1188,7 +1188,7 @@
       <itunes:duration>0:27:30</itunes:duration>
       <itunes:subtitle>Practicals · Clinical Pharmacology · Protocol writing</itunes:subtitle>
       <description>Design a phase 2 protocol for evaluating safety and efficacy of new antianxiety drug X in patients with anxiety disorders. A narrated model answer for the RGUHS MD Pharmacology practical examination: aim, design, population, sample size worked through, visit schedule, endpoints, analysis, ethics and Indian regulatory requirements, then viva points.</description>
-      <enclosure url="https://pub-ef148064c92046b79cd6387190ed03d9.r2.dev/protocol-writing-q01-phase2-anxiolytic.mp3" length="13200236" type="audio/mpeg"/>
+      <enclosure url="https://pub-ef148064c92046b79cd6387190ed03d9.r2.dev/protocol-writing-q01-phase2-anxiolytic.mp3" length="13200620" type="audio/mpeg"/>
     </item>
     <item>
       <title>PK Problems · PG 9 · Digoxin toxicity: how many more days to withhold the drug</title>
@@ -1196,10 +1196,10 @@
       <pubDate>Sun, 24 May 2026 06:00:00 GMT</pubDate>
       <itunes:season>5</itunes:season>
       <itunes:episode>24</itunes:episode>
-      <itunes:duration>0:07:36</itunes:duration>
+      <itunes:duration>0:07:37</itunes:duration>
       <itunes:subtitle>Practicals · Clinical pharmacology · Pharmacokinetic problems</itunes:subtitle>
       <description>Digoxin toxicity: how many more days to withhold the drug. A narrated worked answer to a PG-level pharmacokinetics problem taken word for word from Atkinson's Principles of Clinical Pharmacology 4e, Chapter 2, Study Problem 6, pp 25–26, for the RGUHS MD Pharmacology practical examination: the given values, the formula and every step of the calculation, then the answer.</description>
-      <enclosure url="https://pub-ef148064c92046b79cd6387190ed03d9.r2.dev/pk-problems-g09-digoxin-toxicity-how-many-more-days-to-withhold-the-drug.mp3" length="3647468" type="audio/mpeg"/>
+      <enclosure url="https://pub-ef148064c92046b79cd6387190ed03d9.r2.dev/pk-problems-g09-digoxin-toxicity-how-many-more-days-to-withhold-the-drug.mp3" length="3656300" type="audio/mpeg"/>
     </item>
     <item>
       <title>PK Problems · PG 8 · Gentamicin in an obese patient with third-space fluid</title>
@@ -1210,7 +1210,7 @@
       <itunes:duration>0:13:32</itunes:duration>
       <itunes:subtitle>Practicals · Clinical pharmacology · Pharmacokinetic problems</itunes:subtitle>
       <description>Gentamicin in an obese patient with third-space fluid. A narrated worked answer to a PG-level pharmacokinetics problem taken word for word from Winter 6e, Chapter 6, Question 9, p 188, for the RGUHS MD Pharmacology practical examination: the given values, the formula and every step of the calculation, then the answer.</description>
-      <enclosure url="https://pub-ef148064c92046b79cd6387190ed03d9.r2.dev/pk-problems-g08-gentamicin-in-an-obese-patient-with-third-space-fluid.mp3" length="6493676" type="audio/mpeg"/>
+      <enclosure url="https://pub-ef148064c92046b79cd6387190ed03d9.r2.dev/pk-problems-g08-gentamicin-in-an-obese-patient-with-third-space-fluid.mp3" length="6499820" type="audio/mpeg"/>
     </item>
     <item>
       <title>PK Problems · PG 7 · Vancomycin in haemodialysis: the dose, and a replacement dose after high-flux dialysis</title>
@@ -1218,10 +1218,10 @@
       <pubDate>Fri, 22 May 2026 06:00:00 GMT</pubDate>
       <itunes:season>5</itunes:season>
       <itunes:episode>22</itunes:episode>
-      <itunes:duration>0:13:02</itunes:duration>
+      <itunes:duration>0:13:03</itunes:duration>
       <itunes:subtitle>Practicals · Clinical pharmacology · Pharmacokinetic problems</itunes:subtitle>
       <description>Vancomycin in haemodialysis: the dose, and a replacement dose after high-flux dialysis. A narrated worked answer to a PG-level pharmacokinetics problem taken word for word from Winter, Basic Clinical Pharmacokinetics 6e, Chapter 16, Questions 4 and 5, pp 484–486, for the RGUHS MD Pharmacology practical examination: the given values, the formula and every step of the calculation, then the answer.</description>
-      <enclosure url="https://pub-ef148064c92046b79cd6387190ed03d9.r2.dev/pk-problems-g07-vancomycin-in-haemodialysis-the-dose-and-a-replacement-dose-.mp3" length="6256556" type="audio/mpeg"/>
+      <enclosure url="https://pub-ef148064c92046b79cd6387190ed03d9.r2.dev/pk-problems-g07-vancomycin-in-haemodialysis-the-dose-and-a-replacement-dose-.mp3" length="6263084" type="audio/mpeg"/>
     </item>
     <item>
       <title>PK Problems · PG 6 · Aminophylline loading dose, maintenance infusion and time to steady state</title>
@@ -1229,10 +1229,10 @@
       <pubDate>Thu, 21 May 2026 06:00:00 GMT</pubDate>
       <itunes:season>5</itunes:season>
       <itunes:episode>21</itunes:episode>
-      <itunes:duration>0:09:43</itunes:duration>
+      <itunes:duration>0:09:46</itunes:duration>
       <itunes:subtitle>Practicals · Clinical pharmacology · Pharmacokinetic problems</itunes:subtitle>
       <description>Aminophylline loading dose, maintenance infusion and time to steady state. A narrated worked answer to a PG-level pharmacokinetics problem taken word for word from Southwood et al. 7e, Lesson 14, Case 1, Problems 1A to 1C, pp 222–224, for the RGUHS MD Pharmacology practical examination: the given values, the formula and every step of the calculation, then the answer.</description>
-      <enclosure url="https://pub-ef148064c92046b79cd6387190ed03d9.r2.dev/pk-problems-g06-aminophylline-loading-dose-maintenance-infusion-and-time-to-.mp3" length="4661804" type="audio/mpeg"/>
+      <enclosure url="https://pub-ef148064c92046b79cd6387190ed03d9.r2.dev/pk-problems-g06-aminophylline-loading-dose-maintenance-infusion-and-time-to-.mp3" length="4685996" type="audio/mpeg"/>
     </item>
     <item>
       <title>PK Problems · PG 5 · Gentamicin: the patient's own half-life and volume from a measured peak and trough, and a new dose</title>
@@ -1243,7 +1243,7 @@
       <itunes:duration>0:12:43</itunes:duration>
       <itunes:subtitle>Practicals · Clinical pharmacology · Pharmacokinetic problems</itunes:subtitle>
       <description>Gentamicin: the patient's own half-life and volume from a measured peak and trough, and a new dose. A narrated worked answer to a PG-level pharmacokinetics problem taken word for word from Southwood et al. 7e, Practice Set 2, PS2-7 to PS2-10, p 94, for the RGUHS MD Pharmacology practical examination: the given values, the formula and every step of the calculation, then the answer.</description>
-      <enclosure url="https://pub-ef148064c92046b79cd6387190ed03d9.r2.dev/pk-problems-g05-gentamicin-the-patient-s-own-half-life-and-volume-from-a-mea.mp3" length="6100460" type="audio/mpeg"/>
+      <enclosure url="https://pub-ef148064c92046b79cd6387190ed03d9.r2.dev/pk-problems-g05-gentamicin-the-patient-s-own-half-life-and-volume-from-a-mea.mp3" length="6103532" type="audio/mpeg"/>
     </item>
     <item>
       <title>PK Problems · PG 4 · Accumulation on repeated IV doses: the trough after the tenth dose, and the steady-state peak and trough</title>
@@ -1254,7 +1254,7 @@
       <itunes:duration>0:07:42</itunes:duration>
       <itunes:subtitle>Practicals · Clinical pharmacology · Pharmacokinetic problems</itunes:subtitle>
       <description>Accumulation on repeated IV doses: the trough after the tenth dose, and the steady-state peak and trough. A narrated worked answer to a PG-level pharmacokinetics problem taken word for word from Southwood et al. 7e, Appendix B, Supplemental Problems SP5 and SP8, p 262, for the RGUHS MD Pharmacology practical examination: the given values, the formula and every step of the calculation, then the answer.</description>
-      <enclosure url="https://pub-ef148064c92046b79cd6387190ed03d9.r2.dev/pk-problems-g04-accumulation-on-repeated-iv-doses-the-trough-after-the-tenth.mp3" length="3696044" type="audio/mpeg"/>
+      <enclosure url="https://pub-ef148064c92046b79cd6387190ed03d9.r2.dev/pk-problems-g04-accumulation-on-repeated-iv-doses-the-trough-after-the-tenth.mp3" length="3699308" type="audio/mpeg"/>
     </item>
     <item>
       <title>PK Problems · PG 3 · Phenytoin: Km and Vmax from two steady-state levels, time to 90% of steady state, and the level on a higher dose</title>
@@ -1273,10 +1273,10 @@
       <pubDate>Sun, 17 May 2026 06:00:00 GMT</pubDate>
       <itunes:season>5</itunes:season>
       <itunes:episode>17</itunes:episode>
-      <itunes:duration>0:23:01</itunes:duration>
+      <itunes:duration>0:23:02</itunes:duration>
       <itunes:subtitle>Practicals · Clinical pharmacology · Pharmacokinetic problems</itunes:subtitle>
       <description>Relative bioavailability from concentration–time data, and reading bioequivalence confidence intervals. A narrated worked answer to a PG-level pharmacokinetics problem taken word for word from Southwood et al. 7e, Practice Set 3, PS3-1 to PS3-4, p 171; Rowland &amp; Tozer, Clinical Pharmacokinetics and Pharmacodynamics (2019), Chapter 6, Study Problem 10, for the RGUHS MD Pharmacology practical examination: the given values, the formula and every step of the calculation, then the answer.</description>
-      <enclosure url="https://pub-ef148064c92046b79cd6387190ed03d9.r2.dev/pk-problems-g02-relative-bioavailability-from-concentration-time-data-and-re.mp3" length="11051564" type="audio/mpeg"/>
+      <enclosure url="https://pub-ef148064c92046b79cd6387190ed03d9.r2.dev/pk-problems-g02-relative-bioavailability-from-concentration-time-data-and-re.mp3" length="11052716" type="audio/mpeg"/>
     </item>
     <item>
       <title>PK Problems · PG 1 · PK parameters from plasma concentration–time data after an IV bolus</title>
@@ -1430,7 +1430,7 @@
       <itunes:duration>0:04:30</itunes:duration>
       <itunes:subtitle>Practicals · Clinical pharmacology · Pharmacokinetic problems</itunes:subtitle>
       <description>Dopamine infusion rate in drops per minute. A narrated worked answer to the KMCRI postgraduate pharmacokinetics problem set for the RGUHS MD Pharmacology practical examination: the given values, the formula and every step of the calculation by hand, then the answer.</description>
-      <enclosure url="https://pub-ef148064c92046b79cd6387190ed03d9.r2.dev/pk-problems-k02-dopamine-infusion-rate-in-drops-per-minute.mp3" length="2156588" type="audio/mpeg"/>
+      <enclosure url="https://pub-ef148064c92046b79cd6387190ed03d9.r2.dev/pk-problems-k02-dopamine-infusion-rate-in-drops-per-minute.mp3" length="2157932" type="audio/mpeg"/>
     </item>
     <item>
       <title>PK Problems · Problem 1 · Volume of thiopentone solution for a 50 kg patient</title>
@@ -1449,10 +1449,10 @@
       <pubDate>Fri, 01 May 2026 06:00:00 GMT</pubDate>
       <itunes:season>5</itunes:season>
       <itunes:episode>1</itunes:episode>
-      <itunes:duration>0:11:07</itunes:duration>
+      <itunes:duration>0:11:09</itunes:duration>
       <itunes:subtitle>Practicals · Clinical pharmacology · Pharmacokinetic problems</itunes:subtitle>
       <description>The formula sheet, and how to lay out a PK answer in the hall. A narrated worked answer to the KMCRI postgraduate pharmacokinetics problem set for the RGUHS MD Pharmacology practical examination: the given values, the formula and every step of the calculation by hand, then the answer.</description>
-      <enclosure url="https://pub-ef148064c92046b79cd6387190ed03d9.r2.dev/pk-problems-p00-the-formula-sheet-and-how-to-lay-out-a-pk-answer-in-the-hall.mp3" length="5332460" type="audio/mpeg"/>
+      <enclosure url="https://pub-ef148064c92046b79cd6387190ed03d9.r2.dev/pk-problems-p00-the-formula-sheet-and-how-to-lay-out-a-pk-answer-in-the-hall.mp3" length="5355692" type="audio/mpeg"/>
     </item>
     <item>
       <title>Clinical Cases · Case 11 · Type 2 diabetes with chronic kidney disease stage 4</title>
@@ -1460,10 +1460,10 @@
       <pubDate>Mon, 27 Apr 2026 06:00:00 GMT</pubDate>
       <itunes:season>6</itunes:season>
       <itunes:episode>12</itunes:episode>
-      <itunes:duration>0:39:16</itunes:duration>
+      <itunes:duration>0:39:17</itunes:duration>
       <itunes:subtitle>Practicals · Clinical pharmacology · Clinical cases</itunes:subtitle>
       <description>Type 2 diabetes with chronic kidney disease stage 4. A narrated model answer to a KMCRI clinical case for the RGUHS MD Pharmacology practical examination: the diagnosis, the drug treatment with doses and what to monitor, the reasons for each choice from the standard textbooks and current guidelines, and the questions the examiner is likely to ask.</description>
-      <enclosure url="https://pub-ef148064c92046b79cd6387190ed03d9.r2.dev/clinical-cases-c11-type-2-diabetes-with-chronic-kidney-disease-stage-4.mp3" length="18845804" type="audio/mpeg"/>
+      <enclosure url="https://pub-ef148064c92046b79cd6387190ed03d9.r2.dev/clinical-cases-c11-type-2-diabetes-with-chronic-kidney-disease-stage-4.mp3" length="18854636" type="audio/mpeg"/>
     </item>
     <item>
       <title>Clinical Cases · Case 10 · Graves' disease on carbimazole, hypothyroid after a year</title>
@@ -1471,10 +1471,10 @@
       <pubDate>Sun, 26 Apr 2026 06:00:00 GMT</pubDate>
       <itunes:season>6</itunes:season>
       <itunes:episode>11</itunes:episode>
-      <itunes:duration>0:31:43</itunes:duration>
+      <itunes:duration>0:31:49</itunes:duration>
       <itunes:subtitle>Practicals · Clinical pharmacology · Clinical cases</itunes:subtitle>
       <description>Graves' disease on carbimazole, hypothyroid after a year. A narrated model answer to a KMCRI clinical case for the RGUHS MD Pharmacology practical examination: the diagnosis, the drug treatment with doses and what to monitor, the reasons for each choice from the standard textbooks and current guidelines, and the questions the examiner is likely to ask.</description>
-      <enclosure url="https://pub-ef148064c92046b79cd6387190ed03d9.r2.dev/clinical-cases-c10-graves-disease-on-carbimazole-hypothyroid-after-a-year.mp3" length="15226604" type="audio/mpeg"/>
+      <enclosure url="https://pub-ef148064c92046b79cd6387190ed03d9.r2.dev/clinical-cases-c10-graves-disease-on-carbimazole-hypothyroid-after-a-year.mp3" length="15272108" type="audio/mpeg"/>
     </item>
     <item>
       <title>Clinical Cases · Case 9 · Tuberculosis relapse after treatment default</title>
@@ -1482,10 +1482,10 @@
       <pubDate>Sat, 25 Apr 2026 06:00:00 GMT</pubDate>
       <itunes:season>6</itunes:season>
       <itunes:episode>10</itunes:episode>
-      <itunes:duration>0:40:02</itunes:duration>
+      <itunes:duration>0:40:06</itunes:duration>
       <itunes:subtitle>Practicals · Clinical pharmacology · Clinical cases</itunes:subtitle>
       <description>Tuberculosis relapse after treatment default. A narrated model answer to a KMCRI clinical case for the RGUHS MD Pharmacology practical examination: the diagnosis, the drug treatment with doses and what to monitor, the reasons for each choice from the standard textbooks and current guidelines, and the questions the examiner is likely to ask.</description>
-      <enclosure url="https://pub-ef148064c92046b79cd6387190ed03d9.r2.dev/clinical-cases-c09-tuberculosis-relapse-after-treatment-default.mp3" length="19218476" type="audio/mpeg"/>
+      <enclosure url="https://pub-ef148064c92046b79cd6387190ed03d9.r2.dev/clinical-cases-c09-tuberculosis-relapse-after-treatment-default.mp3" length="19249964" type="audio/mpeg"/>
     </item>
     <item>
       <title>Clinical Cases · Case 8 · Dry cough on enalapril</title>
@@ -1493,10 +1493,10 @@
       <pubDate>Fri, 24 Apr 2026 06:00:00 GMT</pubDate>
       <itunes:season>6</itunes:season>
       <itunes:episode>9</itunes:episode>
-      <itunes:duration>0:29:39</itunes:duration>
+      <itunes:duration>0:29:45</itunes:duration>
       <itunes:subtitle>Practicals · Clinical pharmacology · Clinical cases</itunes:subtitle>
       <description>Dry cough on enalapril. A narrated model answer to a KMCRI clinical case for the RGUHS MD Pharmacology practical examination: the diagnosis, the drug treatment with doses and what to monitor, the reasons for each choice from the standard textbooks and current guidelines, and the questions the examiner is likely to ask.</description>
-      <enclosure url="https://pub-ef148064c92046b79cd6387190ed03d9.r2.dev/clinical-cases-c08-dry-cough-on-enalapril.mp3" length="14234156" type="audio/mpeg"/>
+      <enclosure url="https://pub-ef148064c92046b79cd6387190ed03d9.r2.dev/clinical-cases-c08-dry-cough-on-enalapril.mp3" length="14277356" type="audio/mpeg"/>
     </item>
     <item>
       <title>Clinical Cases · Case 7 · Newly diagnosed type 2 diabetes</title>
@@ -1504,10 +1504,10 @@
       <pubDate>Thu, 23 Apr 2026 06:00:00 GMT</pubDate>
       <itunes:season>6</itunes:season>
       <itunes:episode>8</itunes:episode>
-      <itunes:duration>0:34:49</itunes:duration>
+      <itunes:duration>0:35:04</itunes:duration>
       <itunes:subtitle>Practicals · Clinical pharmacology · Clinical cases</itunes:subtitle>
       <description>Newly diagnosed type 2 diabetes. A narrated model answer to a KMCRI clinical case for the RGUHS MD Pharmacology practical examination: the diagnosis, the drug treatment with doses and what to monitor, the reasons for each choice from the standard textbooks and current guidelines, and the questions the examiner is likely to ask.</description>
-      <enclosure url="https://pub-ef148064c92046b79cd6387190ed03d9.r2.dev/clinical-cases-c07-newly-diagnosed-type-2-diabetes.mp3" length="16713836" type="audio/mpeg"/>
+      <enclosure url="https://pub-ef148064c92046b79cd6387190ed03d9.r2.dev/clinical-cases-c07-newly-diagnosed-type-2-diabetes.mp3" length="16830380" type="audio/mpeg"/>
     </item>
     <item>
       <title>Clinical Cases · Case 6 · Amoebic liver abscess</title>
@@ -1515,10 +1515,10 @@
       <pubDate>Wed, 22 Apr 2026 06:00:00 GMT</pubDate>
       <itunes:season>6</itunes:season>
       <itunes:episode>7</itunes:episode>
-      <itunes:duration>0:33:53</itunes:duration>
+      <itunes:duration>0:34:06</itunes:duration>
       <itunes:subtitle>Practicals · Clinical pharmacology · Clinical cases</itunes:subtitle>
       <description>Amoebic liver abscess. A narrated model answer to a KMCRI clinical case for the RGUHS MD Pharmacology practical examination: the diagnosis, the drug treatment with doses and what to monitor, the reasons for each choice from the standard textbooks and current guidelines, and the questions the examiner is likely to ask.</description>
-      <enclosure url="https://pub-ef148064c92046b79cd6387190ed03d9.r2.dev/clinical-cases-c06-amoebic-liver-abscess.mp3" length="16265900" type="audio/mpeg"/>
+      <enclosure url="https://pub-ef148064c92046b79cd6387190ed03d9.r2.dev/clinical-cases-c06-amoebic-liver-abscess.mp3" length="16365740" type="audio/mpeg"/>
     </item>
     <item>
       <title>Clinical Cases · Case 5 · First-episode schizophrenia</title>
@@ -1526,10 +1526,10 @@
       <pubDate>Tue, 21 Apr 2026 06:00:00 GMT</pubDate>
       <itunes:season>6</itunes:season>
       <itunes:episode>6</itunes:episode>
-      <itunes:duration>0:36:16</itunes:duration>
+      <itunes:duration>0:36:23</itunes:duration>
       <itunes:subtitle>Practicals · Clinical pharmacology · Clinical cases</itunes:subtitle>
       <description>First-episode schizophrenia. A narrated model answer to a KMCRI clinical case for the RGUHS MD Pharmacology practical examination: the diagnosis, the drug treatment with doses and what to monitor, the reasons for each choice from the standard textbooks and current guidelines, and the questions the examiner is likely to ask.</description>
-      <enclosure url="https://pub-ef148064c92046b79cd6387190ed03d9.r2.dev/clinical-cases-c05-first-episode-schizophrenia.mp3" length="17410796" type="audio/mpeg"/>
+      <enclosure url="https://pub-ef148064c92046b79cd6387190ed03d9.r2.dev/clinical-cases-c05-first-episode-schizophrenia.mp3" length="17463788" type="audio/mpeg"/>
     </item>
     <item>
       <title>Clinical Cases · Case 4 · Rheumatoid arthritis with active synovitis on NSAIDs</title>
@@ -1537,10 +1537,10 @@
       <pubDate>Mon, 20 Apr 2026 06:00:00 GMT</pubDate>
       <itunes:season>6</itunes:season>
       <itunes:episode>5</itunes:episode>
-      <itunes:duration>0:35:41</itunes:duration>
+      <itunes:duration>0:35:54</itunes:duration>
       <itunes:subtitle>Practicals · Clinical pharmacology · Clinical cases</itunes:subtitle>
       <description>Rheumatoid arthritis with active synovitis on NSAIDs. A narrated model answer to a KMCRI clinical case for the RGUHS MD Pharmacology practical examination: the diagnosis, the drug treatment with doses and what to monitor, the reasons for each choice from the standard textbooks and current guidelines, and the questions the examiner is likely to ask.</description>
-      <enclosure url="https://pub-ef148064c92046b79cd6387190ed03d9.r2.dev/clinical-cases-c04-rheumatoid-arthritis-with-active-synovitis-on-nsaids.mp3" length="17129132" type="audio/mpeg"/>
+      <enclosure url="https://pub-ef148064c92046b79cd6387190ed03d9.r2.dev/clinical-cases-c04-rheumatoid-arthritis-with-active-synovitis-on-nsaids.mp3" length="17233388" type="audio/mpeg"/>
     </item>
     <item>
       <title>Clinical Cases · Case 3 · Migraine treated with sumatriptan</title>
@@ -1548,10 +1548,10 @@
       <pubDate>Sun, 19 Apr 2026 06:00:00 GMT</pubDate>
       <itunes:season>6</itunes:season>
       <itunes:episode>4</itunes:episode>
-      <itunes:duration>0:34:58</itunes:duration>
+      <itunes:duration>0:35:01</itunes:duration>
       <itunes:subtitle>Practicals · Clinical pharmacology · Clinical cases</itunes:subtitle>
       <description>Migraine treated with sumatriptan. A narrated model answer to a KMCRI clinical case for the RGUHS MD Pharmacology practical examination: the diagnosis, the drug treatment with doses and what to monitor, the reasons for each choice from the standard textbooks and current guidelines, and the questions the examiner is likely to ask.</description>
-      <enclosure url="https://pub-ef148064c92046b79cd6387190ed03d9.r2.dev/clinical-cases-c03-migraine-treated-with-sumatriptan.mp3" length="16783340" type="audio/mpeg"/>
+      <enclosure url="https://pub-ef148064c92046b79cd6387190ed03d9.r2.dev/clinical-cases-c03-migraine-treated-with-sumatriptan.mp3" length="16806956" type="audio/mpeg"/>
     </item>
     <item>
       <title>Clinical Cases · Case 2 · Septic shock from a urinary tract infection, on dopamine</title>
@@ -1559,10 +1559,10 @@
       <pubDate>Sat, 18 Apr 2026 06:00:00 GMT</pubDate>
       <itunes:season>6</itunes:season>
       <itunes:episode>3</itunes:episode>
-      <itunes:duration>0:40:33</itunes:duration>
+      <itunes:duration>0:40:35</itunes:duration>
       <itunes:subtitle>Practicals · Clinical pharmacology · Clinical cases</itunes:subtitle>
       <description>Septic shock from a urinary tract infection, on dopamine. A narrated model answer to a KMCRI clinical case for the RGUHS MD Pharmacology practical examination: the diagnosis, the drug treatment with doses and what to monitor, the reasons for each choice from the standard textbooks and current guidelines, and the questions the examiner is likely to ask.</description>
-      <enclosure url="https://pub-ef148064c92046b79cd6387190ed03d9.r2.dev/clinical-cases-c02-septic-shock-from-a-urinary-tract-infection-on-dopamine.mp3" length="19460588" type="audio/mpeg"/>
+      <enclosure url="https://pub-ef148064c92046b79cd6387190ed03d9.r2.dev/clinical-cases-c02-septic-shock-from-a-urinary-tract-infection-on-dopamine.mp3" length="19484012" type="audio/mpeg"/>
     </item>
     <item>
       <title>Clinical Cases · Case 1 · Stable angina with hypertension and dyslipidaemia</title>
@@ -1570,10 +1570,10 @@
       <pubDate>Fri, 17 Apr 2026 06:00:00 GMT</pubDate>
       <itunes:season>6</itunes:season>
       <itunes:episode>2</itunes:episode>
-      <itunes:duration>0:34:14</itunes:duration>
+      <itunes:duration>0:34:19</itunes:duration>
       <itunes:subtitle>Practicals · Clinical pharmacology · Clinical cases</itunes:subtitle>
       <description>Stable angina with hypertension and dyslipidaemia. A narrated model answer to a KMCRI clinical case for the RGUHS MD Pharmacology practical examination: the diagnosis, the drug treatment with doses and what to monitor, the reasons for each choice from the standard textbooks and current guidelines, and the questions the examiner is likely to ask.</description>
-      <enclosure url="https://pub-ef148064c92046b79cd6387190ed03d9.r2.dev/clinical-cases-c01-stable-angina-with-hypertension-and-dyslipidaemia.mp3" length="16434668" type="audio/mpeg"/>
+      <enclosure url="https://pub-ef148064c92046b79cd6387190ed03d9.r2.dev/clinical-cases-c01-stable-angina-with-hypertension-and-dyslipidaemia.mp3" length="16475948" type="audio/mpeg"/>
     </item>
     <item>
       <title>Clinical Cases · Start here · How a clinical case answer is laid out</title>
@@ -1584,7 +1584,7 @@
       <itunes:duration>0:05:31</itunes:duration>
       <itunes:subtitle>Practicals · Clinical pharmacology · Clinical cases</itunes:subtitle>
       <description>How a clinical case answer is laid out. The start page of the clinical cases book for the RGUHS MD Pharmacology practical examination: the layout every case answer follows, and where its facts come from.</description>
-      <enclosure url="https://pub-ef148064c92046b79cd6387190ed03d9.r2.dev/clinical-cases-c00-how-a-clinical-case-answer-is-laid-out.mp3" length="2647148" type="audio/mpeg"/>
+      <enclosure url="https://pub-ef148064c92046b79cd6387190ed03d9.r2.dev/clinical-cases-c00-how-a-clinical-case-answer-is-laid-out.mp3" length="2646764" type="audio/mpeg"/>
     </item>
     <item>
       <title>Pedagogy Viva · 11 · Microteaching</title>
@@ -1595,7 +1595,7 @@
       <itunes:duration>0:08:18</itunes:duration>
       <itunes:subtitle>Practicals · Pedagogy · Viva questions</itunes:subtitle>
       <description>Microteaching. Pedagogy viva questions asked at other colleges, for the RGUHS MD Pharmacology practical examination: each question with the answer the examiners expect first, then the reasoning from The Art of Teaching Medical Students and the NMC curriculum.</description>
-      <enclosure url="https://pub-ef148064c92046b79cd6387190ed03d9.r2.dev/pedagogy-viva-v11-microteaching.mp3" length="3980972" type="audio/mpeg"/>
+      <enclosure url="https://pub-ef148064c92046b79cd6387190ed03d9.r2.dev/pedagogy-viva-v11-microteaching.mp3" length="3983852" type="audio/mpeg"/>
     </item>
     <item>
       <title>Pedagogy Viva · 10 · CBME and the curriculum</title>
@@ -1603,10 +1603,10 @@
       <pubDate>Sat, 11 Apr 2026 06:00:00 GMT</pubDate>
       <itunes:season>7</itunes:season>
       <itunes:episode>11</itunes:episode>
-      <itunes:duration>0:10:45</itunes:duration>
+      <itunes:duration>0:10:46</itunes:duration>
       <itunes:subtitle>Practicals · Pedagogy · Viva questions</itunes:subtitle>
       <description>CBME and the curriculum. Pedagogy viva questions asked at other colleges, for the RGUHS MD Pharmacology practical examination: each question with the answer the examiners expect first, then the reasoning from The Art of Teaching Medical Students and the NMC curriculum.</description>
-      <enclosure url="https://pub-ef148064c92046b79cd6387190ed03d9.r2.dev/pedagogy-viva-v10-cbme-and-the-curriculum.mp3" length="5159084" type="audio/mpeg"/>
+      <enclosure url="https://pub-ef148064c92046b79cd6387190ed03d9.r2.dev/pedagogy-viva-v10-cbme-and-the-curriculum.mp3" length="5168300" type="audio/mpeg"/>
     </item>
     <item>
       <title>Pedagogy Viva · 9 · MCQs and item analysis</title>
@@ -1625,10 +1625,10 @@
       <pubDate>Thu, 09 Apr 2026 06:00:00 GMT</pubDate>
       <itunes:season>7</itunes:season>
       <itunes:episode>9</itunes:episode>
-      <itunes:duration>0:12:03</itunes:duration>
+      <itunes:duration>0:12:04</itunes:duration>
       <itunes:subtitle>Practicals · Pedagogy · Viva questions</itunes:subtitle>
       <description>Assessment. Pedagogy viva questions asked at other colleges, for the RGUHS MD Pharmacology practical examination: each question with the answer the examiners expect first, then the reasoning from The Art of Teaching Medical Students and the NMC curriculum.</description>
-      <enclosure url="https://pub-ef148064c92046b79cd6387190ed03d9.r2.dev/pedagogy-viva-v08-assessment.mp3" length="5785388" type="audio/mpeg"/>
+      <enclosure url="https://pub-ef148064c92046b79cd6387190ed03d9.r2.dev/pedagogy-viva-v08-assessment.mp3" length="5795756" type="audio/mpeg"/>
     </item>
     <item>
       <title>Pedagogy Viva · 7 · How students learn</title>
@@ -1683,7 +1683,7 @@
       <itunes:duration>0:12:50</itunes:duration>
       <itunes:subtitle>Practicals · Pedagogy · Viva questions</itunes:subtitle>
       <description>Teaching methods. Pedagogy viva questions asked at other colleges, for the RGUHS MD Pharmacology practical examination: each question with the answer the examiners expect first, then the reasoning from The Art of Teaching Medical Students and the NMC curriculum.</description>
-      <enclosure url="https://pub-ef148064c92046b79cd6387190ed03d9.r2.dev/pedagogy-viva-v03-teaching-methods.mp3" length="6161900" type="audio/mpeg"/>
+      <enclosure url="https://pub-ef148064c92046b79cd6387190ed03d9.r2.dev/pedagogy-viva-v03-teaching-methods.mp3" length="6160172" type="audio/mpeg"/>
     </item>
     <item>
       <title>Pedagogy Viva · 2 · The classroom, communication and roles</title>
@@ -1705,7 +1705,7 @@
       <itunes:duration>0:05:17</itunes:duration>
       <itunes:subtitle>Practicals · Pedagogy · Viva questions</itunes:subtitle>
       <description>Terms and full forms. Pedagogy viva questions asked at other colleges, for the RGUHS MD Pharmacology practical examination: each question with the answer the examiners expect first, then the reasoning from The Art of Teaching Medical Students and the NMC curriculum.</description>
-      <enclosure url="https://pub-ef148064c92046b79cd6387190ed03d9.r2.dev/pedagogy-viva-v01-terms-and-full-forms.mp3" length="2536748" type="audio/mpeg"/>
+      <enclosure url="https://pub-ef148064c92046b79cd6387190ed03d9.r2.dev/pedagogy-viva-v01-terms-and-full-forms.mp3" length="2536172" type="audio/mpeg"/>
     </item>
     <item>
       <title>Pedagogy Viva · Start here · How this book is laid out</title>
@@ -1812,10 +1812,10 @@
       <pubDate>Thu, 19 Mar 2026 06:00:00 GMT</pubDate>
       <itunes:season>2</itunes:season>
       <itunes:episode>59</itunes:episode>
-      <itunes:duration>0:17:35</itunes:duration>
+      <itunes:duration>0:17:37</itunes:duration>
       <itunes:subtitle>Practicals · Experimental pharmacology · Animal workshop monographs</itunes:subtitle>
       <description>Y-arm maze. The animal workshop monograph of the Armed Forces Medical College pharmacology department, narrated in its own headings for the RGUHS MD Pharmacology practical examination, with every point checked against Medhi, Ghosh, SK Gupta, Vogel and Kulkarni and the differences set side by side, then its viva points.</description>
-      <enclosure url="https://pub-ef148064c92046b79cd6387190ed03d9.r2.dev/experimental-pharmacology-w09-y-arm-maze.mp3" length="8438828" type="audio/mpeg"/>
+      <enclosure url="https://pub-ef148064c92046b79cd6387190ed03d9.r2.dev/experimental-pharmacology-w09-y-arm-maze.mp3" length="8454380" type="audio/mpeg"/>
     </item>
     <item>
       <title>Experimental Pharmacology · 57 · Morris water maze</title>
@@ -1823,10 +1823,10 @@
       <pubDate>Wed, 18 Mar 2026 06:00:00 GMT</pubDate>
       <itunes:season>2</itunes:season>
       <itunes:episode>58</itunes:episode>
-      <itunes:duration>0:20:44</itunes:duration>
+      <itunes:duration>0:20:45</itunes:duration>
       <itunes:subtitle>Practicals · Experimental pharmacology · Animal workshop monographs</itunes:subtitle>
       <description>Morris water maze. The animal workshop monograph of the Armed Forces Medical College pharmacology department, narrated in its own headings for the RGUHS MD Pharmacology practical examination, with every point checked against Medhi, Ghosh, SK Gupta, Vogel and Kulkarni and the differences set side by side, then its viva points.</description>
-      <enclosure url="https://pub-ef148064c92046b79cd6387190ed03d9.r2.dev/experimental-pharmacology-w08-morris-water-maze.mp3" length="9955436" type="audio/mpeg"/>
+      <enclosure url="https://pub-ef148064c92046b79cd6387190ed03d9.r2.dev/experimental-pharmacology-w08-morris-water-maze.mp3" length="9961964" type="audio/mpeg"/>
     </item>
     <item>
       <title>Experimental Pharmacology · 56 · Writhing test</title>
@@ -1834,10 +1834,10 @@
       <pubDate>Tue, 17 Mar 2026 06:00:00 GMT</pubDate>
       <itunes:season>2</itunes:season>
       <itunes:episode>57</itunes:episode>
-      <itunes:duration>0:15:51</itunes:duration>
+      <itunes:duration>0:15:53</itunes:duration>
       <itunes:subtitle>Practicals · Experimental pharmacology · Animal workshop monographs</itunes:subtitle>
       <description>Writhing test. The animal workshop monograph of the Armed Forces Medical College pharmacology department, narrated in its own headings for the RGUHS MD Pharmacology practical examination, with every point checked against Medhi, Ghosh, SK Gupta, Vogel and Kulkarni and the differences set side by side, then its viva points.</description>
-      <enclosure url="https://pub-ef148064c92046b79cd6387190ed03d9.r2.dev/experimental-pharmacology-w07-writhing-test.mp3" length="7610732" type="audio/mpeg"/>
+      <enclosure url="https://pub-ef148064c92046b79cd6387190ed03d9.r2.dev/experimental-pharmacology-w07-writhing-test.mp3" length="7622252" type="audio/mpeg"/>
     </item>
     <item>
       <title>Experimental Pharmacology · 55 · Inclined plane</title>
@@ -1845,10 +1845,10 @@
       <pubDate>Mon, 16 Mar 2026 06:00:00 GMT</pubDate>
       <itunes:season>2</itunes:season>
       <itunes:episode>56</itunes:episode>
-      <itunes:duration>0:13:53</itunes:duration>
+      <itunes:duration>0:13:54</itunes:duration>
       <itunes:subtitle>Practicals · Experimental pharmacology · Animal workshop monographs</itunes:subtitle>
       <description>Inclined plane. The animal workshop monograph of the Armed Forces Medical College pharmacology department, narrated in its own headings for the RGUHS MD Pharmacology practical examination, with every point checked against Medhi, Ghosh, SK Gupta, Vogel and Kulkarni and the differences set side by side, then its viva points.</description>
-      <enclosure url="https://pub-ef148064c92046b79cd6387190ed03d9.r2.dev/experimental-pharmacology-w06-inclined-plane.mp3" length="6660908" type="audio/mpeg"/>
+      <enclosure url="https://pub-ef148064c92046b79cd6387190ed03d9.r2.dev/experimental-pharmacology-w06-inclined-plane.mp3" length="6675500" type="audio/mpeg"/>
     </item>
     <item>
       <title>Experimental Pharmacology · 54 · Photoactometer</title>
@@ -1856,10 +1856,10 @@
       <pubDate>Sun, 15 Mar 2026 06:00:00 GMT</pubDate>
       <itunes:season>2</itunes:season>
       <itunes:episode>55</itunes:episode>
-      <itunes:duration>0:18:30</itunes:duration>
+      <itunes:duration>0:18:32</itunes:duration>
       <itunes:subtitle>Practicals · Experimental pharmacology · Animal workshop monographs</itunes:subtitle>
       <description>Photoactometer. The animal workshop monograph of the Armed Forces Medical College pharmacology department, narrated in its own headings for the RGUHS MD Pharmacology practical examination, with every point checked against Medhi, Ghosh, SK Gupta, Vogel and Kulkarni and the differences set side by side, then its viva points.</description>
-      <enclosure url="https://pub-ef148064c92046b79cd6387190ed03d9.r2.dev/experimental-pharmacology-w05-photoactometer.mp3" length="8877164" type="audio/mpeg"/>
+      <enclosure url="https://pub-ef148064c92046b79cd6387190ed03d9.r2.dev/experimental-pharmacology-w05-photoactometer.mp3" length="8894060" type="audio/mpeg"/>
     </item>
     <item>
       <title>Experimental Pharmacology · 53 · Maximal electroshock and pentylenetetrazole-induced seizures (electroconvulsiometer)</title>
@@ -1867,10 +1867,10 @@
       <pubDate>Sat, 14 Mar 2026 06:00:00 GMT</pubDate>
       <itunes:season>2</itunes:season>
       <itunes:episode>54</itunes:episode>
-      <itunes:duration>0:26:51</itunes:duration>
+      <itunes:duration>0:26:54</itunes:duration>
       <itunes:subtitle>Practicals · Experimental pharmacology · Animal workshop monographs</itunes:subtitle>
       <description>Maximal electroshock and pentylenetetrazole-induced seizures (electroconvulsiometer). The animal workshop monograph of the Armed Forces Medical College pharmacology department, narrated in its own headings for the RGUHS MD Pharmacology practical examination, with every point checked against Medhi, Ghosh, SK Gupta, Vogel and Kulkarni and the differences set side by side, then its viva points.</description>
-      <enclosure url="https://pub-ef148064c92046b79cd6387190ed03d9.r2.dev/experimental-pharmacology-w04-maximal-electroshock-and-pentylenetetrazole-induced-seizures.mp3" length="12890348" type="audio/mpeg"/>
+      <enclosure url="https://pub-ef148064c92046b79cd6387190ed03d9.r2.dev/experimental-pharmacology-w04-maximal-electroshock-and-pentylenetetrazole-induced-seizures.mp3" length="12912236" type="audio/mpeg"/>
     </item>
     <item>
       <title>Experimental Pharmacology · 52 · Hot plate analgesiometer</title>
@@ -1878,10 +1878,10 @@
       <pubDate>Fri, 13 Mar 2026 06:00:00 GMT</pubDate>
       <itunes:season>2</itunes:season>
       <itunes:episode>53</itunes:episode>
-      <itunes:duration>0:16:29</itunes:duration>
+      <itunes:duration>0:16:30</itunes:duration>
       <itunes:subtitle>Practicals · Experimental pharmacology · Animal workshop monographs</itunes:subtitle>
       <description>Hot plate analgesiometer. The animal workshop monograph of the Armed Forces Medical College pharmacology department, narrated in its own headings for the RGUHS MD Pharmacology practical examination, with every point checked against Medhi, Ghosh, SK Gupta, Vogel and Kulkarni and the differences set side by side, then its viva points.</description>
-      <enclosure url="https://pub-ef148064c92046b79cd6387190ed03d9.r2.dev/experimental-pharmacology-w03-hot-plate-analgesiometer.mp3" length="7915436" type="audio/mpeg"/>
+      <enclosure url="https://pub-ef148064c92046b79cd6387190ed03d9.r2.dev/experimental-pharmacology-w03-hot-plate-analgesiometer.mp3" length="7921388" type="audio/mpeg"/>
     </item>
     <item>
       <title>Experimental Pharmacology · 51 · Rota rod (four-compartment model)</title>
@@ -1889,10 +1889,10 @@
       <pubDate>Thu, 12 Mar 2026 06:00:00 GMT</pubDate>
       <itunes:season>2</itunes:season>
       <itunes:episode>52</itunes:episode>
-      <itunes:duration>0:17:55</itunes:duration>
+      <itunes:duration>0:17:57</itunes:duration>
       <itunes:subtitle>Practicals · Experimental pharmacology · Animal workshop monographs</itunes:subtitle>
       <description>Rota rod (four-compartment model). The animal workshop monograph of the Armed Forces Medical College pharmacology department, narrated in its own headings for the RGUHS MD Pharmacology practical examination, with every point checked against Medhi, Ghosh, SK Gupta, Vogel and Kulkarni and the differences set side by side, then its viva points.</description>
-      <enclosure url="https://pub-ef148064c92046b79cd6387190ed03d9.r2.dev/experimental-pharmacology-w02-rota-rod-four-compartment-model.mp3" length="8598188" type="audio/mpeg"/>
+      <enclosure url="https://pub-ef148064c92046b79cd6387190ed03d9.r2.dev/experimental-pharmacology-w02-rota-rod-four-compartment-model.mp3" length="8614316" type="audio/mpeg"/>
     </item>
     <item>
       <title>Experimental Pharmacology · 50 · Tail flick analgesiometer</title>
@@ -1903,95 +1903,249 @@
       <itunes:duration>0:15:21</itunes:duration>
       <itunes:subtitle>Practicals · Experimental pharmacology · Animal workshop monographs</itunes:subtitle>
       <description>Tail flick analgesiometer. The animal workshop monograph of the Armed Forces Medical College pharmacology department, narrated in its own headings for the RGUHS MD Pharmacology practical examination, with every point checked against Medhi, Ghosh, SK Gupta, Vogel and Kulkarni and the differences set side by side, then its viva points.</description>
-      <enclosure url="https://pub-ef148064c92046b79cd6387190ed03d9.r2.dev/experimental-pharmacology-w01-tail-flick-analgesiometer.mp3" length="7366316" type="audio/mpeg"/>
+      <enclosure url="https://pub-ef148064c92046b79cd6387190ed03d9.r2.dev/experimental-pharmacology-w01-tail-flick-analgesiometer.mp3" length="7370924" type="audio/mpeg"/>
     </item>
     <item>
-      <title>Grand Viva · 7 · Paper IV, 23 September 2026: clinical pharmacology</title>
+      <title>Grand Viva · 21 · Paper IV, 23 September 2026: clinical pharmacology</title>
       <guid isPermaLink="false">practicals-grand-viva-g07-paper-iv-23-september-2026-clinical-pharmacology</guid>
-      <pubDate>Sun, 08 Mar 2026 06:00:00 GMT</pubDate>
+      <pubDate>Sun, 22 Feb 2026 06:00:00 GMT</pubDate>
       <itunes:season>9</itunes:season>
-      <itunes:episode>8</itunes:episode>
-      <itunes:duration>0:23:52</itunes:duration>
+      <itunes:episode>22</itunes:episode>
+      <itunes:duration>0:23:54</itunes:duration>
       <itunes:subtitle>Practicals · Grand viva</itunes:subtitle>
       <description>Paper IV, 23 September 2026: clinical pharmacology. Rapid grand viva questions for the RGUHS MD Pharmacology practical examination, each with the answer to say first and the facts that show understanding, from Tripathi and Goodman and Gilman, checked against current guidance.</description>
-      <enclosure url="https://pub-ef148064c92046b79cd6387190ed03d9.r2.dev/grand-viva-g07-paper-iv-23-september-2026-clinical-pharmacology.mp3" length="11459564" type="audio/mpeg"/>
+      <enclosure url="https://pub-ef148064c92046b79cd6387190ed03d9.r2.dev/grand-viva-g07-paper-iv-23-september-2026-clinical-pharmacology.mp3" length="11469932" type="audio/mpeg"/>
     </item>
     <item>
-      <title>Grand Viva · 6 · Paper III, 21 September 2026: systemic pharmacology II</title>
+      <title>Grand Viva · 20 · Paper III, 21 September 2026: systemic pharmacology II</title>
       <guid isPermaLink="false">practicals-grand-viva-g06-paper-iii-21-september-2026-systemic-pharmacology-ii</guid>
-      <pubDate>Sat, 07 Mar 2026 06:00:00 GMT</pubDate>
+      <pubDate>Sat, 21 Feb 2026 06:00:00 GMT</pubDate>
       <itunes:season>9</itunes:season>
-      <itunes:episode>7</itunes:episode>
-      <itunes:duration>0:25:57</itunes:duration>
+      <itunes:episode>21</itunes:episode>
+      <itunes:duration>0:25:59</itunes:duration>
       <itunes:subtitle>Practicals · Grand viva</itunes:subtitle>
       <description>Paper III, 21 September 2026: systemic pharmacology II. Rapid grand viva questions for the RGUHS MD Pharmacology practical examination, each with the answer to say first and the facts that show understanding, from Tripathi and Goodman and Gilman, checked against current guidance.</description>
-      <enclosure url="https://pub-ef148064c92046b79cd6387190ed03d9.r2.dev/grand-viva-g06-paper-iii-21-september-2026-systemic-pharmacology-ii.mp3" length="12452588" type="audio/mpeg"/>
+      <enclosure url="https://pub-ef148064c92046b79cd6387190ed03d9.r2.dev/grand-viva-g06-paper-iii-21-september-2026-systemic-pharmacology-ii.mp3" length="12469868" type="audio/mpeg"/>
     </item>
     <item>
-      <title>Grand Viva · 5 · Paper II, 18 September 2026: systemic pharmacology I</title>
+      <title>Grand Viva · 19 · Paper II, 18 September 2026: systemic pharmacology I</title>
       <guid isPermaLink="false">practicals-grand-viva-g05-paper-ii-18-september-2026-systemic-pharmacology-i</guid>
-      <pubDate>Fri, 06 Mar 2026 06:00:00 GMT</pubDate>
+      <pubDate>Fri, 20 Feb 2026 06:00:00 GMT</pubDate>
       <itunes:season>9</itunes:season>
-      <itunes:episode>6</itunes:episode>
-      <itunes:duration>0:23:17</itunes:duration>
+      <itunes:episode>20</itunes:episode>
+      <itunes:duration>0:23:21</itunes:duration>
       <itunes:subtitle>Practicals · Grand viva</itunes:subtitle>
       <description>Paper II, 18 September 2026: systemic pharmacology I. Rapid grand viva questions for the RGUHS MD Pharmacology practical examination, each with the answer to say first and the facts that show understanding, from Tripathi and Goodman and Gilman, checked against current guidance.</description>
-      <enclosure url="https://pub-ef148064c92046b79cd6387190ed03d9.r2.dev/grand-viva-g05-paper-ii-18-september-2026-systemic-pharmacology-i.mp3" length="11178668" type="audio/mpeg"/>
+      <enclosure url="https://pub-ef148064c92046b79cd6387190ed03d9.r2.dev/grand-viva-g05-paper-ii-18-september-2026-systemic-pharmacology-i.mp3" length="11204396" type="audio/mpeg"/>
     </item>
     <item>
-      <title>Grand Viva · 4 · Paper I, 16 September 2026: basic and general pharmacology</title>
+      <title>Grand Viva · 18 · Paper I, 16 September 2026: basic and general pharmacology</title>
       <guid isPermaLink="false">practicals-grand-viva-g04-paper-i-16-september-2026-basic-and-general-pharmacology</guid>
-      <pubDate>Thu, 05 Mar 2026 06:00:00 GMT</pubDate>
+      <pubDate>Thu, 19 Feb 2026 06:00:00 GMT</pubDate>
       <itunes:season>9</itunes:season>
-      <itunes:episode>5</itunes:episode>
-      <itunes:duration>0:25:04</itunes:duration>
+      <itunes:episode>19</itunes:episode>
+      <itunes:duration>0:25:06</itunes:duration>
       <itunes:subtitle>Practicals · Grand viva</itunes:subtitle>
       <description>Paper I, 16 September 2026: basic and general pharmacology. Rapid grand viva questions for the RGUHS MD Pharmacology practical examination, each with the answer to say first and the facts that show understanding, from Tripathi and Goodman and Gilman, checked against current guidance.</description>
-      <enclosure url="https://pub-ef148064c92046b79cd6387190ed03d9.r2.dev/grand-viva-g04-paper-i-16-september-2026-basic-and-general-pharmacology.mp3" length="12033068" type="audio/mpeg"/>
+      <enclosure url="https://pub-ef148064c92046b79cd6387190ed03d9.r2.dev/grand-viva-g04-paper-i-16-september-2026-basic-and-general-pharmacology.mp3" length="12046892" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Grand Viva · 17 · Anticancer drugs and immunosuppressants</title>
+      <guid isPermaLink="false">practicals-grand-viva-g21-anticancer-drugs-and-immunosuppressants</guid>
+      <pubDate>Wed, 18 Feb 2026 06:00:00 GMT</pubDate>
+      <itunes:season>9</itunes:season>
+      <itunes:episode>18</itunes:episode>
+      <itunes:duration>0:16:27</itunes:duration>
+      <itunes:subtitle>Practicals · Grand viva</itunes:subtitle>
+      <description>Anticancer drugs and immunosuppressants. Rapid grand viva questions for the RGUHS MD Pharmacology practical examination, each with the answer to say first and the facts that show understanding, from Tripathi and Goodman and Gilman, checked against current guidance.</description>
+      <enclosure url="https://pub-ef148064c92046b79cd6387190ed03d9.r2.dev/grand-viva-g21-anticancer-drugs-and-immunosuppressants.mp3" length="7895084" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Grand Viva · 16 · Antimicrobials II: tuberculosis, leprosy, fungi, viruses and parasites</title>
+      <guid isPermaLink="false">practicals-grand-viva-g20-antimicrobials-ii-tuberculosis-leprosy-fungi-viruses-and-par</guid>
+      <pubDate>Tue, 17 Feb 2026 06:00:00 GMT</pubDate>
+      <itunes:season>9</itunes:season>
+      <itunes:episode>17</itunes:episode>
+      <itunes:duration>0:23:33</itunes:duration>
+      <itunes:subtitle>Practicals · Grand viva</itunes:subtitle>
+      <description>Antimicrobials II: tuberculosis, leprosy, fungi, viruses and parasites. Rapid grand viva questions for the RGUHS MD Pharmacology practical examination, each with the answer to say first and the facts that show understanding, from Tripathi and Goodman and Gilman, checked against current guidance.</description>
+      <enclosure url="https://pub-ef148064c92046b79cd6387190ed03d9.r2.dev/grand-viva-g20-antimicrobials-ii-tuberculosis-leprosy-fungi-viruses-and-par.mp3" length="11303084" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Grand Viva · 15 · Antimicrobials I: antibacterials</title>
+      <guid isPermaLink="false">practicals-grand-viva-g19-antimicrobials-i-antibacterials</guid>
+      <pubDate>Mon, 16 Feb 2026 06:00:00 GMT</pubDate>
+      <itunes:season>9</itunes:season>
+      <itunes:episode>16</itunes:episode>
+      <itunes:duration>0:19:09</itunes:duration>
+      <itunes:subtitle>Practicals · Grand viva</itunes:subtitle>
+      <description>Antimicrobials I: antibacterials. Rapid grand viva questions for the RGUHS MD Pharmacology practical examination, each with the answer to say first and the facts that show understanding, from Tripathi and Goodman and Gilman, checked against current guidance.</description>
+      <enclosure url="https://pub-ef148064c92046b79cd6387190ed03d9.r2.dev/grand-viva-g19-antimicrobials-i-antibacterials.mp3" length="9192044" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Grand Viva · 14 · Gastrointestinal system</title>
+      <guid isPermaLink="false">practicals-grand-viva-g18-gastrointestinal-system</guid>
+      <pubDate>Sun, 15 Feb 2026 06:00:00 GMT</pubDate>
+      <itunes:season>9</itunes:season>
+      <itunes:episode>15</itunes:episode>
+      <itunes:duration>0:16:10</itunes:duration>
+      <itunes:subtitle>Practicals · Grand viva</itunes:subtitle>
+      <description>Gastrointestinal system. Rapid grand viva questions for the RGUHS MD Pharmacology practical examination, each with the answer to say first and the facts that show understanding, from Tripathi and Goodman and Gilman, checked against current guidance.</description>
+      <enclosure url="https://pub-ef148064c92046b79cd6387190ed03d9.r2.dev/grand-viva-g18-gastrointestinal-system.mp3" length="7756268" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Grand Viva · 13 · Blood: anaemia, clotting and lipids</title>
+      <guid isPermaLink="false">practicals-grand-viva-g17-blood-anaemia-clotting-and-lipids</guid>
+      <pubDate>Sat, 14 Feb 2026 06:00:00 GMT</pubDate>
+      <itunes:season>9</itunes:season>
+      <itunes:episode>14</itunes:episode>
+      <itunes:duration>0:19:26</itunes:duration>
+      <itunes:subtitle>Practicals · Grand viva</itunes:subtitle>
+      <description>Blood: anaemia, clotting and lipids. Rapid grand viva questions for the RGUHS MD Pharmacology practical examination, each with the answer to say first and the facts that show understanding, from Tripathi and Goodman and Gilman, checked against current guidance.</description>
+      <enclosure url="https://pub-ef148064c92046b79cd6387190ed03d9.r2.dev/grand-viva-g17-blood-anaemia-clotting-and-lipids.mp3" length="9326444" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Grand Viva · 12 · Kidney: diuretics and antidiuretics</title>
+      <guid isPermaLink="false">practicals-grand-viva-g16-kidney-diuretics-and-antidiuretics</guid>
+      <pubDate>Fri, 13 Feb 2026 06:00:00 GMT</pubDate>
+      <itunes:season>9</itunes:season>
+      <itunes:episode>13</itunes:episode>
+      <itunes:duration>0:09:59</itunes:duration>
+      <itunes:subtitle>Practicals · Grand viva</itunes:subtitle>
+      <description>Kidney: diuretics and antidiuretics. Rapid grand viva questions for the RGUHS MD Pharmacology practical examination, each with the answer to say first and the facts that show understanding, from Tripathi and Goodman and Gilman, checked against current guidance.</description>
+      <enclosure url="https://pub-ef148064c92046b79cd6387190ed03d9.r2.dev/grand-viva-g16-kidney-diuretics-and-antidiuretics.mp3" length="4788524" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Grand Viva · 11 · Cardiovascular system</title>
+      <guid isPermaLink="false">practicals-grand-viva-g15-cardiovascular-system</guid>
+      <pubDate>Thu, 12 Feb 2026 06:00:00 GMT</pubDate>
+      <itunes:season>9</itunes:season>
+      <itunes:episode>12</itunes:episode>
+      <itunes:duration>0:15:53</itunes:duration>
+      <itunes:subtitle>Practicals · Grand viva</itunes:subtitle>
+      <description>Cardiovascular system. Rapid grand viva questions for the RGUHS MD Pharmacology practical examination, each with the answer to say first and the facts that show understanding, from Tripathi and Goodman and Gilman, checked against current guidance.</description>
+      <enclosure url="https://pub-ef148064c92046b79cd6387190ed03d9.r2.dev/grand-viva-g15-cardiovascular-system.mp3" length="7627052" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Grand Viva · 10 · CNS II: psychiatric drugs and opioids</title>
+      <guid isPermaLink="false">practicals-grand-viva-g14-cns-ii-psychiatric-drugs-and-opioids</guid>
+      <pubDate>Wed, 11 Feb 2026 06:00:00 GMT</pubDate>
+      <itunes:season>9</itunes:season>
+      <itunes:episode>11</itunes:episode>
+      <itunes:duration>0:20:52</itunes:duration>
+      <itunes:subtitle>Practicals · Grand viva</itunes:subtitle>
+      <description>CNS II: psychiatric drugs and opioids. Rapid grand viva questions for the RGUHS MD Pharmacology practical examination, each with the answer to say first and the facts that show understanding, from Tripathi and Goodman and Gilman, checked against current guidance.</description>
+      <enclosure url="https://pub-ef148064c92046b79cd6387190ed03d9.r2.dev/grand-viva-g14-cns-ii-psychiatric-drugs-and-opioids.mp3" length="10017452" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Grand Viva · 9 · CNS I: anaesthetics, sedatives, epilepsy and parkinsonism</title>
+      <guid isPermaLink="false">practicals-grand-viva-g13-cns-i-anaesthetics-sedatives-epilepsy-and-parkinsonism</guid>
+      <pubDate>Tue, 10 Feb 2026 06:00:00 GMT</pubDate>
+      <itunes:season>9</itunes:season>
+      <itunes:episode>10</itunes:episode>
+      <itunes:duration>0:22:53</itunes:duration>
+      <itunes:subtitle>Practicals · Grand viva</itunes:subtitle>
+      <description>CNS I: anaesthetics, sedatives, epilepsy and parkinsonism. Rapid grand viva questions for the RGUHS MD Pharmacology practical examination, each with the answer to say first and the facts that show understanding, from Tripathi and Goodman and Gilman, checked against current guidance.</description>
+      <enclosure url="https://pub-ef148064c92046b79cd6387190ed03d9.r2.dev/grand-viva-g13-cns-i-anaesthetics-sedatives-epilepsy-and-parkinsonism.mp3" length="10986476" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Grand Viva · 8 · Hormones II: corticosteroids, sex hormones and bone</title>
+      <guid isPermaLink="false">practicals-grand-viva-g12-hormones-ii-corticosteroids-sex-hormones-and-bone</guid>
+      <pubDate>Mon, 09 Feb 2026 06:00:00 GMT</pubDate>
+      <itunes:season>9</itunes:season>
+      <itunes:episode>9</itunes:episode>
+      <itunes:duration>0:20:10</itunes:duration>
+      <itunes:subtitle>Practicals · Grand viva</itunes:subtitle>
+      <description>Hormones II: corticosteroids, sex hormones and bone. Rapid grand viva questions for the RGUHS MD Pharmacology practical examination, each with the answer to say first and the facts that show understanding, from Tripathi and Goodman and Gilman, checked against current guidance.</description>
+      <enclosure url="https://pub-ef148064c92046b79cd6387190ed03d9.r2.dev/grand-viva-g12-hormones-ii-corticosteroids-sex-hormones-and-bone.mp3" length="9676460" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Grand Viva · 7 · Hormones I: pituitary, thyroid and diabetes</title>
+      <guid isPermaLink="false">practicals-grand-viva-g11-hormones-i-pituitary-thyroid-and-diabetes</guid>
+      <pubDate>Sun, 08 Feb 2026 06:00:00 GMT</pubDate>
+      <itunes:season>9</itunes:season>
+      <itunes:episode>8</itunes:episode>
+      <itunes:duration>0:20:03</itunes:duration>
+      <itunes:subtitle>Practicals · Grand viva</itunes:subtitle>
+      <description>Hormones I: pituitary, thyroid and diabetes. Rapid grand viva questions for the RGUHS MD Pharmacology practical examination, each with the answer to say first and the facts that show understanding, from Tripathi and Goodman and Gilman, checked against current guidance.</description>
+      <enclosure url="https://pub-ef148064c92046b79cd6387190ed03d9.r2.dev/grand-viva-g11-hormones-i-pituitary-thyroid-and-diabetes.mp3" length="9625196" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Grand Viva · 6 · Respiratory system</title>
+      <guid isPermaLink="false">practicals-grand-viva-g10-respiratory-system</guid>
+      <pubDate>Sat, 07 Feb 2026 06:00:00 GMT</pubDate>
+      <itunes:season>9</itunes:season>
+      <itunes:episode>7</itunes:episode>
+      <itunes:duration>0:11:47</itunes:duration>
+      <itunes:subtitle>Practicals · Grand viva</itunes:subtitle>
+      <description>Respiratory system. Rapid grand viva questions for the RGUHS MD Pharmacology practical examination, each with the answer to say first and the facts that show understanding, from Tripathi and Goodman and Gilman, checked against current guidance.</description>
+      <enclosure url="https://pub-ef148064c92046b79cd6387190ed03d9.r2.dev/grand-viva-g10-respiratory-system.mp3" length="5659052" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Grand Viva · 5 · NSAIDs, antirheumatoid and antigout drugs</title>
+      <guid isPermaLink="false">practicals-grand-viva-g09-nsaids-antirheumatoid-and-antigout-drugs</guid>
+      <pubDate>Fri, 06 Feb 2026 06:00:00 GMT</pubDate>
+      <itunes:season>9</itunes:season>
+      <itunes:episode>6</itunes:episode>
+      <itunes:duration>0:13:49</itunes:duration>
+      <itunes:subtitle>Practicals · Grand viva</itunes:subtitle>
+      <description>NSAIDs, antirheumatoid and antigout drugs. Rapid grand viva questions for the RGUHS MD Pharmacology practical examination, each with the answer to say first and the facts that show understanding, from Tripathi and Goodman and Gilman, checked against current guidance.</description>
+      <enclosure url="https://pub-ef148064c92046b79cd6387190ed03d9.r2.dev/grand-viva-g09-nsaids-antirheumatoid-and-antigout-drugs.mp3" length="6629612" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Grand Viva · 4 · Autacoids: histamine, 5-HT and prostaglandins</title>
+      <guid isPermaLink="false">practicals-grand-viva-g08-autacoids-histamine-5-ht-and-prostaglandins</guid>
+      <pubDate>Thu, 05 Feb 2026 06:00:00 GMT</pubDate>
+      <itunes:season>9</itunes:season>
+      <itunes:episode>5</itunes:episode>
+      <itunes:duration>0:11:14</itunes:duration>
+      <itunes:subtitle>Practicals · Grand viva</itunes:subtitle>
+      <description>Autacoids: histamine, 5-HT and prostaglandins. Rapid grand viva questions for the RGUHS MD Pharmacology practical examination, each with the answer to say first and the facts that show understanding, from Tripathi and Goodman and Gilman, checked against current guidance.</description>
+      <enclosure url="https://pub-ef148064c92046b79cd6387190ed03d9.r2.dev/grand-viva-g08-autacoids-histamine-5-ht-and-prostaglandins.mp3" length="5391212" type="audio/mpeg"/>
     </item>
     <item>
       <title>Grand Viva · 3 · Autonomic nervous system</title>
       <guid isPermaLink="false">practicals-grand-viva-g03-autonomic-nervous-system</guid>
-      <pubDate>Wed, 04 Mar 2026 06:00:00 GMT</pubDate>
+      <pubDate>Wed, 04 Feb 2026 06:00:00 GMT</pubDate>
       <itunes:season>9</itunes:season>
       <itunes:episode>4</itunes:episode>
-      <itunes:duration>0:41:36</itunes:duration>
+      <itunes:duration>0:41:38</itunes:duration>
       <itunes:subtitle>Practicals · Grand viva</itunes:subtitle>
       <description>Autonomic nervous system. Rapid grand viva questions for the RGUHS MD Pharmacology practical examination, each with the answer to say first and the facts that show understanding, from Tripathi and Goodman and Gilman, checked against current guidance.</description>
-      <enclosure url="https://pub-ef148064c92046b79cd6387190ed03d9.r2.dev/grand-viva-g03-autonomic-nervous-system.mp3" length="19968620" type="audio/mpeg"/>
+      <enclosure url="https://pub-ef148064c92046b79cd6387190ed03d9.r2.dev/grand-viva-g03-autonomic-nervous-system.mp3" length="19985516" type="audio/mpeg"/>
     </item>
     <item>
       <title>Grand Viva · 2 · General pharmacology</title>
       <guid isPermaLink="false">practicals-grand-viva-g02-general-pharmacology</guid>
-      <pubDate>Tue, 03 Mar 2026 06:00:00 GMT</pubDate>
+      <pubDate>Tue, 03 Feb 2026 06:00:00 GMT</pubDate>
       <itunes:season>9</itunes:season>
       <itunes:episode>3</itunes:episode>
-      <itunes:duration>0:38:33</itunes:duration>
+      <itunes:duration>0:38:34</itunes:duration>
       <itunes:subtitle>Practicals · Grand viva</itunes:subtitle>
       <description>General pharmacology. Rapid grand viva questions for the RGUHS MD Pharmacology practical examination, each with the answer to say first and the facts that show understanding, from Tripathi and Goodman and Gilman, checked against current guidance.</description>
-      <enclosure url="https://pub-ef148064c92046b79cd6387190ed03d9.r2.dev/grand-viva-g02-general-pharmacology.mp3" length="18501932" type="audio/mpeg"/>
+      <enclosure url="https://pub-ef148064c92046b79cd6387190ed03d9.r2.dev/grand-viva-g02-general-pharmacology.mp3" length="18510572" type="audio/mpeg"/>
     </item>
     <item>
       <title>Grand Viva · 1 · Basics: the definitions examiners open with</title>
       <guid isPermaLink="false">practicals-grand-viva-g01-basics-the-definitions-examiners-open-with</guid>
-      <pubDate>Mon, 02 Mar 2026 06:00:00 GMT</pubDate>
+      <pubDate>Mon, 02 Feb 2026 06:00:00 GMT</pubDate>
       <itunes:season>9</itunes:season>
       <itunes:episode>2</itunes:episode>
-      <itunes:duration>0:19:28</itunes:duration>
+      <itunes:duration>0:19:31</itunes:duration>
       <itunes:subtitle>Practicals · Grand viva</itunes:subtitle>
       <description>Basics: the definitions examiners open with. Rapid grand viva questions for the RGUHS MD Pharmacology practical examination, each with the answer to say first and the facts that show understanding, from Tripathi and Goodman and Gilman, checked against current guidance.</description>
-      <enclosure url="https://pub-ef148064c92046b79cd6387190ed03d9.r2.dev/grand-viva-g01-basics-the-definitions-examiners-open-with.mp3" length="9343340" type="audio/mpeg"/>
+      <enclosure url="https://pub-ef148064c92046b79cd6387190ed03d9.r2.dev/grand-viva-g01-basics-the-definitions-examiners-open-with.mp3" length="9364268" type="audio/mpeg"/>
     </item>
     <item>
       <title>Grand Viva · Start here · How this book is laid out</title>
       <guid isPermaLink="false">practicals-grand-viva-g00-how-this-book-is-laid-out</guid>
-      <pubDate>Sun, 01 Mar 2026 06:00:00 GMT</pubDate>
+      <pubDate>Sun, 01 Feb 2026 06:00:00 GMT</pubDate>
       <itunes:season>9</itunes:season>
       <itunes:episode>1</itunes:episode>
-      <itunes:duration>0:02:57</itunes:duration>
+      <itunes:duration>0:02:55</itunes:duration>
       <itunes:subtitle>Practicals · Grand viva</itunes:subtitle>
       <description>How this book is laid out. The start page of the grand viva book for the RGUHS MD Pharmacology practical examination: what it covers, how each answer is built, and where the facts come from.</description>
-      <enclosure url="https://pub-ef148064c92046b79cd6387190ed03d9.r2.dev/grand-viva-g00-how-this-book-is-laid-out.mp3" length="1414316" type="audio/mpeg"/>
+      <enclosure url="https://pub-ef148064c92046b79cd6387190ed03d9.r2.dev/grand-viva-g00-how-this-book-is-laid-out.mp3" length="1397804" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
