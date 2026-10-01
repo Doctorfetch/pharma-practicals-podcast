@@ -22,8 +22,8 @@
     <itunes:category text="Health &amp; Fitness">
       <itunes:category text="Medicine"/>
     </itunes:category>
-    <description>Narrated model answers for the RGUHS MD Pharmacology practical examination, kept apart from the theory-exam show. Season 1, protocol writing: eight model protocols, from a phase 2 anxiolytic trial to phase 3 registration programmes, each with its design, sample size, visit schedule, analysis, Indian regulatory and ethics requirements, and viva points. Season 2, experimental pharmacology: laboratory animals and ethics, laboratory and sophisticated instruments, and the in vivo experiments of Medhi's Practical Manual, one episode per item, then nine animal workshop equipment monographs set against the textbooks. Season 3, bioassay: the principles, the designs and their calculations worked from the textbook's own numbers, the isolated tissues and every determine-the-unknown-concentration experiment, and the isolated heart. Season 4, chemical analysis and graphs: the tests for alkaloids, sterols and glycosides, how to identify an unknown sample, and every chart tracing of the KMCRI set, from adrenaline reversal to the frog rectus. Season 5, pharmacokinetic problems: the formula sheet and the fourteen KMCRI problems, each worked by hand from the given values to the answer, then nine PG-level problems from the clinical pharmacokinetics textbooks. Season 6, clinical cases: the eleven KMCRI clinical cases, from stable angina to type 2 diabetes with chronic kidney disease, each with the diagnosis, the drug treatment with doses and monitoring, and the viva questions. Season 7, pedagogy viva: the questions examiners ask after the microteaching session, from OHP and DOAP to Bloom's taxonomy, item analysis and CBME, each with the answer to lead with. Season 8, microteaching theory: what microteaching is, its component skills and cycle, writing objectives, slide design, and the viva questions on the session, with how the six exam decks apply them. About 39 hours 57 minutes.</description>
-    <itunes:summary>Narrated practical-exam answers for MD Pharmacology. Season 1 is protocol writing; season 2 is experimental pharmacology; season 3 is bioassay; season 4 is chemical analysis and graphs; season 5 is pharmacokinetic problems; season 6 is clinical cases; season 7 is the pedagogy viva; season 8 is microteaching theory.</itunes:summary>
+    <description>Narrated model answers for the RGUHS MD Pharmacology practical examination, kept apart from the theory-exam show. Season 1, protocol writing: eight model protocols, from a phase 2 anxiolytic trial to phase 3 registration programmes, each with its design, sample size, visit schedule, analysis, Indian regulatory and ethics requirements, and viva points. Season 2, experimental pharmacology: laboratory animals and ethics, laboratory and sophisticated instruments, and the in vivo experiments of Medhi's Practical Manual, one episode per item, then nine animal workshop equipment monographs set against the textbooks. Season 3, bioassay: the principles, the designs and their calculations worked from the textbook's own numbers, the isolated tissues and every determine-the-unknown-concentration experiment, and the isolated heart. Season 4, chemical analysis and graphs: the tests for alkaloids, sterols and glycosides, how to identify an unknown sample, and every chart tracing of the KMCRI set, from adrenaline reversal to the frog rectus. Season 5, pharmacokinetic problems: the formula sheet and the fourteen KMCRI problems, each worked by hand from the given values to the answer, then nine PG-level problems from the clinical pharmacokinetics textbooks. Season 6, clinical cases: the eleven KMCRI clinical cases, from stable angina to type 2 diabetes with chronic kidney disease, each with the diagnosis, the drug treatment with doses and monitoring, and the viva questions. Season 7, pedagogy viva: the questions examiners ask after the microteaching session, from OHP and DOAP to Bloom's taxonomy, item analysis and CBME, each with the answer to lead with. Season 8, microteaching theory: what microteaching is, its component skills and cycle, writing objectives, slide design, and the viva questions on the session, with how the six exam decks apply them. Season 9, grand viva: rapid viva questions on the basics, general pharmacology and the autonomic nervous system, then three on every question of the four September 2026 theory papers, each with the answer to say first. About 43 hours 18 minutes.</description>
+    <itunes:summary>Narrated practical-exam answers for MD Pharmacology. Season 1 is protocol writing; season 2 is experimental pharmacology; season 3 is bioassay; season 4 is chemical analysis and graphs; season 5 is pharmacokinetic problems; season 6 is clinical cases; season 7 is the pedagogy viva; season 8 is microteaching theory; season 9 is the grand viva.</itunes:summary>
     <item>
       <title>Bioassay · 29 · Inotropic and chronotropic effects of drugs on the frog heart, isolated and in situ</title>
       <guid isPermaLink="false">practicals-bioassay-h03-inotropic-and-chronotropic-effects-of-drugs-on-the-frog-hear</guid>
@@ -1904,6 +1904,94 @@
       <itunes:subtitle>Practicals · Experimental pharmacology · Animal workshop monographs</itunes:subtitle>
       <description>Tail flick analgesiometer. The animal workshop monograph of the Armed Forces Medical College pharmacology department, narrated in its own headings for the RGUHS MD Pharmacology practical examination, with every point checked against Medhi, Ghosh, SK Gupta, Vogel and Kulkarni and the differences set side by side, then its viva points.</description>
       <enclosure url="https://pub-ef148064c92046b79cd6387190ed03d9.r2.dev/experimental-pharmacology-w01-tail-flick-analgesiometer.mp3" length="7366316" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Grand Viva · 7 · Paper IV, 23 September 2026: clinical pharmacology</title>
+      <guid isPermaLink="false">practicals-grand-viva-g07-paper-iv-23-september-2026-clinical-pharmacology</guid>
+      <pubDate>Sun, 08 Mar 2026 06:00:00 GMT</pubDate>
+      <itunes:season>9</itunes:season>
+      <itunes:episode>8</itunes:episode>
+      <itunes:duration>0:23:52</itunes:duration>
+      <itunes:subtitle>Practicals · Grand viva</itunes:subtitle>
+      <description>Paper IV, 23 September 2026: clinical pharmacology. Rapid grand viva questions for the RGUHS MD Pharmacology practical examination, each with the answer to say first and the facts that show understanding, from Tripathi and Goodman and Gilman, checked against current guidance.</description>
+      <enclosure url="https://pub-ef148064c92046b79cd6387190ed03d9.r2.dev/grand-viva-g07-paper-iv-23-september-2026-clinical-pharmacology.mp3" length="11459564" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Grand Viva · 6 · Paper III, 21 September 2026: systemic pharmacology II</title>
+      <guid isPermaLink="false">practicals-grand-viva-g06-paper-iii-21-september-2026-systemic-pharmacology-ii</guid>
+      <pubDate>Sat, 07 Mar 2026 06:00:00 GMT</pubDate>
+      <itunes:season>9</itunes:season>
+      <itunes:episode>7</itunes:episode>
+      <itunes:duration>0:25:57</itunes:duration>
+      <itunes:subtitle>Practicals · Grand viva</itunes:subtitle>
+      <description>Paper III, 21 September 2026: systemic pharmacology II. Rapid grand viva questions for the RGUHS MD Pharmacology practical examination, each with the answer to say first and the facts that show understanding, from Tripathi and Goodman and Gilman, checked against current guidance.</description>
+      <enclosure url="https://pub-ef148064c92046b79cd6387190ed03d9.r2.dev/grand-viva-g06-paper-iii-21-september-2026-systemic-pharmacology-ii.mp3" length="12452588" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Grand Viva · 5 · Paper II, 18 September 2026: systemic pharmacology I</title>
+      <guid isPermaLink="false">practicals-grand-viva-g05-paper-ii-18-september-2026-systemic-pharmacology-i</guid>
+      <pubDate>Fri, 06 Mar 2026 06:00:00 GMT</pubDate>
+      <itunes:season>9</itunes:season>
+      <itunes:episode>6</itunes:episode>
+      <itunes:duration>0:23:17</itunes:duration>
+      <itunes:subtitle>Practicals · Grand viva</itunes:subtitle>
+      <description>Paper II, 18 September 2026: systemic pharmacology I. Rapid grand viva questions for the RGUHS MD Pharmacology practical examination, each with the answer to say first and the facts that show understanding, from Tripathi and Goodman and Gilman, checked against current guidance.</description>
+      <enclosure url="https://pub-ef148064c92046b79cd6387190ed03d9.r2.dev/grand-viva-g05-paper-ii-18-september-2026-systemic-pharmacology-i.mp3" length="11178668" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Grand Viva · 4 · Paper I, 16 September 2026: basic and general pharmacology</title>
+      <guid isPermaLink="false">practicals-grand-viva-g04-paper-i-16-september-2026-basic-and-general-pharmacology</guid>
+      <pubDate>Thu, 05 Mar 2026 06:00:00 GMT</pubDate>
+      <itunes:season>9</itunes:season>
+      <itunes:episode>5</itunes:episode>
+      <itunes:duration>0:25:04</itunes:duration>
+      <itunes:subtitle>Practicals · Grand viva</itunes:subtitle>
+      <description>Paper I, 16 September 2026: basic and general pharmacology. Rapid grand viva questions for the RGUHS MD Pharmacology practical examination, each with the answer to say first and the facts that show understanding, from Tripathi and Goodman and Gilman, checked against current guidance.</description>
+      <enclosure url="https://pub-ef148064c92046b79cd6387190ed03d9.r2.dev/grand-viva-g04-paper-i-16-september-2026-basic-and-general-pharmacology.mp3" length="12033068" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Grand Viva · 3 · Autonomic nervous system</title>
+      <guid isPermaLink="false">practicals-grand-viva-g03-autonomic-nervous-system</guid>
+      <pubDate>Wed, 04 Mar 2026 06:00:00 GMT</pubDate>
+      <itunes:season>9</itunes:season>
+      <itunes:episode>4</itunes:episode>
+      <itunes:duration>0:41:36</itunes:duration>
+      <itunes:subtitle>Practicals · Grand viva</itunes:subtitle>
+      <description>Autonomic nervous system. Rapid grand viva questions for the RGUHS MD Pharmacology practical examination, each with the answer to say first and the facts that show understanding, from Tripathi and Goodman and Gilman, checked against current guidance.</description>
+      <enclosure url="https://pub-ef148064c92046b79cd6387190ed03d9.r2.dev/grand-viva-g03-autonomic-nervous-system.mp3" length="19968620" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Grand Viva · 2 · General pharmacology</title>
+      <guid isPermaLink="false">practicals-grand-viva-g02-general-pharmacology</guid>
+      <pubDate>Tue, 03 Mar 2026 06:00:00 GMT</pubDate>
+      <itunes:season>9</itunes:season>
+      <itunes:episode>3</itunes:episode>
+      <itunes:duration>0:38:33</itunes:duration>
+      <itunes:subtitle>Practicals · Grand viva</itunes:subtitle>
+      <description>General pharmacology. Rapid grand viva questions for the RGUHS MD Pharmacology practical examination, each with the answer to say first and the facts that show understanding, from Tripathi and Goodman and Gilman, checked against current guidance.</description>
+      <enclosure url="https://pub-ef148064c92046b79cd6387190ed03d9.r2.dev/grand-viva-g02-general-pharmacology.mp3" length="18501932" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Grand Viva · 1 · Basics: the definitions examiners open with</title>
+      <guid isPermaLink="false">practicals-grand-viva-g01-basics-the-definitions-examiners-open-with</guid>
+      <pubDate>Mon, 02 Mar 2026 06:00:00 GMT</pubDate>
+      <itunes:season>9</itunes:season>
+      <itunes:episode>2</itunes:episode>
+      <itunes:duration>0:19:28</itunes:duration>
+      <itunes:subtitle>Practicals · Grand viva</itunes:subtitle>
+      <description>Basics: the definitions examiners open with. Rapid grand viva questions for the RGUHS MD Pharmacology practical examination, each with the answer to say first and the facts that show understanding, from Tripathi and Goodman and Gilman, checked against current guidance.</description>
+      <enclosure url="https://pub-ef148064c92046b79cd6387190ed03d9.r2.dev/grand-viva-g01-basics-the-definitions-examiners-open-with.mp3" length="9343340" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Grand Viva · Start here · How this book is laid out</title>
+      <guid isPermaLink="false">practicals-grand-viva-g00-how-this-book-is-laid-out</guid>
+      <pubDate>Sun, 01 Mar 2026 06:00:00 GMT</pubDate>
+      <itunes:season>9</itunes:season>
+      <itunes:episode>1</itunes:episode>
+      <itunes:duration>0:02:57</itunes:duration>
+      <itunes:subtitle>Practicals · Grand viva</itunes:subtitle>
+      <description>How this book is laid out. The start page of the grand viva book for the RGUHS MD Pharmacology practical examination: what it covers, how each answer is built, and where the facts come from.</description>
+      <enclosure url="https://pub-ef148064c92046b79cd6387190ed03d9.r2.dev/grand-viva-g00-how-this-book-is-laid-out.mp3" length="1414316" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
