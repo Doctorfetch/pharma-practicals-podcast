@@ -22,7 +22,7 @@
     <itunes:category text="Health &amp; Fitness">
       <itunes:category text="Medicine"/>
     </itunes:category>
-    <description>Narrated model answers for the RGUHS MD Pharmacology practical examination, kept apart from the theory-exam show. Season 1, protocol writing: eight model protocols, from a phase 2 anxiolytic trial to phase 3 registration programmes, each with its design, sample size, visit schedule, analysis, Indian regulatory and ethics requirements, and viva points. Season 2, experimental pharmacology: laboratory animals and ethics, laboratory and sophisticated instruments, and the in vivo experiments of Medhi's Practical Manual, one episode per item, then nine animal workshop equipment monographs set against the textbooks. Season 3, bioassay: the principles, the designs and their calculations worked from the textbook's own numbers, the isolated tissues and every determine-the-unknown-concentration experiment, and the isolated heart. Season 4, chemical analysis and graphs: the tests for alkaloids, sterols and glycosides, how to identify an unknown sample, and every chart tracing of the KMCRI set, from adrenaline reversal to the frog rectus. Season 5, pharmacokinetic problems: the formula sheet and the fourteen KMCRI problems, each worked by hand from the given values to the answer, then nine PG-level problems from the clinical pharmacokinetics textbooks. Season 6, clinical cases: the eleven KMCRI clinical cases, from stable angina to type 2 diabetes with chronic kidney disease, each with the diagnosis, the drug treatment with doses and monitoring, and the viva questions. Season 7, pedagogy viva: the questions examiners ask after the microteaching session, from OHP and DOAP to Bloom's taxonomy, item analysis and CBME, each with the answer to lead with. Season 8, microteaching theory: what microteaching is, its component skills and cycle, writing objectives, slide design, and the viva questions on the session, with how the six exam decks apply them. Season 9, grand viva: rapid viva questions on the basics, general pharmacology and the autonomic nervous system, the drug groups of every system with their uses and hallmark adverse effects, then three on every question of the four September 2026 theory papers, each with the answer to say first. About 50 hours 19 minutes.</description>
+    <description>Narrated model answers for the RGUHS MD Pharmacology practical examination, kept apart from the theory-exam show. Season 1, protocol writing: eight model protocols, from a phase 2 anxiolytic trial to phase 3 registration programmes, each with its design, sample size, visit schedule, analysis, Indian regulatory and ethics requirements, and viva points. Season 2, experimental pharmacology: laboratory animals and ethics, laboratory and sophisticated instruments, and the in vivo experiments of Medhi's Practical Manual, one episode per item, then nine animal workshop equipment monographs set against the textbooks. Season 3, bioassay: the principles, the designs and their calculations worked from the textbook's own numbers, the isolated tissues and every determine-the-unknown-concentration experiment, and the isolated heart. Season 4, chemical analysis and graphs: the tests for alkaloids, sterols and glycosides, how to identify an unknown sample, and every chart tracing of the KMCRI set, from adrenaline reversal to the frog rectus. Season 5, pharmacokinetic problems: the formula sheet and the fourteen KMCRI problems, each worked by hand from the given values to the answer, then nine PG-level problems from the clinical pharmacokinetics textbooks. Season 6, clinical cases: the eleven KMCRI clinical cases, from stable angina to type 2 diabetes with chronic kidney disease, each with the diagnosis, the drug treatment with doses and monitoring, and the viva questions. Season 7, pedagogy viva: the questions examiners ask after the microteaching session, from OHP and DOAP to Bloom's taxonomy, item analysis and CBME, each with the answer to lead with. Season 8, microteaching theory: what microteaching is, its component skills and cycle, writing objectives, slide design, and the viva questions on the session, with how the six exam decks apply them. Season 9, grand viva: rapid viva questions on the basics, general pharmacology and the autonomic nervous system, the drug groups of every system with their uses and hallmark adverse effects, then three on every question of the four September 2026 theory papers, each with the answer to say first. About 51 hours 33 minutes.</description>
     <itunes:summary>Narrated practical-exam answers for MD Pharmacology. Season 1 is protocol writing; season 2 is experimental pharmacology; season 3 is bioassay; season 4 is chemical analysis and graphs; season 5 is pharmacokinetic problems; season 6 is clinical cases; season 7 is the pedagogy viva; season 8 is microteaching theory; season 9 is the grand viva.</itunes:summary>
     <item>
       <title>Bioassay · 29 · Inotropic and chronotropic effects of drugs on the frog heart, isolated and in situ</title>
@@ -349,10 +349,10 @@
       <pubDate>Thu, 20 Aug 2026 06:00:00 GMT</pubDate>
       <itunes:season>3</itunes:season>
       <itunes:episode>1</itunes:episode>
-      <itunes:duration>0:11:32</itunes:duration>
+      <itunes:duration>0:29:55</itunes:duration>
       <itunes:subtitle>Practicals · Bioassay · Start here</itunes:subtitle>
       <description>How to write up a bioassay in the practical examination. A narrated model answer from the bioassay book for the RGUHS MD Pharmacology practical examination (Start here), from Medhi and Prakash's Practical Manual with the mathematics checked against Ghosh, every calculation worked from the textbook's own numbers, with its viva points.</description>
-      <enclosure url="https://pub-ef148064c92046b79cd6387190ed03d9.r2.dev/bioassay-b00-how-to-write-up-a-bioassay-in-the-practical-examination.mp3" length="5533484" type="audio/mpeg"/>
+      <enclosure url="https://pub-ef148064c92046b79cd6387190ed03d9.r2.dev/bioassay-b00-how-to-write-up-a-bioassay-in-the-practical-examination.mp3" length="14357228" type="audio/mpeg"/>
     </item>
     <item>
       <title>Experimental Pharmacology · 49 · Effects of drugs on the rabbit eye</title>
@@ -905,6 +905,17 @@
       <enclosure url="https://pub-ef148064c92046b79cd6387190ed03d9.r2.dev/experimental-pharmacology-p00-how-to-write-up-an-instrument-or-an-experiment-in-the-practi.mp3" length="2724332" type="audio/mpeg"/>
     </item>
     <item>
+      <title>Chemical Analysis and Graphs · 18 · Acetylcholine on the cat's blood pressure before and after atropine (Dale's experiment)</title>
+      <guid isPermaLink="false">practicals-chemical-analysis-graphs-g13-acetylcholine-on-the-cat-s-blood-pressure-before-and-after-a</guid>
+      <pubDate>Sat, 27 Jun 2026 06:00:00 GMT</pubDate>
+      <itunes:season>4</itunes:season>
+      <itunes:episode>19</itunes:episode>
+      <itunes:duration>0:17:29</itunes:duration>
+      <itunes:subtitle>Practicals · Chemical analysis and graphs · Graphs and charts: cholinergic drugs</itunes:subtitle>
+      <description>Acetylcholine on the cat's blood pressure before and after atropine (Dale's experiment). A narrated model answer from the chemical analysis and graphs book for the RGUHS MD Pharmacology practical examination (Graphs and charts: cholinergic drugs): the chemical tests from pharmacopoeial and published methods, and the chart tracings of the KMCRI set read receptor by receptor from the standard textbooks, with its viva points.</description>
+      <enclosure url="https://pub-ef148064c92046b79cd6387190ed03d9.r2.dev/chemical-analysis-graphs-g13-acetylcholine-on-the-cat-s-blood-pressure-before-and-after-a.mp3" length="8394092" type="audio/mpeg"/>
+    </item>
+    <item>
       <title>Chemical Analysis and Graphs · 17 · Cholinergic agonists on the dog's blood pressure before and after physostigmine (no tracing supplied)</title>
       <guid isPermaLink="false">practicals-chemical-analysis-graphs-g11-cholinergic-agonists-on-the-dog-s-blood-pressure-before-and-</guid>
       <pubDate>Fri, 26 Jun 2026 06:00:00 GMT</pubDate>
@@ -1053,10 +1064,10 @@
       <pubDate>Sat, 13 Jun 2026 06:00:00 GMT</pubDate>
       <itunes:season>4</itunes:season>
       <itunes:episode>5</itunes:episode>
-      <itunes:duration>0:27:53</itunes:duration>
+      <itunes:duration>0:39:35</itunes:duration>
       <itunes:subtitle>Practicals · Chemical analysis and graphs · Chemical analysis: identifying the class of a compound</itunes:subtitle>
       <description>An unknown sample: the order of tests, and the bench demonstration. A narrated model answer from the chemical analysis and graphs book for the RGUHS MD Pharmacology practical examination (Chemical analysis: identifying the class of a compound): the chemical tests from pharmacopoeial and published methods, and the chart tracings of the KMCRI set read receptor by receptor from the standard textbooks, with its viva points.</description>
-      <enclosure url="https://pub-ef148064c92046b79cd6387190ed03d9.r2.dev/chemical-analysis-graphs-a04-an-unknown-sample-the-order-of-tests-and-the-bench-demonstra.mp3" length="13385324" type="audio/mpeg"/>
+      <enclosure url="https://pub-ef148064c92046b79cd6387190ed03d9.r2.dev/chemical-analysis-graphs-a04-an-unknown-sample-the-order-of-tests-and-the-bench-demonstra.mp3" length="19004012" type="audio/mpeg"/>
     </item>
     <item>
       <title>Chemical Analysis and Graphs · 3 · Tests for glycosides</title>
@@ -1064,10 +1075,10 @@
       <pubDate>Fri, 12 Jun 2026 06:00:00 GMT</pubDate>
       <itunes:season>4</itunes:season>
       <itunes:episode>4</itunes:episode>
-      <itunes:duration>0:34:26</itunes:duration>
+      <itunes:duration>0:46:08</itunes:duration>
       <itunes:subtitle>Practicals · Chemical analysis and graphs · Chemical analysis: identifying the class of a compound</itunes:subtitle>
       <description>Tests for glycosides. A narrated model answer from the chemical analysis and graphs book for the RGUHS MD Pharmacology practical examination (Chemical analysis: identifying the class of a compound): the chemical tests from pharmacopoeial and published methods, and the chart tracings of the KMCRI set read receptor by receptor from the standard textbooks, with its viva points.</description>
-      <enclosure url="https://pub-ef148064c92046b79cd6387190ed03d9.r2.dev/chemical-analysis-graphs-a03-tests-for-glycosides.mp3" length="16527020" type="audio/mpeg"/>
+      <enclosure url="https://pub-ef148064c92046b79cd6387190ed03d9.r2.dev/chemical-analysis-graphs-a03-tests-for-glycosides.mp3" length="22146092" type="audio/mpeg"/>
     </item>
     <item>
       <title>Chemical Analysis and Graphs · 2 · Tests for sterols</title>
@@ -1075,10 +1086,10 @@
       <pubDate>Thu, 11 Jun 2026 06:00:00 GMT</pubDate>
       <itunes:season>4</itunes:season>
       <itunes:episode>3</itunes:episode>
-      <itunes:duration>0:25:16</itunes:duration>
+      <itunes:duration>0:30:47</itunes:duration>
       <itunes:subtitle>Practicals · Chemical analysis and graphs · Chemical analysis: identifying the class of a compound</itunes:subtitle>
       <description>Tests for sterols. A narrated model answer from the chemical analysis and graphs book for the RGUHS MD Pharmacology practical examination (Chemical analysis: identifying the class of a compound): the chemical tests from pharmacopoeial and published methods, and the chart tracings of the KMCRI set read receptor by receptor from the standard textbooks, with its viva points.</description>
-      <enclosure url="https://pub-ef148064c92046b79cd6387190ed03d9.r2.dev/chemical-analysis-graphs-a02-tests-for-sterols.mp3" length="12129452" type="audio/mpeg"/>
+      <enclosure url="https://pub-ef148064c92046b79cd6387190ed03d9.r2.dev/chemical-analysis-graphs-a02-tests-for-sterols.mp3" length="14774828" type="audio/mpeg"/>
     </item>
     <item>
       <title>Chemical Analysis and Graphs · 1 · Tests for alkaloids</title>
@@ -1086,10 +1097,10 @@
       <pubDate>Wed, 10 Jun 2026 06:00:00 GMT</pubDate>
       <itunes:season>4</itunes:season>
       <itunes:episode>2</itunes:episode>
-      <itunes:duration>0:28:21</itunes:duration>
+      <itunes:duration>0:37:28</itunes:duration>
       <itunes:subtitle>Practicals · Chemical analysis and graphs · Chemical analysis: identifying the class of a compound</itunes:subtitle>
       <description>Tests for alkaloids. A narrated model answer from the chemical analysis and graphs book for the RGUHS MD Pharmacology practical examination (Chemical analysis: identifying the class of a compound): the chemical tests from pharmacopoeial and published methods, and the chart tracings of the KMCRI set read receptor by receptor from the standard textbooks, with its viva points.</description>
-      <enclosure url="https://pub-ef148064c92046b79cd6387190ed03d9.r2.dev/chemical-analysis-graphs-a01-tests-for-alkaloids.mp3" length="13610924" type="audio/mpeg"/>
+      <enclosure url="https://pub-ef148064c92046b79cd6387190ed03d9.r2.dev/chemical-analysis-graphs-a01-tests-for-alkaloids.mp3" length="17984108" type="audio/mpeg"/>
     </item>
     <item>
       <title>Chemical Analysis and Graphs · Start here · How the chemical-analysis and graphs stations run, and how to write each answer</title>
@@ -1097,10 +1108,10 @@
       <pubDate>Tue, 09 Jun 2026 06:00:00 GMT</pubDate>
       <itunes:season>4</itunes:season>
       <itunes:episode>1</itunes:episode>
-      <itunes:duration>0:08:24</itunes:duration>
+      <itunes:duration>0:08:28</itunes:duration>
       <itunes:subtitle>Practicals · Chemical analysis and graphs · Start here</itunes:subtitle>
       <description>How the chemical-analysis and graphs stations run, and how to write each answer. A narrated model answer from the chemical analysis and graphs book for the RGUHS MD Pharmacology practical examination (Start here): the chemical tests from pharmacopoeial and published methods, and the chart tracings of the KMCRI set read receptor by receptor from the standard textbooks, with its viva points.</description>
-      <enclosure url="https://pub-ef148064c92046b79cd6387190ed03d9.r2.dev/chemical-analysis-graphs-c00-how-the-chemical-analysis-and-graphs-stations-run-and-how-to.mp3" length="4028588" type="audio/mpeg"/>
+      <enclosure url="https://pub-ef148064c92046b79cd6387190ed03d9.r2.dev/chemical-analysis-graphs-c00-how-the-chemical-analysis-and-graphs-stations-run-and-how-to.mp3" length="4061612" type="audio/mpeg"/>
     </item>
     <item>
       <title>Protocol Writing · Q8 · Phase 3 registration studies: new antidiabetic</title>
